@@ -7,9 +7,9 @@
     "end": 1003
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
+    "subtitle": "Fiches Entreprises",
     "start": 1003,
     "end": 1043
   },
@@ -35,37 +35,30 @@
     "end": 1083
   },
   {
-    "title": "ENTREPRISES",
-    "menu": "ENTREPRISES",
-    "subtitle": null,
-    "start": 1083,
-    "end": 1093
-  },
-  {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
-    "start": 1093,
+    "start": 1083,
     "end": 1103
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
+    "subtitle": "Recherche Entreprises",
     "start": 1103,
-    "end": 1123
+    "end": 1113
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
-    "start": 1123,
+    "start": 1113,
     "end": 1133
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
+    "subtitle": "Recherche Entreprises",
     "start": 1133,
     "end": 1143
   },
@@ -84,10 +77,31 @@
     "end": 1173
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
+    "subtitle": "Recherche Entreprises",
     "start": 1173,
+    "end": 1183
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1183,
+    "end": 1203
+  },
+  {
+    "title": "PAIE > Bulletins",
+    "menu": "PAIE",
+    "subtitle": "Bulletins",
+    "start": 1203,
+    "end": 1213
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1213,
     "end": 1223
   },
   {
@@ -119,17 +133,17 @@
     "end": 1263
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
+    "subtitle": "Fiches Entreprises",
     "start": 1263,
-    "end": 1283
+    "end": 1273
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
-    "start": 1283,
+    "start": 1273,
     "end": 1303
   },
   {
@@ -182,10 +196,17 @@
     "end": 1463
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Documents",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Documents",
     "start": 1463,
+    "end": 1553
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 1553,
     "end": 1563
   },
   {
@@ -196,9 +217,9 @@
     "end": 1573
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1573,
     "end": 1593
   },
@@ -210,9 +231,9 @@
     "end": 1603
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1603,
     "end": 1613
   },
@@ -224,10 +245,17 @@
     "end": 1623
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1623,
+    "end": 1633
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1633,
     "end": 1643
   },
   {
@@ -235,13 +263,6 @@
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1643,
-    "end": 1653
-  },
-  {
-    "title": "SALARIES",
-    "menu": "SALARIES",
-    "subtitle": null,
-    "start": 1653,
     "end": 1663
   },
   {
@@ -252,9 +273,9 @@
     "end": 1673
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1673,
     "end": 1683
   },
@@ -273,9 +294,9 @@
     "end": 1703
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1703,
     "end": 1713
   },
@@ -322,9 +343,9 @@
     "end": 1783
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Fiches Salariés",
     "start": 1783,
     "end": 1803
   },
@@ -333,13 +354,6 @@
     "menu": "SALARIES",
     "subtitle": "Recherche Salariés",
     "start": 1803,
-    "end": 1813
-  },
-  {
-    "title": "SALARIES",
-    "menu": "SALARIES",
-    "subtitle": null,
-    "start": 1813,
     "end": 1823
   },
   {
@@ -350,10 +364,17 @@
     "end": 1843
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Recherche Candidats",
     "start": 1843,
+    "end": 1853
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1853,
     "end": 1863
   },
   {
@@ -371,9 +392,9 @@
     "end": 1903
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Recherche Candidats",
     "start": 1903,
     "end": 1913
   },
@@ -403,13 +424,6 @@
     "menu": "CONTRATS",
     "subtitle": "Relevés Heures",
     "start": 1953,
-    "end": 1963
-  },
-  {
-    "title": "CONTRATS",
-    "menu": "CONTRATS",
-    "subtitle": null,
-    "start": 1963,
     "end": 1973
   },
   {
@@ -427,23 +441,16 @@
     "end": 2003
   },
   {
-    "title": "CONTRATS",
-    "menu": "CONTRATS",
-    "subtitle": null,
-    "start": 2003,
-    "end": 2023
-  },
-  {
     "title": "CONTRATS > Liste Contrats",
     "menu": "CONTRATS",
     "subtitle": "Liste Contrats",
-    "start": 2023,
+    "start": 2003,
     "end": 2033
   },
   {
-    "title": "CONTRATS",
+    "title": "CONTRATS > DPAE",
     "menu": "CONTRATS",
-    "subtitle": null,
+    "subtitle": "DPAE",
     "start": 2033,
     "end": 2043
   },
@@ -462,9 +469,9 @@
     "end": 2063
   },
   {
-    "title": "CONTRATS",
+    "title": "CONTRATS > DPAE",
     "menu": "CONTRATS",
-    "subtitle": null,
+    "subtitle": "DPAE",
     "start": 2063,
     "end": 2073
   },
@@ -476,9 +483,9 @@
     "end": 2163
   },
   {
-    "title": "PAIE",
-    "menu": "PAIE",
-    "subtitle": null,
+    "title": "MUTUELLE > Mutuelle",
+    "menu": "MUTUELLE",
+    "subtitle": "Mutuelle",
     "start": 2163,
     "end": 2173
   },
@@ -487,19 +494,26 @@
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 2173,
-    "end": 2183
+    "end": 2203
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
-    "subtitle": null,
-    "start": 2183,
+    "subtitle": "Recherche Entreprises",
+    "start": 2203,
+    "end": 2213
+  },
+  {
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
+    "start": 2213,
     "end": 2233
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Documents",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Documents",
     "start": 2233,
     "end": 2243
   },
@@ -508,20 +522,6 @@
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 2243,
-    "end": 2263
-  },
-  {
-    "title": "SALARIES",
-    "menu": "SALARIES",
-    "subtitle": null,
-    "start": 2263,
-    "end": 2323
-  },
-  {
-    "title": "SALARIES > Fiches Salariés",
-    "menu": "SALARIES",
-    "subtitle": "Fiches Salariés",
-    "start": 2323,
     "end": 2343
   },
   {
@@ -532,23 +532,23 @@
     "end": 2353
   },
   {
-    "title": "PARAMETRES",
-    "menu": "PARAMETRES",
-    "subtitle": null,
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
     "start": 2353,
     "end": 2363
   },
   {
-    "title": "SALARIES",
+    "title": "SALARIES > Documents",
     "menu": "SALARIES",
-    "subtitle": null,
+    "subtitle": "Documents",
     "start": 2363,
     "end": 2393
   },
   {
-    "title": "ADMINISTRATION",
-    "menu": "ADMINISTRATION",
-    "subtitle": null,
+    "title": "FACTURATION > Avoir",
+    "menu": "FACTURATION",
+    "subtitle": "Avoir",
     "start": 2393,
     "end": 2443
   },
@@ -564,13 +564,6 @@
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 2453,
-    "end": 2463
-  },
-  {
-    "title": "ENTREPRISES",
-    "menu": "ENTREPRISES",
-    "subtitle": null,
-    "start": 2463,
     "end": 2473
   },
   {
@@ -578,13 +571,13 @@
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 2473,
-    "end": 2483
+    "end": 2493
   },
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
-    "subtitle": null,
-    "start": 2483,
+    "subtitle": "Contacts",
+    "start": 2493,
     "end": 2503
   },
   {
