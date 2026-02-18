@@ -1,50 +1,597 @@
 [
   {
-    "title": "ENTREPRISES",
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
     "start": 993,
-    "end": 1393,
-    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"ENTREPRISES\" de BESTT, il est possible d'ajouter de nouveaux clients ou prospects et de récupérer leurs informations directement depuis les bases d'infogreffe françaises et européennes. Les informations récupérées incluent l'adresse, le SIRET, le numéro de TVA communautaire, la date de création, le code APE, etc. Il est également possible de gérer les contacts du client, y compris leur organigramme, ainsi que les lieux possibles de travail et les équipements obligatoires. Les contrats passés avec le client sont également stockés dans cette section, permettant une gestion centralisée des informations."
+    "end": 1003
   },
   {
-    "title": "SALARIES",
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1003,
+    "end": 1043
+  },
+  {
+    "title": "ENTREPRISES > Recherche Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Recherche Entreprises",
+    "start": 1043,
+    "end": 1053
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1053,
+    "end": 1063
+  },
+  {
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
+    "start": 1063,
+    "end": 1083
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1083,
+    "end": 1093
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1093,
+    "end": 1103
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1103,
+    "end": 1123
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1123,
+    "end": 1133
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1133,
+    "end": 1143
+  },
+  {
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
+    "start": 1143,
+    "end": 1163
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1163,
+    "end": 1173
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1173,
+    "end": 1223
+  },
+  {
+    "title": "ENTREPRISES > Recherche Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Recherche Entreprises",
+    "start": 1223,
+    "end": 1233
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1233,
+    "end": 1243
+  },
+  {
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
+    "start": 1243,
+    "end": 1253
+  },
+  {
+    "title": "ENTREPRISES > Recherche Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Recherche Entreprises",
+    "start": 1253,
+    "end": 1263
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 1263,
+    "end": 1283
+  },
+  {
+    "title": "ENTREPRISES > Recherche Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Recherche Entreprises",
+    "start": 1283,
+    "end": 1303
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 1303,
+    "end": 1393
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
     "start": 1393,
-    "end": 1623,
-    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"Salariés\" de BESTT, on peut gérer les intérimaires et les candidats. Les candidats qui n'ont jamais travaillé pour l'entreprise disparaissent automatiquement au bout de 18 mois si aucune interaction n'a lieu avec leur fiche, conformément à l'RGPD. On peut scanner et importer des documents tels que des CV, des identités et des cartes de visite, qui sont ensuite analysés et formatés par le logiciel. Les informations extraites peuvent être utilisées pour rechercher des candidats en fonction de critères spécifiques, comme les langues parlées ou les métiers exercés."
+    "end": 1403
   },
   {
-    "title": "PAIE",
-    "start": 1623,
-    "end": 1643,
-    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"PAIE\" de BESTT, la gestion de la carte BTP est automatisée via EDI. Cela signifie que les utilisateurs n'ont plus besoin d'envoyer manuellement des fichiers à l'URSSAF. Le processus est entièrement automatisé et se fait en temps réel, contrat par contrat. Il suffit simplement de renseigner le numéro de la carte BTP de l'intérimaire."
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1403,
+    "end": 1413
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 1413,
+    "end": 1433
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1433,
+    "end": 1443
+  },
+  {
+    "title": "SALARIES > Recherche Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Salariés",
+    "start": 1443,
+    "end": 1453
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1453,
+    "end": 1463
   },
   {
     "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1463,
+    "end": 1563
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1563,
+    "end": 1573
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1573,
+    "end": 1593
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1593,
+    "end": 1603
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1603,
+    "end": 1613
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1613,
+    "end": 1623
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1623,
+    "end": 1643
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
     "start": 1643,
-    "end": 1953,
-    "summary": "Voici un résumé en 3-4 phrases de la section \"SALARIES\" :\n\nDans cette section, on peut consulter les informations relatives à l'intérimaire, telles que ses qualifications, son expérience et ses disponibilités. On peut également gérer les documents de l'intérimaire, tels que sa carte vitale, son identité et son CV, ainsi que les échanges avec lui. Les contrats signés par l'intérimaire sont également accessibles dans cette section. Enfin, on peut envoyer directement des informations à l'intérimaire via MyPixSeed ou d'autres solutions externes."
+    "end": 1653
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1653,
+    "end": 1663
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1663,
+    "end": 1673
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1673,
+    "end": 1683
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1683,
+    "end": 1693
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1693,
+    "end": 1703
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1703,
+    "end": 1713
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1713,
+    "end": 1723
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 1723,
+    "end": 1733
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1733,
+    "end": 1743
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1743,
+    "end": 1753
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1753,
+    "end": 1763
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1763,
+    "end": 1783
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1783,
+    "end": 1803
+  },
+  {
+    "title": "SALARIES > Recherche Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Salariés",
+    "start": 1803,
+    "end": 1813
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1813,
+    "end": 1823
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 1823,
+    "end": 1843
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1843,
+    "end": 1863
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1863,
+    "end": 1893
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 1893,
+    "end": 1903
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 1903,
+    "end": 1913
+  },
+  {
+    "title": "PARAMETRES > Configuration",
+    "menu": "PARAMETRES",
+    "subtitle": "Configuration",
+    "start": 1913,
+    "end": 1923
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 1923,
+    "end": 1933
+  },
+  {
+    "title": "SALARIES > Recherche Candidats",
+    "menu": "SALARIES",
+    "subtitle": "Recherche Candidats",
+    "start": 1933,
+    "end": 1953
+  },
+  {
+    "title": "CONTRATS > Relevés Heures",
+    "menu": "CONTRATS",
+    "subtitle": "Relevés Heures",
+    "start": 1953,
+    "end": 1963
   },
   {
     "title": "CONTRATS",
-    "start": 1953,
-    "end": 2163,
-    "summary": "Voici un résumé du passage de la section \"CONTRATS\" en 3-4 phrases :\n\nDans cette démonstration, l'utilisateur crée un contrat pour une intérimaire nommée Green Dominique chez le groupe Accor. Il définit les détails du contrat, tels que les dates, les horaires et le salaire, et utilise des fonctionnalités telles que la calculatrice de période d'essai et d'aménagement. L'utilisateur peut également ajouter des unités ou des primes soumises ou non soumises, ainsi que des trajets prévus. Une fois le contrat créé, l'utilisateur peut le valider et l'envoyer automatiquement à l'intérimaire et au client via différents canaux de communication."
+    "menu": "CONTRATS",
+    "subtitle": null,
+    "start": 1963,
+    "end": 1973
+  },
+  {
+    "title": "CONTRATS > Liste Contrats",
+    "menu": "CONTRATS",
+    "subtitle": "Liste Contrats",
+    "start": 1973,
+    "end": 1983
+  },
+  {
+    "title": "CONTRATS > Création Contrat",
+    "menu": "CONTRATS",
+    "subtitle": "Création Contrat",
+    "start": 1983,
+    "end": 2003
+  },
+  {
+    "title": "CONTRATS",
+    "menu": "CONTRATS",
+    "subtitle": null,
+    "start": 2003,
+    "end": 2023
+  },
+  {
+    "title": "CONTRATS > Liste Contrats",
+    "menu": "CONTRATS",
+    "subtitle": "Liste Contrats",
+    "start": 2023,
+    "end": 2033
+  },
+  {
+    "title": "CONTRATS",
+    "menu": "CONTRATS",
+    "subtitle": null,
+    "start": 2033,
+    "end": 2043
+  },
+  {
+    "title": "CONTRATS > Création Contrat",
+    "menu": "CONTRATS",
+    "subtitle": "Création Contrat",
+    "start": 2043,
+    "end": 2053
+  },
+  {
+    "title": "CONTRATS > Liste Contrats",
+    "menu": "CONTRATS",
+    "subtitle": "Liste Contrats",
+    "start": 2053,
+    "end": 2063
+  },
+  {
+    "title": "CONTRATS",
+    "menu": "CONTRATS",
+    "subtitle": null,
+    "start": 2063,
+    "end": 2073
+  },
+  {
+    "title": "CONTRATS > Liste Contrats",
+    "menu": "CONTRATS",
+    "subtitle": "Liste Contrats",
+    "start": 2073,
+    "end": 2163
+  },
+  {
+    "title": "PAIE",
+    "menu": "PAIE",
+    "subtitle": null,
+    "start": 2163,
+    "end": 2173
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 2173,
+    "end": 2183
   },
   {
     "title": "ENTREPRISES",
-    "start": 2163,
-    "end": 2223,
-    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"ENTREPRISES\" de BESTT, il est possible d'éditer des factures pour plusieurs clients à la fois. Après avoir sélectionné une date de facturation (dans cet exemple, le 30 septembre), l'utilisateur peut générer toutes les factures et les imprimer ou les envoyer par e-mail aux destinataires concernés. Les factures sont ensuite exportées pour être transmises au comptable, qui n'a plus besoin de saisir les informations. Enfin, il est également possible de procéder au paiement des intérimaires via la plateforme."
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 2183,
+    "end": 2233
   },
   {
     "title": "SALARIES",
-    "start": 2223,
-    "end": 2443,
-    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"SALARIES\" de BESTT, il est possible de gérer les payes des intérimaires, y compris le prélèvement à la source et la mutuelle. Les payes peuvent être générées automatiquement après avoir saisi les heures travaillées et les contrats. Il est également possible d'envoyer les bulletins de paie par mail de manière cryptée pour respecter l'RGPD, ainsi que de créer un fichier de virement au format CEPA pour le déposer sur l'interface web de la banque. Enfin, BESTT permet de générer des statistiques et de contrôler les erreurs avant d'envoyer les payes et les factures."
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 2233,
+    "end": 2243
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 2243,
+    "end": 2263
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 2263,
+    "end": 2323
+  },
+  {
+    "title": "SALARIES > Fiches Salariés",
+    "menu": "SALARIES",
+    "subtitle": "Fiches Salariés",
+    "start": 2323,
+    "end": 2343
+  },
+  {
+    "title": "SALARIES > Documents",
+    "menu": "SALARIES",
+    "subtitle": "Documents",
+    "start": 2343,
+    "end": 2353
+  },
+  {
+    "title": "PARAMETRES",
+    "menu": "PARAMETRES",
+    "subtitle": null,
+    "start": 2353,
+    "end": 2363
+  },
+  {
+    "title": "SALARIES",
+    "menu": "SALARIES",
+    "subtitle": null,
+    "start": 2363,
+    "end": 2393
+  },
+  {
+    "title": "ADMINISTRATION",
+    "menu": "ADMINISTRATION",
+    "subtitle": null,
+    "start": 2393,
+    "end": 2443
+  },
+  {
+    "title": "ENTREPRISES > Contacts",
+    "menu": "ENTREPRISES",
+    "subtitle": "Contacts",
+    "start": 2443,
+    "end": 2453
+  },
+  {
+    "title": "ENTREPRISES > Recherche Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Recherche Entreprises",
+    "start": 2453,
+    "end": 2463
   },
   {
     "title": "ENTREPRISES",
-    "start": 2443,
-    "end": 2610,
-    "summary": "Voici un résumé du passage de la section \"ENTREPRISES\" :\n\nDans cette section, il est possible de gérer les paiements des clients et de relancer automatiquement ceux qui ont des factures impayées. Le logiciel permet également de consulter l'historique des paiements et de retrouver facilement les informations relatives à un client. De plus, la fonctionnalité de relance automatique envoie un mail et un SMS au client avec les factures impayées et le solde à payer, ainsi que les coordonnées de l'agence."
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 2463,
+    "end": 2473
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 2473,
+    "end": 2483
+  },
+  {
+    "title": "ENTREPRISES",
+    "menu": "ENTREPRISES",
+    "subtitle": null,
+    "start": 2483,
+    "end": 2503
+  },
+  {
+    "title": "ENTREPRISES > Fiches Entreprises",
+    "menu": "ENTREPRISES",
+    "subtitle": "Fiches Entreprises",
+    "start": 2503,
+    "end": 2610
   }
 ]
