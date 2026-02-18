@@ -1060,18 +1060,19 @@ def main():
 
     with col2:
         st.subheader("Chapitres")
-        for ch in chapters:
-            c1, c2 = st.columns([5, 1])
-            with c1:
-                st.markdown(f'''<div style="padding:5px 0;">
-                    <span class="timestamp-badge">{format_time(ch['start'])}</span>
-                    <span style="margin-left:5px;">{ch['title']}</span>
-                </div>''', unsafe_allow_html=True)
-            with c2:
-                if st.button("▶", key=f"c{ch['start']}"):
-                    st.session_state.time = int(ch['start'])
-                    st.session_state.selected_chapter = ch
-                    st.rerun()
+        with st.container(height=400):
+            for ch in chapters:
+                c1, c2 = st.columns([5, 1])
+                with c1:
+                    st.markdown(f'''<div style="padding:3px 0;">
+                        <span class="timestamp-badge">{format_time(ch['start'])}</span>
+                        <span style="margin-left:5px;font-size:0.9em;">{ch['title']}</span>
+                    </div>''', unsafe_allow_html=True)
+                with c2:
+                    if st.button("▶", key=f"c{ch['start']}"):
+                        st.session_state.time = int(ch['start'])
+                        st.session_state.selected_chapter = ch
+                        st.rerun()
 
     # Afficher résumé et transcription en pleine largeur
     if st.session_state.selected_chapter:
