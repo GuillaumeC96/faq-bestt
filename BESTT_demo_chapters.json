@@ -4,587 +4,671 @@
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 993,
-    "end": 1003
+    "end": 1003,
+    "summary": "La section \"ENTREPRISES > Contacts\" du logiciel BESTT permet de gérer tous les éléments relatifs aux clients et prospects, notamment la démarche de nouveaux clients. Cette fonctionnalité centralise les informations pour une gestion efficace des relations avec les entreprises clientes ou potentielles."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1003,
-    "end": 1043
+    "end": 1043,
+    "summary": "La création d'une nouvelle fiche entreprise dans BESTT permet de rechercher automatiquement des informations sur l'entreprise via des bases de données Infogreffe françaises et européennes. Cette fonctionnalité simplifie l'enregistrement de nouveaux clients ou prospects en récupérant directement les informations disponibles. Cela facilite la gestion des entreprises clientes pour les agences de travail temporaire."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1043,
-    "end": 1053
+    "end": 1053,
+    "summary": "La fonctionnalité \"Recherche Entreprises\" du logiciel BESTT permet de récupérer directement des informations sur les entreprises via l'infogreffe. Cela inclut notamment la récupération automatique de l'adresse d'une entreprise. Cette fonctionnalité facilite la mise à jour de la base de données des agences de travail temporaire."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1053,
-    "end": 1063
+    "end": 1063,
+    "summary": "La section \"Fiches Entreprises\" du logiciel BESTT permet de stocker et de gérer des informations clés sur les entreprises clientes, notamment leur SIRET, numéro de TVA communautaire, date de création et code APE. Ces informations sont essentielles pour une gestion efficace des relations avec les clients."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 1063,
-    "end": 1083
+    "end": 1083,
+    "summary": "La section \"ENTREPRISES > Contacts\" du logiciel BESTT permet d'éviter les erreurs de saisie en pré-remplissant des informations telles que le numéro de SIRET. Elle offre également la possibilité de consulter l'organigramme d'un client et d'accéder directement aux fiches détaillées de ses contacts, y compris leur photo."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1083,
-    "end": 1103
+    "end": 1103,
+    "summary": "La fiche Entreprise du logiciel BESTT affiche des détails tels que le directeur d'opération et les indications de signature électronique via B-Sign ou Pixeed. Ces informations sont accessibles dans la section ENTREPRISES > Fiches Entreprises. Les utilisateurs peuvent ainsi gérer efficacement les données des entreprises clientes."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1103,
-    "end": 1113
+    "end": 1113,
+    "summary": "La fonctionnalité \"Recherche Entreprises\" permet d'attribuer des autorisations spécifiques à certaines entreprises pour recevoir des contrats et des factures. Les utilisateurs peuvent configurer les paramètres de réception pour chaque entreprise en fonction de leurs besoins. Cela facilite la gestion des flux de documents entre l'agence de travail temporaire et ses partenaires commerciaux."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1113,
-    "end": 1133
+    "end": 1133,
+    "summary": "La fiche Entreprise permet de configurer des rappels de factures impayées par mail pour inciter au paiement. Les lieux possibles du client peuvent être définis ainsi que les rubriques par défaut pour pré-paramétrer les contrats. Cela facilite la gestion des informations spécifiques à chaque entreprise cliente."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1133,
-    "end": 1143
+    "end": 1143,
+    "summary": "La fonctionnalité \"Recherche Entreprises\" du logiciel BESTT permet d'éviter les erreurs de saisie et les oublis en automatisant la collecte d'informations sur les entreprises clientes. Elle prend notamment en compte les primes, rubriques diverses et équipements obligatoires tels que casque, chaussures et gants. Cela facilite la gestion des données et réduit les risques d'erreurs manuelles."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 1143,
-    "end": 1163
+    "end": 1163,
+    "summary": "Dans la section \"ENTREPRISES > Contacts\" du logiciel BESTT, il est possible d'intégrer des équipements de protection individuelle (EPI) dans les contrats pour les clients du BTP. Les EPI peuvent être retirés du contrat si le client ne les nécessite pas. Cette fonctionnalité permet également de spécifier les profils recherchés par chaque client."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1163,
-    "end": 1173
+    "end": 1173,
+    "summary": "La section \"Fiches Entreprises\" du logiciel BESTT permet de gérer efficacement les contrats et les missions en finissant par identifier d'autres clients potentiels intéressés. Cette fonctionnalité facilite la gestion des transitions entre les missions et optimise l'utilisation des ressources. Elle offre une visibilité claire sur les opportunités de réaffectation des contrats arrivant à échéance."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1173,
-    "end": 1183
+    "end": 1183,
+    "summary": "La section \"Recherche Entreprises\" du logiciel BESTT permet d'accéder à tous les contrats passés avec un client spécifique. Il est possible de consulter et de réimprimer ces contrats directement depuis cette section. Cela facilite la gestion des informations relatives aux clients et aux contrats."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1183,
-    "end": 1203
+    "end": 1203,
+    "summary": "La section \"Fiches Entreprises\" du logiciel BESTT permet d'accéder automatiquement à divers éléments tels que les contrats scannés et signés par les clients, ainsi qu'aux factures clientes générées. Les documents sont directement accessibles en cliquant sur un petit œil pour visualiser le contrat ou en consultant la liste des factures. Cela facilite la gestion et le suivi des informations relatives aux entreprises clientes."
   },
   {
     "title": "PAIE > Bulletins",
     "menu": "PAIE",
     "subtitle": "Bulletins",
     "start": 1203,
-    "end": 1213
+    "end": 1213,
+    "summary": "Le logiciel BESTT permet de paramétrer plusieurs éléments pour la facturation des missions d'intérim, notamment l'adresse de facturation et le regroupement. La fonctionnalité de regroupement offre la possibilité de créer des factures personnalisées selon les besoins spécifiques de chaque client ou mission. Cela permet une grande flexibilité dans la gestion des factures pour les agences d'intérim."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1213,
-    "end": 1223
+    "end": 1223,
+    "summary": "La section \"Fiches Entreprises\" du logiciel BESTT permet de gérer des demandes spécifiques de facturation pour chaque client, telles que la génération de sous-totaux par intérimaire et de factures séparées par semaine. Cette fonctionnalité offre une grande flexibilité pour répondre aux besoins variés des clients. Les utilisateurs peuvent ainsi personnaliser les factures en fonction des exigences spécifiques de chaque entreprise."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1223,
-    "end": 1233
+    "end": 1233,
+    "summary": "Le logiciel BESTT permet de générer des factures personnalisées pour chaque client, incluant diverses rubriques telles que coefficients soumis, semaines relevées et régions. Les factures peuvent être détaillées avec des sous-totaux pour une meilleure visibilité. Chaque entreprise peut ainsi bénéficier de factures adaptées à ses besoins spécifiques."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1233,
-    "end": 1243
+    "end": 1243,
+    "summary": "La section \"ENTREPRISES > Fiches Entreprises\" du logiciel BESTT permet de gérer les informations des clients et de leurs documents associés. Tous les documents imaginables pour un client peuvent être stockés dans cette section. Cela offre une centralisation pratique des données client pour les agences de travail temporaire."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 1243,
-    "end": 1253
+    "end": 1253,
+    "summary": "La section ENTREPRISES > Contacts du logiciel BESTT permet de stocker et de retrouver facilement des documents importants tels que la charte télétravail, les propositions commerciales ou les informations sur la sécurité. Ces documents sont ainsi accessibles en un clic, évitant les pertes ou les recherches fastidieuses. Cela facilite la gestion des informations relatives aux entreprises clientes."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1253,
-    "end": 1263
+    "end": 1263,
+    "summary": "La section \"Recherche Entreprises\" du logiciel BESTT permet d'accéder aux informations relatives à une entreprise cliente, telles que le plan d'accès et le règlement intérieur. Ces éléments peuvent être facilement envoyés à l'intérimaire qui va travailler sur place en seulement deux clics. Cela facilite la transmission des informations nécessaires pour un intérim efficace."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1263,
-    "end": 1273
+    "end": 1273,
+    "summary": "La section \"Fiches Entreprises\" du logiciel BESTT permet un suivi complet des clients, y compris l'historique des échanges par mail et message. Cela facilite la gestion des relations avec les entreprises clientes. Les informations sont centralisées et accessibles en un seul endroit."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 1273,
-    "end": 1303
+    "end": 1303,
+    "summary": "Dans la section \"ENTREPRISES > Recherche Entreprises\" du logiciel BESTT, il est possible de consulter les détails des contrats envoyés aux clients, y compris la date d'envoi et les éléments associés. Cette fonctionnalité permet également de suivre les factures et les créances, notamment en cas de litige avec un client qui prétend ne pas avoir reçu une facture. Les liens de connexion vers des solutions externes comme Pixeed sont également accessibles depuis cette section."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 1303,
-    "end": 1393
+    "end": 1393,
+    "summary": "Le logiciel BESTT permet une connexion avec l'ensemble des éléments Pixeed, facilitant la gestion des clients et des intérimaires. Il offre une automatisation fluide qui permet d'économiser du temps et de l'argent, sans surcoût pour l'envoi de documents à Pixeed. Cette compatibilité est gratuite et ne nécessite pas de facturation complémentaire."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1393,
-    "end": 1403
+    "end": 1403,
+    "summary": "Aucune fonctionnalité ou information pratique n'est présentée dans cette section, il s'agit d'une discussion commerciale sur les tarifs et les remises du logiciel BESTT. La section SALARIES > Fiches Salariés n'a pas encore été abordée."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1403,
-    "end": 1413
+    "end": 1413,
+    "summary": "La section SALARIES > Documents du logiciel BESTT permet d'éviter des frais superflus et offre une gestion efficace des documents liés aux salariés. Cette fonctionnalité est bénéfique pour toutes les parties prenantes. Elle contribue à améliorer la productivité et l'efficacité financière de l'agence d'intérim."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1413,
-    "end": 1433
+    "end": 1433,
+    "summary": "La fiche salariés suit la même logique que la fiche entreprise, présentant une liste des salariés avec des informations clés. Les utilisateurs peuvent ainsi gérer efficacement les données de leurs employés temporaires. Cette section permet un suivi personnalisé et organisé des salariés au sein de l'agence d'intérim."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1433,
-    "end": 1443
+    "end": 1443,
+    "summary": "Dans la section \"SALARIES > Documents\" du logiciel BESTT, les intérimaires et candidats sont distingués par des couleurs : en noir pour les intérimaires et en gris pour les candidats qui n'ont jamais travaillé pour l'agence. Cette distinction permet une visualisation rapide de leur statut."
   },
   {
     "title": "SALARIES > Recherche Salariés",
     "menu": "SALARIES",
     "subtitle": "Recherche Salariés",
     "start": 1443,
-    "end": 1453
+    "end": 1453,
+    "summary": "La fonction \"Recherche Salariés\" du logiciel BESTT permet de gérer les données des salariés en intérim. Les données d'un salarié sont automatiquement supprimées au bout de 18 mois si aucune interaction n'a lieu avec sa fiche, conformément à l'RGPD. Une fonctionnalité de rappel est également disponible pour envoyer un message aux intérimaires."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1453,
-    "end": 1463
+    "end": 1463,
+    "summary": "La fonctionnalité \"Recherche Candidats\" permet de relancer des candidats après 18 mois, conformément aux obligations de l'RGPD. Cette fonctionnalité facilite la recherche et la reprise de contact avec les intérimaires potentiels. Elle aide à gérer efficacement la base de données des candidats pour les agences de travail temporaire."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1463,
-    "end": 1553
+    "end": 1553,
+    "summary": "Le logiciel BESTT permet d'importer et de gérer les documents des salariés, tels que CV, pièces d'identité et cartes de visite, en utilisant un système de reconnaissance automatique pour extraire les informations clés. Les documents peuvent être anonymisés pour une transmission sécurisée aux clients. Le logiciel permet également de rechercher des candidats en fonction de leurs compétences et expériences enregistrées dans leur CV."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1553,
-    "end": 1563
+    "end": 1563,
+    "summary": "La fiche salarié du logiciel BESTT permet de récupérer automatiquement les informations de langue d'un candidat à partir de son CV. Cependant, le niveau de maîtrise des langues n'est pas récupéré, nécessitant une vérification manuelle. Cette fonctionnalité permet ainsi de centraliser les informations sur les compétences linguistiques des salariés."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1563,
-    "end": 1573
+    "end": 1573,
+    "summary": "La section \"SALARIES > Documents\" permet aux recruteurs de valider les éléments des CV des candidats, notamment la maîtrise de la langue anglaise. Cette fonctionnalité est utile pour éviter les erreurs ou les exagérations dans les informations fournies par les candidats. Les recruteurs peuvent ainsi vérifier l'exactitude des informations avant de prendre une décision d'embauche."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1573,
-    "end": 1593
+    "end": 1593,
+    "summary": "L'onglet CV des fiches salariés permet de renseigner les prétentions salariales, les expériences professionnelles et les compétences linguistiques d'un candidat. Il est également possible d'enregistrer les permis d'habilitation avec leurs dates de validité, ce qui génère une alerte lors de la création d'un contrat. Ces informations sont visibles dans la partie \"Validité des documents\" à droite de l'écran."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1593,
-    "end": 1603
+    "end": 1603,
+    "summary": "Le logiciel BESTT permet de gérer les documents des salariés, tels que cassettes, habilitations ou permis poids lourd. Une alerte est générée lors de la création d'un contrat pour l'intérim si ces documents sont requis. Cela facilite la gestion des exigences administratives liées à l'embauche temporaire."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1603,
-    "end": 1613
+    "end": 1613,
+    "summary": "La gestion des candidatures électroniques vers les clients est une fonctionnalité clé du logiciel BESTT. Elle permet d'envoyer facilement les candidatures aux clients et de mettre à jour les informations en temps réel pour éviter les pertes de temps. Cela simplifie le processus de gestion des candidatures pour les agences de travail temporaire."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1613,
-    "end": 1623
+    "end": 1623,
+    "summary": "Cette section du logiciel BESTT permet de gérer efficacement les documents des salariés, économisant ainsi un temps précieux pour les agences de travail temporaire. Cela leur permet d'être plus compétitives et réactives sur le marché. La rapidité est clé dans ce domaine pour rester en tête de la concurrence."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1623,
-    "end": 1633
+    "end": 1633,
+    "summary": "La fiche salariés du logiciel BESTT permet de gérer automatiquement la carte BTP en EDI, facilitant ainsi la gestion administrative des salariés dans l'agence d'intérim. Cette fonctionnalité simplifie les tâches répétitives et assure une mise à jour en temps réel des informations."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1633,
-    "end": 1643
+    "end": 1643,
+    "summary": "Le logiciel BESTT permet d'automatiser l'envoi de documents aux intérimaires, contrat après contrat, en temps réel. Il n'est plus nécessaire d'envoyer des fichiers manuellement. Le numéro de la carte BTP de l'intérimaire peut être indiqué directement dans le logiciel."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1643,
-    "end": 1663
+    "end": 1663,
+    "summary": "La fonction \"Recherche Candidats\" du logiciel BESTT permet d'accéder à des informations détaillées sur les candidats, notamment leur diplôme et sa date d'obtention et de péremption. Des onglets supplémentaires sont disponibles pour gérer les aspects liés au handicap et à l'insertion, conformément à la législation applicable aux EATT et EETTI. Ces informations sont accessibles à tous les utilisateurs du logiciel."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1663,
-    "end": 1673
+    "end": 1673,
+    "summary": "La section \"SALARIES > Documents\" du logiciel BESTT permet de renseigner des informations spécifiques sur les salariés, notamment ceux en situation de RQTH (Reconnaissance de la Qualité de Travailleur Handicapé) ou en insertion. Cette fonctionnalité peut aider les agences à gérer ces situations particulières et à fournir des informations utiles pour une meilleure gestion des ressources humaines."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1673,
-    "end": 1683
+    "end": 1683,
+    "summary": "La fiche salarié du logiciel BESTT permet d'ajouter des notes et des mots clés pour chaque employé. Ces informations peuvent être utilisées pour faciliter la recherche et la gestion des profils. Des fonctionnalités similaires sont également disponibles pour les entreprises clientes."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1683,
-    "end": 1693
+    "end": 1693,
+    "summary": "Dans la section \"SALARIES > Documents\" du logiciel BESTT, il est possible d'associer des documents aux intérimaires pour décrire leurs compétences et savoir-faire spécifiques. Ces documents peuvent inclure des informations sur les marques de matériel particulier utilisées par l'intérimaire."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1693,
-    "end": 1703
+    "end": 1703,
+    "summary": "Dans la section SALARIES > Recherche Candidats du logiciel BESTT, il est possible d'effectuer des recherches de candidats en utilisant des mots clés spécifiques à leur domaine d'expertise. Par exemple, pour un client fournissant des pilotes de ligne, les mots clés peuvent inclure le type d'avions qu'ils sont qualifiés pour piloter. Cette fonctionnalité permet une recherche ciblée et efficace de candidats possédant les compétences requises pour un poste spécifique."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1703,
-    "end": 1713
+    "end": 1713,
+    "summary": "La section \"Fiches Salariés\" permet de gérer les informations relatives aux pilotes agréés, tandis que la partie \"Fiches Entreprises\" contient les informations sur les avions de la compagnie. Ces deux sections peuvent être liées pour faire correspondre les pilotes avec les avions qu'ils sont autorisés à piloter. Cela permet une gestion efficace des compétences et des affectations des pilotes."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1713,
-    "end": 1723
+    "end": 1723,
+    "summary": "La section \"SALARIES > Documents\" du logiciel BESTT permet de gérer les équipements de protection individuelle (EPI) des intérimaires. Il est possible de cocher si l'intérimaire possède personnellement les EPI ou si l'agence les lui confie, avec une date associée. Cette fonctionnalité aide à suivre et à organiser les équipements nécessaires pour les missions temporaires."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1723,
-    "end": 1733
+    "end": 1733,
+    "summary": "La fiche salarié permet de gérer les équipements confiés aux salariés, comme les chaussures de sécurité, et de suivre la date à laquelle ils ont été attribués pour éviter des demandes excessives. Cela aide à optimiser la gestion du matériel et à réduire les coûts liés à l'équipement des chantiers."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1733,
-    "end": 1743
+    "end": 1743,
+    "summary": "La section \"SALARIES > Documents\" du logiciel BESTT permet de stocker et de consulter l'ensemble des documents relatifs à un intérimaire, tels que la carte vitale, l'identité et le CV. Tous les éléments pertinents sont regroupés en un seul endroit pour une gestion efficace."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1743,
-    "end": 1753
+    "end": 1753,
+    "summary": "La fonctionnalité \"Recherche Candidats\" du logiciel BESTT permet d'envoyer des CV de candidats aux clients qui en font la demande. Il est également possible d'anonymiser les CV avant de les transmettre pour préserver la confidentialité des informations personnelles."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1753,
-    "end": 1763
+    "end": 1763,
+    "summary": "La section \"SALARIES > Documents\" du logiciel BESTT permet d'accéder à l'agenda d'un intérimaire, affichant ses disponibilités et éventuellement les contrats en cours. Cette fonctionnalité est pratique pour gérer les plannings des intérimaires. Les informations relatives aux contrats sont également accessibles depuis cette section."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1763,
-    "end": 1783
+    "end": 1783,
+    "summary": "La fonction \"Recherche Candidats\" permet d'accéder aux contrats signés par les intérimaires et de les consulter en détail en cliquant sur un petit œil. Cela permet de retrouver facilement les informations relatives à chaque contrat. Les éléments du contrat peuvent être ressortis et envoyés si nécessaire."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1783,
-    "end": 1803
+    "end": 1803,
+    "summary": "La fiche salarié du logiciel BESTT permet d'envoyer des éléments directement à l'intérimaire via API et de gérer le CET (Compte Epargne Temps). Elle centralise également les échanges avec l'intérimaire, enregistrant automatiquement les messages envoyés. Cela facilite la gestion et le suivi des informations relatives aux salariés intérimaires."
   },
   {
     "title": "SALARIES > Recherche Salariés",
     "menu": "SALARIES",
     "subtitle": "Recherche Salariés",
     "start": 1803,
-    "end": 1823
+    "end": 1823,
+    "summary": "La fonctionnalité \"Recherche Salariés\" permet d'accéder à des solutions externes telles que MyPixSeed et des solutions internes pour communiquer avec les intérimaires. Les feuilles de paie sont automatiquement générées et transmises dans le coffre-fort MyPixSeed des intérimaires. Cela simplifie la gestion des relations avec les salariés et leur permet d'accéder à leurs informations personnelles en ligne."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1823,
-    "end": 1843
+    "end": 1843,
+    "summary": "La section \"Fiches Salariés\" permet aux utilisateurs de retrouver facilement des éléments spécifiques liés à un salarié. Il est possible de rechercher un salarié en tapant son nom ou une partie de celui-ci pour accéder directement à sa fiche. Cette fonctionnalité facilite la gestion des opérations et des commandes pour les agences de travail temporaire."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1843,
-    "end": 1853
+    "end": 1853,
+    "summary": "La fonction \"Recherche Candidats\" permet de filtrer les candidats en fonction de critères tels que le niveau d'études minimum, la maîtrise d'une langue et le statut de personne en situation de handicap. Il est possible d'inclure ou d'exclure ces derniers des résultats de recherche. Les autres critères ne peuvent pas être utilisés pour exclure spécifiquement les personnes en situation de handicap."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1853,
-    "end": 1863
+    "end": 1863,
+    "summary": "La section \"SALARIES > Documents\" permet d'identifier des candidats potentiels pour un poste en intérim en fonction de leur disponibilité et de leurs expériences passées auprès d'un client. Les utilisateurs peuvent ainsi sélectionner des personnes ayant déjà travaillé avec succès pour un client ou ayant une bonne relation avec l'agence. Cette fonctionnalité facilite la recherche de candidats adaptés à un poste spécifique."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1863,
-    "end": 1893
+    "end": 1893,
+    "summary": "La fonctionnalité \"Recherche Candidats\" permet d'identifier des candidats adaptés à un poste en fonction de critères tels que leur localisation géographique et leurs expériences passées. Les résultats incluent une liste de candidats potentiels, ainsi que la possibilité de consulter leur CV si disponible. Il est également possible d'envoyer directement des messages ou des emails aux candidats sélectionnés."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 1893,
-    "end": 1903
+    "end": 1903,
+    "summary": "Dans la section \"SALARIES > Documents\" du logiciel BESTT, il est possible de générer des messages personnalisés en récupérant automatiquement le prénom de l'intérimaire. Cela facilite la création de documents et de communications ciblées pour les salariés."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1903,
-    "end": 1913
+    "end": 1913,
+    "summary": "La fonction \"Recherche Candidats\" permet d'effectuer une recherche personnalisée parmi les candidats enregistrés dans la base de données du logiciel BESTT. Cette fonctionnalité semble inclure des options de personnalisation pour afficher des messages de salutation individualisés pour chaque candidat, tels que \"bonjour [prénom]\"."
   },
   {
     "title": "PARAMETRES > Configuration",
     "menu": "PARAMETRES",
     "subtitle": "Configuration",
     "start": 1913,
-    "end": 1923
+    "end": 1923,
+    "summary": "Le logiciel BESTT permet d'envoyer des rappels aux intérimaires par SMS en fonction de leur fiche personnelle, notamment si ceux-ci n'ont pas accès à l'application du logiciel. Cette fonctionnalité facilite la communication avec les intérimaires pour les rappeler à propos de leurs missions ou disponibilités."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 1923,
-    "end": 1933
+    "end": 1933,
+    "summary": "La fiche Salariés du logiciel BESTT permet d'envoyer des notifications directes aux salariés via leur téléphone mobile si ils ont téléchargé l'application. Ces notifications sont gratuites et peuvent être utilisées pour communiquer efficacement avec les salariés. Cela facilite la communication entre l'agence de travail temporaire et ses salariés."
   },
   {
     "title": "SALARIES > Recherche Candidats",
     "menu": "SALARIES",
     "subtitle": "Recherche Candidats",
     "start": 1933,
-    "end": 1953
+    "end": 1953,
+    "summary": "La recherche de candidats intérimaires peut être effectuée efficacement pour trouver des profils adaptés aux besoins de l'agence. Une fois un candidat sélectionné, il est possible d'accéder directement à la partie contrat du logiciel BESTT. Il est alors possible de créer un contrat personnalisé pour le candidat retenu."
   },
   {
     "title": "CONTRATS > Relevés Heures",
     "menu": "CONTRATS",
     "subtitle": "Relevés Heures",
     "start": 1953,
-    "end": 1973
+    "end": 1973,
+    "summary": "La fonctionnalité \"Relevés Heures\" du logiciel BESTT permet d'affecter une intérimaire à un poste spécifique chez un client, en définissant son rôle et ses responsabilités. L'utilisateur peut ainsi gérer les heures travaillées par l'intérimaire et suivre ses activités. Cette fonctionnalité facilite la gestion des contrats et des missions pour les agences de travail temporaire."
   },
   {
     "title": "CONTRATS > Liste Contrats",
     "menu": "CONTRATS",
     "subtitle": "Liste Contrats",
     "start": 1973,
-    "end": 1983
+    "end": 1983,
+    "summary": "Dans la section \"Liste Contrats\" du logiciel BESTT, il est possible d'ajouter des justificatifs et des informations supplémentaires pour chaque contrat, telles que les cartiers du poste ou les dates du contrat. Ces informations peuvent être personnalisées en fonction des besoins de l'agence. Les données peuvent également être saisies automatiquement, comme dans le cas d'un illustreur de boissons chez Accor."
   },
   {
     "title": "CONTRATS > Création Contrat",
     "menu": "CONTRATS",
     "subtitle": "Création Contrat",
     "start": 1983,
-    "end": 2003
+    "end": 2003,
+    "summary": "La création d'un contrat dans BESTT permet de définir une période spécifique pour la mission temporaire. Le logiciel calcule automatiquement la période d'essai et les aménagements nécessaires. Les horaires de la mission peuvent également être précisés lors de la création du contrat."
   },
   {
     "title": "CONTRATS > Liste Contrats",
     "menu": "CONTRATS",
     "subtitle": "Liste Contrats",
     "start": 2003,
-    "end": 2033
+    "end": 2033,
+    "summary": "La section \"Liste Contrats\" du logiciel BESTT permet d'éditer facilement les horaires de mission en utilisant la souris pour dessiner directement sur un calendrier. Les informations sont automatiquement mises à jour et il est possible d'ajouter des unités, primes soumises ou non soumises. Le système prend également en compte les trajets prévus chez le client."
   },
   {
     "title": "CONTRATS > DPAE",
     "menu": "CONTRATS",
     "subtitle": "DPAE",
     "start": 2033,
-    "end": 2043
+    "end": 2043,
+    "summary": "Le logiciel BESTT permet de paramétrer automatiquement des contrats en fonction de critères spécifiques tels que le nombre de jours travaillés. Les paramètres peuvent être personnalisés pour répondre à différents besoins, comme par exemple la prise en compte d'un minimum d'heures travaillées. Ces options offrent une grande flexibilité dans la gestion des contrats."
   },
   {
     "title": "CONTRATS > Création Contrat",
     "menu": "CONTRATS",
     "subtitle": "Création Contrat",
     "start": 2043,
-    "end": 2053
+    "end": 2053,
+    "summary": "La création d'un contrat dans BESTT permet une validation automatique et immédiate. Une fois validé, le logiciel propose de transmettre la DPAE (Déclaration Préalable à l'Embauche). La DPAE est alors générée et transmise directement depuis le logiciel."
   },
   {
     "title": "CONTRATS > Liste Contrats",
     "menu": "CONTRATS",
     "subtitle": "Liste Contrats",
     "start": 2053,
-    "end": 2063
+    "end": 2063,
+    "summary": "La section \"Liste Contrats\" du logiciel BESTT permet aux utilisateurs de gérer efficacement leurs contrats et d'accéder à l'étape suivante, qui est l'envoi des contrats aux intérimaires. Cette fonctionnalité facilite la gestion administrative et le suivi des contrats."
   },
   {
     "title": "CONTRATS > DPAE",
     "menu": "CONTRATS",
     "subtitle": "DPAE",
     "start": 2063,
-    "end": 2073
+    "end": 2073,
+    "summary": "Le logiciel BESTT permet d'envoyer automatiquement des contrats aux intérimaires et clients après avoir sélectionné les offres. Cette fonctionnalité utilise les informations contenues dans la fiche intérimaire et la fiche client pour générer les contrats. Un simple clic sur \"go\" suffit pour lancer l'envoi des contrats."
   },
   {
     "title": "CONTRATS > Liste Contrats",
     "menu": "CONTRATS",
     "subtitle": "Liste Contrats",
     "start": 2073,
-    "end": 2163
+    "end": 2163,
+    "summary": "Le logiciel BESTT permet d'envoyer automatiquement des contrats aux intérimaires par mail ou via différentes plateformes de signature électronique. Les heures travaillées peuvent être rentrées manuellement ou récupérées via Pixeed ou l'application, et le système calcule automatiquement les éléments liés aux heures supplémentaires, avantages en nature, etc. Une fois les relevés d'heures validés, l'utilisateur peut directement passer à la paie sans avoir à naviguer entre différents fichiers."
   },
   {
     "title": "MUTUELLE > Mutuelle",
     "menu": "MUTUELLE",
     "subtitle": "Mutuelle",
     "start": 2163,
-    "end": 2173
+    "end": 2173,
+    "summary": "La fonctionnalité \"Mutuelle\" du logiciel BESTT permet de générer des factures en masse pour les mutuelles. L'utilisateur peut définir la date de facturation pour un ensemble de factures. Dans cet exemple, l'orateur configure la date de facturation au 30 septembre."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 2173,
-    "end": 2203
+    "end": 2203,
+    "summary": "Le logiciel BESTT permet d'éditer des factures pour les entreprises clientes à une date choisie. Une fois éditées, les factures peuvent être imprimées et envoyées automatiquement par mail aux destinataires concernés. Enfin, les factures sont prêtes à être transmises au comptable pour la suite du processus."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 2203,
-    "end": 2213
+    "end": 2213,
+    "summary": "La fonctionnalité \"Recherche Entreprises\" du logiciel BESTT permet une gestion fluide des données, éliminant ainsi la nécessité de saisie manuelle pour le comptable. Les informations sont directement reliées et mises à jour en temps réel. Cela simplifie les tâches administratives et réduit les erreurs potentielles."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 2213,
-    "end": 2233
+    "end": 2233,
+    "summary": "Le logiciel BESTT permet de gérer les factures et les payes des intérimaires. Il est possible de planifier les dates de paiement pour les intérimaires, par exemple le 7 octobre pour les payes du mois de septembre. Cette fonctionnalité facilite la gestion financière des agences de travail temporaire."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 2233,
-    "end": 2243
+    "end": 2243,
+    "summary": "Le logiciel BESTT permet de gérer les payes des salariés en récupérant automatiquement les éléments nécessaires pour le prélèvement à la source. Il interroge également l'intérimaire santé pour obtenir les informations relatives à la mutuelle et la prévoyance. Cela facilite ainsi la génération des documents de paie."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 2243,
-    "end": 2343
+    "end": 2343,
+    "summary": "La fiche salarié du logiciel BESTT permet d'accéder à tous les éléments nécessaires pour calculer et gérer la paie des intérimaires, notamment les charges, prélèvements à la source et versements de salaires. Les bulletins de paie peuvent être envoyés par mail de manière cryptée pour répondre aux exigences RGPD. Il est également possible d'envoyer un SMS personnalisé pour accompagner l'envoi des payes."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 2343,
-    "end": 2353
+    "end": 2353,
+    "summary": "La section \"SALARIES > Documents\" du logiciel BESTT met en avant l'importance de l'ergonomie pour gagner du temps dans la gestion des documents liés aux salariés. Cette fonctionnalité permet de simplifier les tâches administratives et de réduire les délais. L'objectif est de faciliter l'utilisation du logiciel pour les utilisateurs."
   },
   {
     "title": "SALARIES > Fiches Salariés",
     "menu": "SALARIES",
     "subtitle": "Fiches Salariés",
     "start": 2353,
-    "end": 2363
+    "end": 2363,
+    "summary": "La gestion des salariés est simplifiée pour une expérience fluide. Les bulletins de paie sont envoyés après calcul des payes. Un fichier de virement au format CEPA peut ensuite être généré automatiquement."
   },
   {
     "title": "SALARIES > Documents",
     "menu": "SALARIES",
     "subtitle": "Documents",
     "start": 2363,
-    "end": 2393
+    "end": 2393,
+    "summary": "La gestion des documents pour les salariés est simplifiée avec BESTT, permettant un dépôt facile sur l'interface web de la banque. La partie DSN (Déclaration Sociale Nominative) est également fluide et automatisée, avec un pré-contrôle et une génération du fichier. Cela facilite les tâches administratives liées aux payes et factures."
   },
   {
     "title": "FACTURATION > Avoir",
     "menu": "FACTURATION",
     "subtitle": "Avoir",
     "start": 2393,
-    "end": 2443
+    "end": 2443,
+    "summary": "Le logiciel BESTT permet d'envoyer automatiquement des fichiers à NetEntreprise et Intérimaires Santé pour la facturation et les déclarations sociales. Il offre également des statistiques de recherche d'erreur pour détecter les heures non facturées avant envoi des payes et des factures. Les fonctionnalités automatisées permettent une grande efficacité et réduisent les tâches manuelles."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 2443,
-    "end": 2453
+    "end": 2453,
+    "summary": "La section \"ENTREPRISES > Contacts\" du logiciel BESTT permet de gérer les factures des entreprises clientes, notamment enregistrer les paiements et valider les transactions. Il est possible d'associer un numéro de pièce à chaque transaction pour une meilleure traçabilité. Cette fonctionnalité aide à suivre les règlements des clients et à détecter les impayés."
   },
   {
     "title": "ENTREPRISES > Recherche Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Recherche Entreprises",
     "start": 2453,
-    "end": 2473
+    "end": 2473,
+    "summary": "La fonctionnalité \"Recherche Entreprises\" du logiciel BESTT permet de retrouver facilement les paiements des clients et de gérer leur statut en temps réel. Les utilisateurs peuvent valider ou éliminer les paiements pour une gestion précise. Il est également possible de relancer un client si nécessaire."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 2473,
-    "end": 2493
+    "end": 2493,
+    "summary": "Le logiciel BESTT permet d'automatiser l'envoi de relances pour les factures impayées dépassant leur échéance. Un email est généré avec les détails des factures en retard, le solde à payer et le RIP (Relevé d'Identité Professionnelle) de l'agence. Cette fonctionnalité simplifie la gestion des relances pour les agences de travail temporaire."
   },
   {
     "title": "ENTREPRISES > Contacts",
     "menu": "ENTREPRISES",
     "subtitle": "Contacts",
     "start": 2493,
-    "end": 2503
+    "end": 2503,
+    "summary": "La section ENTREPRISES > Contacts du logiciel BESTT permet une gestion fluide des contacts clients, notamment pour l'envoi de factures en pièce jointe et la mise en copie automatique. Cela facilite les échanges avec les clients et réduit les tâches administratives. Les utilisateurs peuvent ainsi gérer efficacement leurs relations avec les entreprises clientes."
   },
   {
     "title": "ENTREPRISES > Fiches Entreprises",
     "menu": "ENTREPRISES",
     "subtitle": "Fiches Entreprises",
     "start": 2503,
-    "end": 2610
+    "end": 2610,
+    "summary": "La partie \"ENTREPRISES > Fiches Entreprises\" du logiciel BESTT permet de gérer les contrats et missions en cours chez les clients, ainsi que de planifier les relances pour éviter les impayés. Les utilisateurs peuvent consulter l'ensemble des opérations et missions en un coup d'œil et effectuer des actions telles que la duplication ou la prolongation de contrats en temps réel. Cela permet une gestion efficace et automatisée des données, évitant ainsi les tâches manuelles fastidieuses."
   }
 ]
