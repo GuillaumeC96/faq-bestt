@@ -1,0 +1,6826 @@
+[
+  {
+    "idx": 0,
+    "start": 0.68,
+    "text": "Bonjour à tous, bonjour à tous.",
+    "keywords": []
+  },
+  {
+    "idx": 1,
+    "start": 4.46,
+    "text": "Je vais bientôt vous voir arriver.",
+    "keywords": []
+  },
+  {
+    "idx": 2,
+    "start": 8.32,
+    "text": "Bienvenue au webinaire PICSID,",
+    "keywords": []
+  },
+  {
+    "idx": 3,
+    "start": 12.68,
+    "text": "qui est devenu maintenant un rendez-vous incontournable, régulier.",
+    "keywords": []
+  },
+  {
+    "idx": 4,
+    "start": 15.48,
+    "text": "On est ravis de vous recevoir.",
+    "keywords": []
+  },
+  {
+    "idx": 5,
+    "start": 17.86,
+    "text": "On va attendre encore quelques instants pour accueillir vos confrères.",
+    "keywords": []
+  },
+  {
+    "idx": 6,
+    "start": 24.84,
+    "text": "On peut commencer déjà à saluer Clémentine et Raphaël.",
+    "keywords": []
+  },
+  {
+    "idx": 7,
+    "start": 30.98,
+    "text": "On se présentera un tout petit peu plus en détail dans quelques secondes.",
+    "keywords": []
+  },
+  {
+    "idx": 8,
+    "start": 54.84,
+    "text": "On est assez nombreux ce matin.",
+    "keywords": []
+  },
+  {
+    "idx": 9,
+    "start": 60.18000000000001,
+    "text": "Nous sommes déjà une trentaine de connectés.",
+    "keywords": []
+  },
+  {
+    "idx": 10,
+    "start": 67.4,
+    "text": "Encore certains participants qui ne sont pas arrivés.",
+    "keywords": []
+  },
+  {
+    "idx": 11,
+    "start": 70.22,
+    "text": "On va leur donner quelques instants.",
+    "keywords": []
+  },
+  {
+    "idx": 12,
+    "start": 72.98,
+    "text": "Bonjour à tous, encore une fois, au fur et à mesure de votre arrivée.",
+    "keywords": []
+  },
+  {
+    "idx": 13,
+    "start": 76.66,
+    "text": "On est ravis de vous recevoir et de passer ce moment avec vous.",
+    "keywords": []
+  },
+  {
+    "idx": 14,
+    "start": 84.84,
+    "text": "On se donne encore peut-être une minute.",
+    "keywords": []
+  },
+  {
+    "idx": 15,
+    "start": 94.78,
+    "text": "N'oubliez pas que nous allons essayer de rendre ce moment le plus interactif possible.",
+    "keywords": []
+  },
+  {
+    "idx": 16,
+    "start": 99.42,
+    "text": "Le chat va vous servir à poser des questions, à faire des commentaires.",
+    "keywords": []
+  },
+  {
+    "idx": 17,
+    "start": 105.4,
+    "text": "À certains moments de la présentation, soit on y répondra au fur et à mesure,",
+    "keywords": []
+  },
+  {
+    "idx": 18,
+    "start": 109.36,
+    "text": "soit on fera un temps de toute façon en fin de meeting.",
+    "keywords": []
+  },
+  {
+    "idx": 19,
+    "start": 114.84,
+    "text": "Pour que vous puissiez poser vos questions à Raphaël, notamment,",
+    "keywords": []
+  },
+  {
+    "idx": 20,
+    "start": 118.8,
+    "text": "puisque nous allons lui laisser la plus grande part du temps pour qu'il nous montre,",
+    "keywords": []
+  },
+  {
+    "idx": 21,
+    "start": 123.78,
+    "text": "je dirais, comment BEST répond à la problématique.",
+    "keywords": []
+  },
+  {
+    "idx": 22,
+    "start": 127.14,
+    "text": "Et puis, également, sur tout ce qui est connexion avec BEST.",
+    "keywords": []
+  },
+  {
+    "idx": 23,
+    "start": 135.94,
+    "text": "Et en attendant les derniers, Jean-Christophe va nous chanter une petite chanson, peut-être ?",
+    "keywords": []
+  },
+  {
+    "idx": 24,
+    "start": 139.74,
+    "text": "Certainement.",
+    "keywords": []
+  },
+  {
+    "idx": 25,
+    "start": 142.78,
+    "text": "Je préfère avoir des participants.",
+    "keywords": []
+  },
+  {
+    "idx": 26,
+    "start": 144.84,
+    "text": "Voilà, on se donne encore quelques secondes pour boire une gorgée de café, pour ceux qui en ont.",
+    "keywords": []
+  },
+  {
+    "idx": 27,
+    "start": 167.74,
+    "text": "Voilà, écoutez, on va commencer, on va se lancer.",
+    "keywords": []
+  },
+  {
+    "idx": 28,
+    "start": 171.46,
+    "text": "Bonjour à tous à nouveau.",
+    "keywords": []
+  },
+  {
+    "idx": 29,
+    "start": 173.72,
+    "text": "Je suis ravi.",
+    "keywords": []
+  },
+  {
+    "idx": 30,
+    "start": 174.84,
+    "text": "Je suis ravi de lancer cette conférence nouvelle.",
+    "keywords": []
+  },
+  {
+    "idx": 31,
+    "start": 180.72,
+    "text": "En tout cas, c'est une thématique que nous n'avons jamais eu l'occasion d'aborder avec vous.",
+    "keywords": []
+  },
+  {
+    "idx": 32,
+    "start": 185.32,
+    "text": "Donc, aujourd'hui, on va commencer par se présenter.",
+    "keywords": []
+  },
+  {
+    "idx": 33,
+    "start": 190.06,
+    "text": "Nous sommes Pixid, nous sommes avec BEST et nous sommes ravis de vous présenter cette thématique,",
+    "keywords": []
+  },
+  {
+    "idx": 34,
+    "start": 197.7,
+    "text": "finalement, qui est vraiment au cœur de votre activité quotidienne en agence.",
+    "keywords": []
+  },
+  {
+    "idx": 35,
+    "start": 203.14000000000001,
+    "text": "C'est vraiment, finalement, comment…",
+    "keywords": []
+  },
+  {
+    "idx": 36,
+    "start": 204.84,
+    "text": "optimiser, améliorer, en tout cas, rendre la connexion digitale client intérimaire, agence de travai",
+    "keywords": []
+  },
+  {
+    "idx": 37,
+    "start": 218.86,
+    "text": "puisque tout dépend de ce logiciel métier qu'on appelle aussi back-office, qui est vraiment le cœur ",
+    "keywords": []
+  },
+  {
+    "idx": 38,
+    "start": 226.72,
+    "text": "Voilà, donc moi, je suis Jean-Christophe, je suis le directeur des opérations de chez Pixid et je su",
+    "keywords": []
+  },
+  {
+    "idx": 39,
+    "start": 234.12,
+    "text": "Bonjour.",
+    "keywords": []
+  },
+  {
+    "idx": 40,
+    "start": 234.84,
+    "text": "Bonjour à tous, donc je suis Clémentine Fontaine, je suis chef de projet chez Pixid et j'accompagne ",
+    "keywords": []
+  },
+  {
+    "idx": 41,
+    "start": 243.48000000000002,
+    "text": "et je travaille aussi sur la certification des flux de nos auditeurs ETT.",
+    "keywords": []
+  },
+  {
+    "idx": 42,
+    "start": 248.7,
+    "text": "Et donc, nous avons le plaisir d'accueillir Raphaël, Raphaël Linossier, que je laisse se présenter.",
+    "keywords": []
+  },
+  {
+    "idx": 43,
+    "start": 256.26,
+    "text": "Oui, bonjour Raphaël, donc président de BEST, logiciel destiné aux agences de travail temporaire, co",
+    "keywords": []
+  },
+  {
+    "idx": 44,
+    "start": 264.84,
+    "text": "Oui, bonjour.",
+    "keywords": []
+  },
+  {
+    "idx": 45,
+    "start": 266.4,
+    "text": "Logiciel qui a été créé il y a maintenant un paquet d'années, puisqu'on se commercialise depuis 2014",
+    "keywords": []
+  },
+  {
+    "idx": 46,
+    "start": 271.59999999999997,
+    "text": "Donc voilà, on est présent chez plus de dix cents agences aujourd'hui, donc voilà, on progresse larg",
+    "keywords": []
+  },
+  {
+    "idx": 47,
+    "start": 277.32,
+    "text": "Voilà, donc avec Raphaël, nous travaillons ensemble depuis maintenant, je dirais un peu plus de bien",
+    "keywords": []
+  },
+  {
+    "idx": 48,
+    "start": 288.52,
+    "text": "Et puis, c'est vrai que maintenant, depuis plusieurs mois, nous avons rapproché nos pratiques, nos é",
+    "keywords": []
+  },
+  {
+    "idx": 49,
+    "start": 295.08,
+    "text": "Nous avons fait des groupes, mes équipes, notre communication et aujourd'hui, on souhaite vous prése",
+    "keywords": []
+  },
+  {
+    "idx": 50,
+    "start": 302.2,
+    "text": "et vous montrer comment cela va apporter un bénéfice aux utilisateurs de BEST ou à ceux qui se posen",
+    "keywords": []
+  },
+  {
+    "idx": 51,
+    "start": 309.94,
+    "text": "Le point finalement qui avait initié notre réflexion de partenariat, puisque vous savez qu'aujourd'h",
+    "keywords": []
+  },
+  {
+    "idx": 52,
+    "start": 317.4,
+    "text": "Succeed est interfacée avec toutes les toutes les plateformes, tous les logiciels métiers disponible",
+    "keywords": [
+      "logiciel",
+      "métier",
+      "plateforme",
+      "logiciel"
+    ]
+  },
+  {
+    "idx": 53,
+    "start": 324.4,
+    "text": "en france vous les connaissez elles ne sont pas très nombreuses et depuis depuis très longtemps",
+    "keywords": []
+  },
+  {
+    "idx": 54,
+    "start": 329.67999999999995,
+    "text": "et effectivement pics id je dirais à cette ouverture naturelle universel à tous les",
+    "keywords": []
+  },
+  {
+    "idx": 55,
+    "start": 335.62,
+    "text": "systèmes d'information et aujourd'hui on vous en présente un en particulier pourquoi parce que",
+    "keywords": []
+  },
+  {
+    "idx": 56,
+    "start": 341.78,
+    "text": "nous avons fait avec raphaël le même constat au bout d'un certain nombre d'années c'est que",
+    "keywords": []
+  },
+  {
+    "idx": 57,
+    "start": 347.12,
+    "text": "finalement en dehors d'être certifié pics id qui est un label très intéressant la notion",
+    "keywords": []
+  },
+  {
+    "idx": 58,
+    "start": 353.96,
+    "text": "d'interfaçage de connexion naturelle entre les deux systèmes pics id d'un côté qui va être votre",
+    "keywords": []
+  },
+  {
+    "idx": 59,
+    "start": 361.4,
+    "text": "plateforme de relations digitales avec vos clients et avec vos intérimaires mais aussi avec donc",
+    "keywords": []
+  },
+  {
+    "idx": 60,
+    "start": 370.22,
+    "text": "votre système métier qui va être le coeur de votre activité métier intérim pour la partie",
+    "keywords": [
+      "intérim",
+      "système",
+      "métier",
+      "activité",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 61,
+    "start": 377.12,
+    "text": "production des contrats la production des factures la gestion je rêve de la partie crm avec vos",
+    "keywords": []
+  },
+  {
+    "idx": 62,
+    "start": 383.44,
+    "text": "clients de la gestion de vos candidats dans le réveil dans le vraiment le système de base de",
+    "keywords": []
+  },
+  {
+    "idx": 63,
+    "start": 393.74,
+    "text": "votre activité il y avait beaucoup de choses encore qui n'étaient pas parfaites ou même",
+    "keywords": []
+  },
+  {
+    "idx": 64,
+    "start": 399.32,
+    "text": "encore atteinte vous êtes nombreux on vous connaît on vous connaît très bien on dialogue avec vous",
+    "keywords": []
+  },
+  {
+    "idx": 65,
+    "start": 405.32,
+    "text": "toute l'année c'est vrai que vous ne",
+    "keywords": []
+  },
+  {
+    "idx": 66,
+    "start": 407.1,
+    "text": "nous demandez souvent mais quand est-ce que ce flux sera automatisé quand est-ce que je n'aurai",
+    "keywords": []
+  },
+  {
+    "idx": 67,
+    "start": 411.42,
+    "text": "plus besoin de faire une proposition de candidats par manuellement quand est-ce que je pourrais",
+    "keywords": []
+  },
+  {
+    "idx": 68,
+    "start": 417.6,
+    "text": "avoir l'information automatiquement dans mon bac office que le système que le contrat du client a",
+    "keywords": []
+  },
+  {
+    "idx": 69,
+    "start": 424.22,
+    "text": "été signé comment est ce que je fais pour pousser ma facture je reçois bien les relevés d'heures et",
+    "keywords": []
+  },
+  {
+    "idx": 70,
+    "start": 429.70000000000005,
+    "text": "les rcv de mes clients mais je dois les ressaisir dans mon bac office voilà toutes ces questions",
+    "keywords": []
+  },
+  {
+    "idx": 71,
+    "start": 435.34000000000003,
+    "text": "automatisation",
+    "keywords": []
+  },
+  {
+    "idx": 72,
+    "start": 437.1,
+    "text": "et d'optimisation du temps d'un temps qui n'a pas beaucoup d'intérêt le temps de saisie vraiment pos",
+    "keywords": []
+  },
+  {
+    "idx": 73,
+    "start": 443.34000000000003,
+    "text": "des problèmes d'activité en agence soyons très clairs puisque à ce moment-là la digitalisation",
+    "keywords": []
+  },
+  {
+    "idx": 74,
+    "start": 449.34000000000003,
+    "text": "la relation digitale augmente la charge au lieu de l'optimiser ce constat vous le faites nous le",
+    "keywords": []
+  },
+  {
+    "idx": 75,
+    "start": 456.18,
+    "text": "faisons pixid depuis l'origine a toujours ouvert toutes ces interfaces afin de rendre le plus automa",
+    "keywords": []
+  },
+  {
+    "idx": 76,
+    "start": 467.1,
+    "text": "la relation d'une agence vis-à-vis de pixid globalement tout le système pixid peut être piloté à dis",
+    "keywords": []
+  },
+  {
+    "idx": 77,
+    "start": 467.34,
+    "text": "C'est vraiment ce que nous allons nous poser ce matin et la discussion et la démonstration que nous ",
+    "keywords": []
+  },
+  {
+    "idx": 78,
+    "start": 497.34,
+    "text": "L'autre question également double que vous nous posez très régulièrement, c'est la suivante. Pourquo",
+    "keywords": []
+  },
+  {
+    "idx": 79,
+    "start": 518.34,
+    "text": "C'est une anomalie, très honnêtement, puisque de notre point de vue, le service de digitalisation es",
+    "keywords": []
+  },
+  {
+    "idx": 80,
+    "start": 532.02,
+    "text": "Pixid, comme système ouvert, ne refacture rien au système de back-office, ni abonnement, ni frais de",
+    "keywords": []
+  },
+  {
+    "idx": 81,
+    "start": 541.58,
+    "text": "L'objectif pour Pixid, c'est d'être un hub au service des sociétés de travail temporaire, ouvert à t",
+    "keywords": []
+  },
+  {
+    "idx": 82,
+    "start": 548.34,
+    "text": "C'est un hub pour les systèmes d'information.",
+    "keywords": []
+  },
+  {
+    "idx": 83,
+    "start": 552.02,
+    "text": "Finalement, cette facturation complémentaire, on a toujours du mal à la comprendre.",
+    "keywords": [
+      "facture",
+      "comptabilité",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 84,
+    "start": 557.2800000000001,
+    "text": "Raphaël a apporté sa réponse.",
+    "keywords": []
+  },
+  {
+    "idx": 85,
+    "start": 560.9200000000001,
+    "text": "Et au final, qu'est-ce que ça a apporté pour ce système ?",
+    "keywords": []
+  },
+  {
+    "idx": 86,
+    "start": 564.02,
+    "text": "Ça a apporté avec Raphaël un meilleur accompagnement.",
+    "keywords": []
+  },
+  {
+    "idx": 87,
+    "start": 567.0400000000001,
+    "text": "Et ça, on vous en reparlera un petit peu tout à l'heure parce que le rapprochement de nos points de ",
+    "keywords": []
+  },
+  {
+    "idx": 88,
+    "start": 578.34,
+    "text": "Plus Pixid.",
+    "keywords": []
+  },
+  {
+    "idx": 89,
+    "start": 579.6800000000001,
+    "text": "Maintenant, je donne la parole à Raphaël après avoir longuement parlé.",
+    "keywords": []
+  },
+  {
+    "idx": 90,
+    "start": 584.46,
+    "text": "Pour nous montrer finalement ce qu'est Best Apport en tant que logiciel métier, mais aussi dans son ",
+    "keywords": []
+  },
+  {
+    "idx": 91,
+    "start": 593.88,
+    "text": "Merci beaucoup Jean-Christophe de ce passage de témoin.",
+    "keywords": []
+  },
+  {
+    "idx": 92,
+    "start": 598.1,
+    "text": "Le mieux, effectivement, c'est de vous montrer parce qu'en fait, on peut parler beaucoup, mais si on",
+    "keywords": []
+  },
+  {
+    "idx": 93,
+    "start": 603.4000000000001,
+    "text": "Mais pour bien comprendre l'idée, et c'est ça qui est important, ce que dit Jean-Christophe,",
+    "keywords": []
+  },
+  {
+    "idx": 94,
+    "start": 606.5,
+    "text": "l'idée, c'est d'automatiser énormément de choses dans nos métiers.",
+    "keywords": [
+      "métier",
+      "automatisation",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 95,
+    "start": 610.86,
+    "text": "L'objectif final, nous, c'était de faire de l'intérim humain, en tout cas, rendre encore plus humain",
+    "keywords": [
+      "intérimaire",
+      "salarié",
+      "travail temporaire."
+    ]
+  },
+  {
+    "idx": 96,
+    "start": 617.9,
+    "text": "Et pour avoir le temps de faire de l'humain, il faut évidemment éliminer cette partie très chronopha",
+    "keywords": []
+  },
+  {
+    "idx": 97,
+    "start": 625.74,
+    "text": "Et les liaisons avec les logiciels type Pixid en font évidemment partie.",
+    "keywords": []
+  },
+  {
+    "idx": 98,
+    "start": 632.04,
+    "text": "Plus on automatise, moins on a à toucher et à revenir dessus.",
+    "keywords": []
+  },
+  {
+    "idx": 99,
+    "start": 635.76,
+    "text": "Alors, je vais vous partager.",
+    "keywords": []
+  },
+  {
+    "idx": 100,
+    "start": 636.5,
+    "text": "Je vais partager mon écran directement, comme ça, vous allez un petit peu voir les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 101,
+    "start": 643.24,
+    "text": "Le logiciel, en fait, BEST, quand on arrive le matin, on arrive face à cette page.",
+    "keywords": []
+  },
+  {
+    "idx": 102,
+    "start": 647.0,
+    "text": "Vous êtes connecté par votre identifiant et votre mot de passe.",
+    "keywords": []
+  },
+  {
+    "idx": 103,
+    "start": 651.8,
+    "text": "Une idée fondamentale du logiciel BEST, il est fait pour des gens comme moi, feignants et stupides.",
+    "keywords": []
+  },
+  {
+    "idx": 104,
+    "start": 656.72,
+    "text": "Et vous verrez qu'on est très nombreux dans cette optique-là.",
+    "keywords": []
+  },
+  {
+    "idx": 105,
+    "start": 659.94,
+    "text": "Alors, feignants, évidemment, c'est lui qui bosse.",
+    "keywords": []
+  },
+  {
+    "idx": 106,
+    "start": 661.5,
+    "text": "Et stupides, il faut que ce soit très simple à utiliser, sinon les gens ne font pas les choses.",
+    "keywords": []
+  },
+  {
+    "idx": 107,
+    "start": 665.22,
+    "text": "Donc, il est très simple.",
+    "keywords": []
+  },
+  {
+    "idx": 108,
+    "start": 667.12,
+    "text": "Il est en trois zones, on va dire, trois parties.",
+    "keywords": []
+  },
+  {
+    "idx": 109,
+    "start": 669.96,
+    "text": "Vous avez sur votre gauche, ici, l'ensemble des icônes.",
+    "keywords": []
+  },
+  {
+    "idx": 110,
+    "start": 672.52,
+    "text": "On va choisir ce qu'on souhaite faire, tout simplement.",
+    "keywords": []
+  },
+  {
+    "idx": 111,
+    "start": 674.96,
+    "text": "Et ils sont placés de façon logique.",
+    "keywords": []
+  },
+  {
+    "idx": 112,
+    "start": 676.12,
+    "text": "Le premier icône, c'est l'entreprise.",
+    "keywords": []
+  },
+  {
+    "idx": 113,
+    "start": 678.4,
+    "text": "C'est le B.A.B.A., c'est votre client.",
+    "keywords": []
+  },
+  {
+    "idx": 114,
+    "start": 680.48,
+    "text": "À partir du moment où on survole l'icône entreprise, on va avoir tout ce qui a un rapport avec l'ent",
+    "keywords": []
+  },
+  {
+    "idx": 115,
+    "start": 684.88,
+    "text": "Donc, on va avoir la fiche entreprise, la recherche d'entreprise, un petit module de prospection.",
+    "keywords": []
+  },
+  {
+    "idx": 116,
+    "start": 689.1,
+    "text": "Tout est intégré.",
+    "keywords": []
+  },
+  {
+    "idx": 117,
+    "start": 689.94,
+    "text": "C'est important, je vais en dire dessus après.",
+    "keywords": []
+  },
+  {
+    "idx": 118,
+    "start": 692.48,
+    "text": "La partie commande, la partie annonce.",
+    "keywords": []
+  },
+  {
+    "idx": 119,
+    "start": 694.22,
+    "text": "La partie commande, la partie annonce.",
+    "keywords": []
+  },
+  {
+    "idx": 120,
+    "start": 694.9,
+    "text": "Parce que beaucoup de nos clients, comme tout le monde, j'imagine, ont des soucis pour trouver des c",
+    "keywords": [
+      "candidat",
+      "client",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 121,
+    "start": 703.14,
+    "text": "Donc, évidemment, on a palié aussi cette partie-là en candidat tech.",
+    "keywords": [
+      "candidat",
+      "technicien"
+    ]
+  },
+  {
+    "idx": 122,
+    "start": 707.76,
+    "text": "Donc, on a un lien directement sur un site d'emploi qui va multidiffuser après vos offres d'emploi p",
+    "keywords": []
+  },
+  {
+    "idx": 123,
+    "start": 714.8199999999999,
+    "text": "Un petit module d'estimation des marges qui permet de valider votre coefficient avant d'envoyer un a",
+    "keywords": []
+  },
+  {
+    "idx": 124,
+    "start": 721.72,
+    "text": "Et puis, la partie facture et règlement et recouvrement des factures.",
+    "keywords": [
+      "facture",
+      "recouvrement"
+    ]
+  },
+  {
+    "idx": 125,
+    "start": 724.66,
+    "text": "Parce que Notagel va vraiment depuis, je vais vous montrer, depuis la saisie du prospect jusqu'au re",
+    "keywords": []
+  },
+  {
+    "idx": 126,
+    "start": 732.3399999999999,
+    "text": "Tous les clients n'ont pas la sympathie de payer leur facture en temps et en heure.",
+    "keywords": [
+      "facture",
+      "client",
+      "paiement"
+    ]
+  },
+  {
+    "idx": 127,
+    "start": 736.4,
+    "text": "Donc, c'est bien de leur rappeler.",
+    "keywords": []
+  },
+  {
+    "idx": 128,
+    "start": 738.3199999999999,
+    "text": "Et puis, le deuxième onglet, c'est la partie salarié.",
+    "keywords": []
+  },
+  {
+    "idx": 129,
+    "start": 739.98,
+    "text": "Pareil, la fiche salarié, la recherche multicritère de candidats, les petites pièces et les accompte",
+    "keywords": []
+  },
+  {
+    "idx": 130,
+    "start": 747.18,
+    "text": "plan de poste, cas de travail, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 131,
+    "start": 749.3,
+    "text": "Une fois qu'on a une entreprise et un salarié, on pourra faire des contrats.",
+    "keywords": []
+  },
+  {
+    "idx": 132,
+    "start": 752.38,
+    "text": "Donc, c'est vraiment de toute façon logique.",
+    "keywords": []
+  },
+  {
+    "idx": 133,
+    "start": 753.6999999999999,
+    "text": "Quand on a des contrats, on peut rentrer.",
+    "keywords": []
+  },
+  {
+    "idx": 134,
+    "start": 754.66,
+    "text": "On peut rentrer des heures et comme ça, jusqu'à la partie statistique tout en bas.",
+    "keywords": []
+  },
+  {
+    "idx": 135,
+    "start": 758.86,
+    "text": "Au milieu, la zone de travail.",
+    "keywords": []
+  },
+  {
+    "idx": 136,
+    "start": 760.92,
+    "text": "Donc, c'est là où on va s'afficher, ce qu'on aura choisi de faire.",
+    "keywords": []
+  },
+  {
+    "idx": 137,
+    "start": 763.3199999999999,
+    "text": "Et en attendant d'afficher cette zone de travail, on va avoir toute une série d'aides.",
+    "keywords": []
+  },
+  {
+    "idx": 138,
+    "start": 768.66,
+    "text": "On rappelle nos horaires d'ouverture de la hotline.",
+    "keywords": []
+  },
+  {
+    "idx": 139,
+    "start": 771.1999999999999,
+    "text": "Chez nous, la hotline, ça paraît étrange dans le secteur, mais il paraît que c'est particulier.",
+    "keywords": []
+  },
+  {
+    "idx": 140,
+    "start": 776.4399999999999,
+    "text": "Donc, nous, c'est gratuit.",
+    "keywords": []
+  },
+  {
+    "idx": 141,
+    "start": 777.5799999999999,
+    "text": "La hotline est limitée.",
+    "keywords": []
+  },
+  {
+    "idx": 142,
+    "start": 779.12,
+    "text": "Quand les gens sont chez nous, ils peuvent appeler autant de fois qu'ils veulent.",
+    "keywords": []
+  },
+  {
+    "idx": 143,
+    "start": 781.66,
+    "text": "On fait partie, on est partenaire avec nos clients.",
+    "keywords": []
+  },
+  {
+    "idx": 144,
+    "start": 784.22,
+    "text": "Donc, on est partenaire.",
+    "keywords": []
+  },
+  {
+    "idx": 145,
+    "start": 784.66,
+    "text": "On a le droit de nous appeler et on répond en plus.",
+    "keywords": []
+  },
+  {
+    "idx": 146,
+    "start": 786.9599999999999,
+    "text": "De 8h30 à 18h pour faire large, ce qui est extrêmement pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 147,
+    "start": 791.28,
+    "text": "Le ClubBest, je reviens juste après dessus.",
+    "keywords": []
+  },
+  {
+    "idx": 148,
+    "start": 793.0,
+    "text": "Et puis, l'article Intérim Info.",
+    "keywords": []
+  },
+  {
+    "idx": 149,
+    "start": 794.7199999999999,
+    "text": "L'idée, c'est que sur la première page du logiciel, on va afficher toute une série d'informations pr",
+    "keywords": [
+      "métier",
+      "logiciel",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 150,
+    "start": 801.42,
+    "text": "En partenariat avec Intérim Info, qui est un de nos sites sur lequel on communique toute l'actualité",
+    "keywords": []
+  },
+  {
+    "idx": 151,
+    "start": 807.0,
+    "text": "N'hésitez pas à aller dessus, vous verrez, c'est extrêmement pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 152,
+    "start": 809.5799999999999,
+    "text": "Le ClubBest, c'est un tout petit aparté que je vais faire dessus.",
+    "keywords": []
+  },
+  {
+    "idx": 153,
+    "start": 812.1999999999999,
+    "text": "On s'est rendu compte que beaucoup de nos clients n'avaient pas de...",
+    "keywords": []
+  },
+  {
+    "idx": 154,
+    "start": 814.66,
+    "text": "Ce qui était dommage pour fidéliser les intérimaires.",
+    "keywords": []
+  },
+  {
+    "idx": 155,
+    "start": 817.7199999999999,
+    "text": "Donc, on a créé un club avantage, le ClubBest, où l'ensemble des intérimaires et des permanents de n",
+    "keywords": []
+  },
+  {
+    "idx": 156,
+    "start": 825.0,
+    "text": "Vous n'obligez pas à tout payer tout le temps.",
+    "keywords": []
+  },
+  {
+    "idx": 157,
+    "start": 827.68,
+    "text": "Et donc, vos intérimaires vont retrouver des remises chez Marionneau, Nocibé, Center Park, ClubMed.",
+    "keywords": []
+  },
+  {
+    "idx": 158,
+    "start": 834.3399999999999,
+    "text": "Il y a plein, il y a pléthore d'offres très diverses et variées en électroménager, en voyage, en tou",
+    "keywords": []
+  },
+  {
+    "idx": 159,
+    "start": 841.02,
+    "text": "C'est très sympa.",
+    "keywords": []
+  },
+  {
+    "idx": 160,
+    "start": 842.6,
+    "text": "Et puis, sur votre droite, ici.",
+    "keywords": []
+  },
+  {
+    "idx": 161,
+    "start": 844.66,
+    "text": "Il y a toute une série de petits web services, des petits widgets qui, en fonction de ce que vous fa",
+    "keywords": []
+  },
+  {
+    "idx": 162,
+    "start": 850.3,
+    "text": "donc le matin, quand vous vous identifiez, vous aurez votre page à vous sur votre logiciel.",
+    "keywords": []
+  },
+  {
+    "idx": 163,
+    "start": 855.24,
+    "text": "Et en fonction de ce que vous faites, vous aurez choisi les petits widgets qui vous intéressent, vou",
+    "keywords": []
+  },
+  {
+    "idx": 164,
+    "start": 860.02,
+    "text": "Alors moi, j'ai mis un petit widget en haut pour envoyer un joyau d'anniversaire à tous les gens de ",
+    "keywords": []
+  },
+  {
+    "idx": 165,
+    "start": 866.2199999999999,
+    "text": "Je peux les regarder directement.",
+    "keywords": []
+  },
+  {
+    "idx": 166,
+    "start": 867.68,
+    "text": "Et puis, en deux clics, je peux envoyer un petit SMS à tout le monde.",
+    "keywords": []
+  },
+  {
+    "idx": 167,
+    "start": 870.88,
+    "text": "C'est sympa et ça fidélise les gens.",
+    "keywords": []
+  },
+  {
+    "idx": 168,
+    "start": 874.66,
+    "text": "Juste en dessous, le module SMS.",
+    "keywords": []
+  },
+  {
+    "idx": 169,
+    "start": 876.24,
+    "text": "Justement, on a un système chez nous qui permet de vraiment de chatter quasiment avec nos clients.",
+    "keywords": []
+  },
+  {
+    "idx": 170,
+    "start": 881.48,
+    "text": "Donc, on peut communiquer quand on leur envoie des propositions d'emploi.",
+    "keywords": []
+  },
+  {
+    "idx": 171,
+    "start": 884.16,
+    "text": "Ils peuvent vous répondre par SMS et ça apparaît ici.",
+    "keywords": []
+  },
+  {
+    "idx": 172,
+    "start": 886.14,
+    "text": "On peut leur répondre directement.",
+    "keywords": []
+  },
+  {
+    "idx": 173,
+    "start": 888.8199999999999,
+    "text": "On a des opérateurs.",
+    "keywords": []
+  },
+  {
+    "idx": 174,
+    "start": 889.64,
+    "text": "On est à moins de 4 centimes du SMS avec les contrats cadres qu'on a négociés auprès des fournisseur",
+    "keywords": []
+  },
+  {
+    "idx": 175,
+    "start": 896.28,
+    "text": "Donc, on est très loin.",
+    "keywords": []
+  },
+  {
+    "idx": 176,
+    "start": 898.0799999999999,
+    "text": "On est à 3,7 centimes, je crois, du SMS.",
+    "keywords": []
+  },
+  {
+    "idx": 177,
+    "start": 900.28,
+    "text": "C'est assez intéressant.",
+    "keywords": []
+  },
+  {
+    "idx": 178,
+    "start": 902.64,
+    "text": "En dessous, un petit module qui permet d'avoir le nombre d'heures.",
+    "keywords": []
+  },
+  {
+    "idx": 179,
+    "start": 904.66,
+    "text": "Et le chiffre d'affaires de l'agence mois par mois.",
+    "keywords": []
+  },
+  {
+    "idx": 180,
+    "start": 906.66,
+    "text": "Et enfin, un petit module très pratique pour le coup, qui permet d'anticiper, et ça, c'est très util",
+    "keywords": []
+  },
+  {
+    "idx": 181,
+    "start": 912.66,
+    "text": "d'anticiper la péremption des documents.",
+    "keywords": []
+  },
+  {
+    "idx": 182,
+    "start": 914.66,
+    "text": "Donc là, j'ai choisi tous les intérimaires qui avaient un contrat depuis le 1er août",
+    "keywords": []
+  },
+  {
+    "idx": 183,
+    "start": 918.66,
+    "text": "et dont un des documents finissait d'être validé dans les 30 prochains jours.",
+    "keywords": []
+  },
+  {
+    "idx": 184,
+    "start": 925.66,
+    "text": "C'est intéressant, ça permet en fait d'un simple clic d'aller relancer l'ensemble de vos intérimaire",
+    "keywords": []
+  },
+  {
+    "idx": 185,
+    "start": 931.66,
+    "text": "Et donc, on va pouvoir directement, il y a un petit mail tout fait.",
+    "keywords": []
+  },
+  {
+    "idx": 186,
+    "start": 934.66,
+    "text": "On joue avec le prénom, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 187,
+    "start": 937.66,
+    "text": "Par exemple, on a tenu votre dossier.",
+    "keywords": []
+  },
+  {
+    "idx": 188,
+    "start": 938.66,
+    "text": "Donc, c'est extrêmement simple.",
+    "keywords": []
+  },
+  {
+    "idx": 189,
+    "start": 939.66,
+    "text": "On envoie par mail ou par texto.",
+    "keywords": []
+  },
+  {
+    "idx": 190,
+    "start": 940.66,
+    "text": "Et ça va rappeler l'ensemble des documents dont on a besoin pour le maintien d'un dossier qu'on a.",
+    "keywords": []
+  },
+  {
+    "idx": 191,
+    "start": 946.66,
+    "text": "Donc, ça peut être les KCS, les permis poids lourds, les cartes de séjour.",
+    "keywords": []
+  },
+  {
+    "idx": 192,
+    "start": 949.66,
+    "text": "Enfin, tous les éléments qui ont une péremption qui peut être délicate pour après faire travailler l",
+    "keywords": []
+  },
+  {
+    "idx": 193,
+    "start": 955.66,
+    "text": "Et puis, en dessous, en parlant de délicatesse, les soldes des comptes clients, les encours clients,",
+    "keywords": []
+  },
+  {
+    "idx": 194,
+    "start": 963.66,
+    "text": "Enfin, moi, personnellement.",
+    "keywords": []
+  },
+  {
+    "idx": 195,
+    "start": 964.66,
+    "text": "Ça fait partie de mon écran.",
+    "keywords": []
+  },
+  {
+    "idx": 196,
+    "start": 965.66,
+    "text": "Alors, un petit œil dessus sur les encours clients pour, si besoin, les rappeler.",
+    "keywords": []
+  },
+  {
+    "idx": 197,
+    "start": 970.66,
+    "text": "Bon, Michelin doit un peu d'argent.",
+    "keywords": []
+  },
+  {
+    "idx": 198,
+    "start": 972.66,
+    "text": "Mais enfin, fondamentalement, il ne va pas crever son pneu tout de suite.",
+    "keywords": []
+  },
+  {
+    "idx": 199,
+    "start": 975.66,
+    "text": "Donc, on est tranquille.",
+    "keywords": []
+  },
+  {
+    "idx": 200,
+    "start": 976.66,
+    "text": "Mais c'est important, effectivement, de rappeler à l'ordre de nos clients s'ils dépassent dans ce do",
+    "keywords": []
+  },
+  {
+    "idx": 201,
+    "start": 982.66,
+    "text": "Alors, je vais démarrer par la fiche client.",
+    "keywords": []
+  },
+  {
+    "idx": 202,
+    "start": 983.66,
+    "text": "C'est un peu le B.A.B. du système.",
+    "keywords": []
+  },
+  {
+    "idx": 203,
+    "start": 987.66,
+    "text": "Donc, on va avoir ici l'ensemble des clients et des prospects.",
+    "keywords": []
+  },
+  {
+    "idx": 204,
+    "start": 991.66,
+    "text": "C'est le principe chez nous.",
+    "keywords": []
+  },
+  {
+    "idx": 205,
+    "start": 993.66,
+    "text": "On peut…",
+    "keywords": []
+  },
+  {
+    "idx": 206,
+    "start": 994.66,
+    "text": "On peut avoir tous les éléments clients, prospects, tout compris.",
+    "keywords": []
+  },
+  {
+    "idx": 207,
+    "start": 997.66,
+    "text": "Alors, je vais en prendre…",
+    "keywords": []
+  },
+  {
+    "idx": 208,
+    "start": 999.66,
+    "text": "On va démarcher un nouveau client au prospect.",
+    "keywords": []
+  },
+  {
+    "idx": 209,
+    "start": 1002.66,
+    "text": "On va prendre cet exemple-là.",
+    "keywords": []
+  },
+  {
+    "idx": 210,
+    "start": 1003.66,
+    "text": "Alors, pour entrer un nouveau client au prospect chez nous, c'est très simple.",
+    "keywords": []
+  },
+  {
+    "idx": 211,
+    "start": 1006.66,
+    "text": "On a juste à aller chercher…",
+    "keywords": []
+  },
+  {
+    "idx": 212,
+    "start": 1007.66,
+    "text": "Alors, admettons, je vais taper Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 213,
+    "start": 1009.66,
+    "text": "On va voir s'ils ont une agence dans Paris.",
+    "keywords": []
+  },
+  {
+    "idx": 214,
+    "start": 1012.66,
+    "text": "Donc, ça va rechercher, effectivement, sur les bases d'infogreffes français et européens.",
+    "keywords": []
+  },
+  {
+    "idx": 215,
+    "start": 1016.66,
+    "text": "Ils ne sont peut-être pas dans Paris.",
+    "keywords": []
+  },
+  {
+    "idx": 216,
+    "start": 1018.66,
+    "text": "Alors, je vais aller chercher…",
+    "keywords": []
+  },
+  {
+    "idx": 217,
+    "start": 1019.66,
+    "text": "C'est 92, je crois, Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 218,
+    "start": 1021.66,
+    "text": "Ah, c'est ça.",
+    "keywords": []
+  },
+  {
+    "idx": 219,
+    "start": 1023.66,
+    "text": "Donc, là…",
+    "keywords": []
+  },
+  {
+    "idx": 220,
+    "start": 1025.6599999999999,
+    "text": "Alors, ce n'est pas drôle si ça ne fonctionne pas ce matin.",
+    "keywords": []
+  },
+  {
+    "idx": 221,
+    "start": 1027.6599999999999,
+    "text": "Ah, ça arrive.",
+    "keywords": []
+  },
+  {
+    "idx": 222,
+    "start": 1029.6599999999999,
+    "text": "Bon, OK.",
+    "keywords": []
+  },
+  {
+    "idx": 223,
+    "start": 1030.6599999999999,
+    "text": "Bon, je ne vous le montrerai pas.",
+    "keywords": []
+  },
+  {
+    "idx": 224,
+    "start": 1031.6599999999999,
+    "text": "C'est extrêmement pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 225,
+    "start": 1032.6599999999999,
+    "text": "Ça marche.",
+    "keywords": []
+  },
+  {
+    "idx": 226,
+    "start": 1033.6599999999999,
+    "text": "Ça a marché hier soir.",
+    "keywords": []
+  },
+  {
+    "idx": 227,
+    "start": 1034.6599999999999,
+    "text": "En l'occurrence, on va chercher directement le client qui vient se connecter et qui vient",
+    "keywords": [
+      "client",
+      "connexion",
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 228,
+    "start": 1037.6599999999999,
+    "text": "récupérer directement la base.",
+    "keywords": []
+  },
+  {
+    "idx": 229,
+    "start": 1039.6599999999999,
+    "text": "Ah, effectivement.",
+    "keywords": []
+  },
+  {
+    "idx": 230,
+    "start": 1040.6599999999999,
+    "text": "J'ai un petit message de mes techs.",
+    "keywords": []
+  },
+  {
+    "idx": 231,
+    "start": 1042.6599999999999,
+    "text": "Ils sont en train de…",
+    "keywords": [
+      "je suis désolé"
+    ]
+  },
+  {
+    "idx": 232,
+    "start": 1043.6599999999999,
+    "text": "Il m'a dit, ah, il ne fallait pas montrer.",
+    "keywords": []
+  },
+  {
+    "idx": 233,
+    "start": 1044.6599999999999,
+    "text": "On fait la mise à jour de la base.",
+    "keywords": []
+  },
+  {
+    "idx": 234,
+    "start": 1046.6599999999999,
+    "text": "Bon, OK.",
+    "keywords": []
+  },
+  {
+    "idx": 235,
+    "start": 1047.6599999999999,
+    "text": "Tant pis.",
+    "keywords": []
+  },
+  {
+    "idx": 236,
+    "start": 1048.6599999999999,
+    "text": "On fera cette démo une autre fois quand vous connecterez.",
+    "keywords": []
+  },
+  {
+    "idx": 237,
+    "start": 1051.6599999999999,
+    "text": "Donc, l'idée, effectivement, c'est de…",
+    "keywords": []
+  },
+  {
+    "idx": 238,
+    "start": 1052.66,
+    "text": "Ça va directement chercher sur l'infogreffe et ça va récupérer l'adresse directement",
+    "keywords": []
+  },
+  {
+    "idx": 239,
+    "start": 1057.66,
+    "text": "et puis le SIRET, le numéro de T23 communautaire et puis la date de création, le code APE,",
+    "keywords": []
+  },
+  {
+    "idx": 240,
+    "start": 1062.66,
+    "text": "etc.",
+    "keywords": []
+  },
+  {
+    "idx": 241,
+    "start": 1063.66,
+    "text": "Ce qui va nous permettre de pouvoir anticiper et d'éviter surtout les erreurs de saisie,",
+    "keywords": []
+  },
+  {
+    "idx": 242,
+    "start": 1067.66,
+    "text": "les erreurs de frappe qu'on peut avoir quand on rentre entre autres le numéro de SIRET,",
+    "keywords": []
+  },
+  {
+    "idx": 243,
+    "start": 1071.66,
+    "text": "par exemple.",
+    "keywords": []
+  },
+  {
+    "idx": 244,
+    "start": 1072.66,
+    "text": "Et puis, derrière, quand on a un client, on peut récupérer l'ensemble des contacts",
+    "keywords": [
+      "client",
+      "contact",
+      "client"
+    ]
+  },
+  {
+    "idx": 245,
+    "start": 1078.66,
+    "text": "qu'on peut avoir chez le client.",
+    "keywords": []
+  },
+  {
+    "idx": 246,
+    "start": 1080.66,
+    "text": "Donc, toute la partie organigramme.",
+    "keywords": []
+  },
+  {
+    "idx": 247,
+    "start": 1082.66,
+    "text": "Directeur général, on peut avoir directement sa fiche, sa photo.",
+    "keywords": []
+  },
+  {
+    "idx": 248,
+    "start": 1086.66,
+    "text": "On dirait qu'il fait une pub pour l'Ultra Bright.",
+    "keywords": []
+  },
+  {
+    "idx": 249,
+    "start": 1090.66,
+    "text": "Il manque une petite rose entre les dents.",
+    "keywords": []
+  },
+  {
+    "idx": 250,
+    "start": 1092.66,
+    "text": "Donc, on a tout le détail du directeur d'opération d'accord.",
+    "keywords": []
+  },
+  {
+    "idx": 251,
+    "start": 1096.66,
+    "text": "Et puis, on a surtout les indications.",
+    "keywords": []
+  },
+  {
+    "idx": 252,
+    "start": 1098.66,
+    "text": "S'il fait partie de B-Sign ou de Pixeed, si vous choisissez la signature et il envoie",
+    "keywords": []
+  },
+  {
+    "idx": 253,
+    "start": 1103.66,
+    "text": "des contrats par Pixeed, on aura du coup une case Pixeed et ça enverra.",
+    "keywords": []
+  },
+  {
+    "idx": 254,
+    "start": 1107.66,
+    "text": "Du coup, il fera partie des gens qui seront autorisés à recevoir le contrat Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 255,
+    "start": 1111.66,
+    "text": "Comptabilité, il fait partie des gens qui recevront les factures.",
+    "keywords": []
+  },
+  {
+    "idx": 256,
+    "start": 1115.66,
+    "text": "Et puis, rappel facture, il fait partie des gens qui recevront le petit mail sympathique",
+    "keywords": [
+      "facture",
+      "mail"
+    ]
+  },
+  {
+    "idx": 257,
+    "start": 1119.66,
+    "text": "et au demeurant insistant, si besoin est, de rappel des factures impayées.",
+    "keywords": [
+      "facture",
+      "paie",
+      "salaire"
+    ]
+  },
+  {
+    "idx": 258,
+    "start": 1123.66,
+    "text": "Derrière les lieux possibles de ce client, les rubriques par défaut qui vont permettre",
+    "keywords": []
+  },
+  {
+    "idx": 259,
+    "start": 1129.66,
+    "text": "vraiment au client de pré-paramétrer l'ensemble des contrats pour ce client.",
+    "keywords": []
+  },
+  {
+    "idx": 260,
+    "start": 1133.66,
+    "text": "Ça évite de ressaisir les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 261,
+    "start": 1135.66,
+    "text": "Ça évite d'oublier de saisir des primes, des rubriques diverses et variées.",
+    "keywords": []
+  },
+  {
+    "idx": 262,
+    "start": 1139.66,
+    "text": "Et puis, tout ce qui est équipement obligatoire.",
+    "keywords": []
+  },
+  {
+    "idx": 263,
+    "start": 1140.66,
+    "text": "Casque, chaussures, gants, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 264,
+    "start": 1143.66,
+    "text": "Quand vous travaillez avec le BTP, c'est toujours intéressant d'oublier aucun EPI.",
+    "keywords": []
+  },
+  {
+    "idx": 265,
+    "start": 1146.66,
+    "text": "Donc là, ils sont directement intégrés dedans.",
+    "keywords": []
+  },
+  {
+    "idx": 266,
+    "start": 1149.66,
+    "text": "Évidemment, si vous fournissez un comptable pour une boîte de BTP, vous pouvez retirer",
+    "keywords": []
+  },
+  {
+    "idx": 267,
+    "start": 1153.66,
+    "text": "dans le contrat directement les EPI.",
+    "keywords": []
+  },
+  {
+    "idx": 268,
+    "start": 1155.66,
+    "text": "Vous ne pouvez pas lui laisser un casque pour les jours de paye, mais en général,",
+    "keywords": []
+  },
+  {
+    "idx": 269,
+    "start": 1158.66,
+    "text": "c'est le seul besoin qu'il peut avoir.",
+    "keywords": []
+  },
+  {
+    "idx": 270,
+    "start": 1160.66,
+    "text": "Les profils recherchés, on va indiquer ici les profils qu'habituellement ce client recrute.",
+    "keywords": []
+  },
+  {
+    "idx": 271,
+    "start": 1164.66,
+    "text": "C'est pareil, c'est très pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 272,
+    "start": 1165.66,
+    "text": "Ça permet quand un contrat arrive en fin de mission de voir quel autre client peut être intéressé",
+    "keywords": []
+  },
+  {
+    "idx": 273,
+    "start": 1169.66,
+    "text": "pour la mission.",
+    "keywords": []
+  },
+  {
+    "idx": 274,
+    "start": 1171.66,
+    "text": "Et puis enfin, les contrats.",
+    "keywords": []
+  },
+  {
+    "idx": 275,
+    "start": 1173.66,
+    "text": "Tous les contrats passés avec ce client, on va directement les retrouver ici.",
+    "keywords": []
+  },
+  {
+    "idx": 276,
+    "start": 1178.66,
+    "text": "On va pouvoir réimprimer le contrat, le retrouver, le réimprimer, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 277,
+    "start": 1182.66,
+    "text": "C'est vraiment la logique.",
+    "keywords": []
+  },
+  {
+    "idx": 278,
+    "start": 1184.66,
+    "text": "Tout se positionne automatiquement dans les éléments, ce qui est évidemment utile.",
+    "keywords": []
+  },
+  {
+    "idx": 279,
+    "start": 1191.66,
+    "text": "Si on clique sur le petit œil, c'est qu'on a scanné le contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 280,
+    "start": 1193.66,
+    "text": "On va le retrouver directement ici.",
+    "keywords": []
+  },
+  {
+    "idx": 281,
+    "start": 1195.66,
+    "text": "Il a été retourné, tamponné, signé par le client.",
+    "keywords": []
+  },
+  {
+    "idx": 282,
+    "start": 1197.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 283,
+    "start": 1199.66,
+    "text": "Les factures, pareil.",
+    "keywords": []
+  },
+  {
+    "idx": 284,
+    "start": 1201.66,
+    "text": "Les factures clients se retrouvent automatiquement ici.",
+    "keywords": [
+      "facture",
+      "client",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 285,
+    "start": 1204.66,
+    "text": "Et on peut, ça c'est important, paramétrer plein d'éléments sur les factures.",
+    "keywords": [
+      "facture",
+      "paramétrage",
+      "éléments"
+    ]
+  },
+  {
+    "idx": 286,
+    "start": 1208.66,
+    "text": "L'adresse de facturation, le regroupement, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 287,
+    "start": 1211.66,
+    "text": "Et le regroupement, ça permet de faire des factures sur mesure.",
+    "keywords": [
+      "facture",
+      "regroupement",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 288,
+    "start": 1213.66,
+    "text": "Là, c'est un client qui veut des factures avec un sous total par intérimaire,",
+    "keywords": [
+      "facture",
+      "client",
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 289,
+    "start": 1217.66,
+    "text": "mais des factures séparées par semaine.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 290,
+    "start": 1219.66,
+    "text": "Mais on peut avoir toute une série de demandes extrêmement diverses et variées",
+    "keywords": []
+  },
+  {
+    "idx": 291,
+    "start": 1224.66,
+    "text": "avec des sous totaux ou des factures par toutes ses rubriques.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 292,
+    "start": 1227.66,
+    "text": "Coefficients soumis, semaines relevées, régions.",
+    "keywords": []
+  },
+  {
+    "idx": 293,
+    "start": 1229.66,
+    "text": "Calif, tout ce qu'on peut imaginer.",
+    "keywords": []
+  },
+  {
+    "idx": 294,
+    "start": 1231.66,
+    "text": "On fait vraiment des factures.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 295,
+    "start": 1232.66,
+    "text": "Chaque client a ses factures personnalisées.",
+    "keywords": [
+      "client",
+      "facture"
+    ]
+  },
+  {
+    "idx": 296,
+    "start": 1235.66,
+    "text": "Et il fait effectivement là-dessus vraiment ce qu'il veut.",
+    "keywords": []
+  },
+  {
+    "idx": 297,
+    "start": 1238.66,
+    "text": "On va retrouver également les documents du client.",
+    "keywords": []
+  },
+  {
+    "idx": 298,
+    "start": 1241.66,
+    "text": "Tous les documents qu'on peut imaginer pour le client.",
+    "keywords": []
+  },
+  {
+    "idx": 299,
+    "start": 1243.66,
+    "text": "La charte télétravail, la proposition commerciale,",
+    "keywords": []
+  },
+  {
+    "idx": 300,
+    "start": 1245.66,
+    "text": "la proposition qui est dans un classeur, toujours perdue au fond d'un tiroir.",
+    "keywords": []
+  },
+  {
+    "idx": 301,
+    "start": 1249.66,
+    "text": "Là, on le retrouve directement.",
+    "keywords": []
+  },
+  {
+    "idx": 302,
+    "start": 1250.66,
+    "text": "On pourrait aussi mettre la charte télétravail, le bris de sécurité,",
+    "keywords": []
+  },
+  {
+    "idx": 303,
+    "start": 1253.66,
+    "text": "le plan d'accès, le règlement intérieur.",
+    "keywords": []
+  },
+  {
+    "idx": 304,
+    "start": 1256.66,
+    "text": "Enfin, tous les éléments qui permettront derrière,",
+    "keywords": []
+  },
+  {
+    "idx": 305,
+    "start": 1258.66,
+    "text": "juste en deux clics, de les envoyer à l'intérimaire qui va travailler.",
+    "keywords": [
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 306,
+    "start": 1261.66,
+    "text": "Donc, on a pu aller chercher n'importe où.",
+    "keywords": []
+  },
+  {
+    "idx": 307,
+    "start": 1263.66,
+    "text": "Tout est à disposition.",
+    "keywords": []
+  },
+  {
+    "idx": 308,
+    "start": 1264.66,
+    "text": "Tout est là, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 309,
+    "start": 1266.66,
+    "text": "Le suivi du client.",
+    "keywords": []
+  },
+  {
+    "idx": 310,
+    "start": 1268.66,
+    "text": "Très pratiquement, dès qu'on envoie un mail,",
+    "keywords": []
+  },
+  {
+    "idx": 311,
+    "start": 1270.66,
+    "text": "dès qu'on envoie un message à votre client,",
+    "keywords": []
+  },
+  {
+    "idx": 312,
+    "start": 1272.66,
+    "text": "et vous verrez que c'est la même chose pour l'intérimaire,",
+    "keywords": []
+  },
+  {
+    "idx": 313,
+    "start": 1274.66,
+    "text": "on a tout le détail de tous les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 314,
+    "start": 1276.66,
+    "text": "Donc là, on a envoyé un contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 315,
+    "start": 1277.66,
+    "text": "On peut visualiser le contrat qu'on a envoyé au client.",
+    "keywords": []
+  },
+  {
+    "idx": 316,
+    "start": 1279.66,
+    "text": "On a la date d'envoi.",
+    "keywords": []
+  },
+  {
+    "idx": 317,
+    "start": 1280.66,
+    "text": "Enfin, on a tous les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 318,
+    "start": 1282.66,
+    "text": "On a également les éléments,",
+    "keywords": []
+  },
+  {
+    "idx": 319,
+    "start": 1284.66,
+    "text": "c'est-à-dire quand on fait du recouvrement de créances, de factures.",
+    "keywords": [
+      "facture",
+      "recouvrement",
+      "créances"
+    ]
+  },
+  {
+    "idx": 320,
+    "start": 1287.66,
+    "text": "Donc, quand le comptable vous exprime avec la plus belle mauvaise foi qu'il soit,",
+    "keywords": []
+  },
+  {
+    "idx": 321,
+    "start": 1291.66,
+    "text": "qu'il n'a jamais reçu la facture,",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 322,
+    "start": 1293.66,
+    "text": "vous avez les dates d'envoi de chaque élément, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 323,
+    "start": 1296.66,
+    "text": "Et puis, les solutions externes.",
+    "keywords": []
+  },
+  {
+    "idx": 324,
+    "start": 1298.66,
+    "text": "C'est là qu'on va retrouver tous les liens de connexion Pixeed et d'autres,",
+    "keywords": []
+  },
+  {
+    "idx": 325,
+    "start": 1303.66,
+    "text": "parce qu'il en existe, il paraît.",
+    "keywords": []
+  },
+  {
+    "idx": 326,
+    "start": 1305.66,
+    "text": "La légende le dit, en tout cas, d'autres logiciels.",
+    "keywords": []
+  },
+  {
+    "idx": 327,
+    "start": 1307.66,
+    "text": "Moins bien, mais voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 328,
+    "start": 1309.66,
+    "text": "Donc, comme on se paramètre avec tout le monde,",
+    "keywords": []
+  },
+  {
+    "idx": 329,
+    "start": 1310.66,
+    "text": "on est effectivement connecté aussi.",
+    "keywords": []
+  },
+  {
+    "idx": 330,
+    "start": 1312.66,
+    "text": "C'est dans cette partie-là que vous connecterez",
+    "keywords": []
+  },
+  {
+    "idx": 331,
+    "start": 1314.66,
+    "text": "avec l'ensemble des éléments Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 332,
+    "start": 1316.66,
+    "text": "Vous mettrez votre institution et votre base propre à ce client.",
+    "keywords": []
+  },
+  {
+    "idx": 333,
+    "start": 1320.66,
+    "text": "Oui, on voit que vous avez la même politique,",
+    "keywords": []
+  },
+  {
+    "idx": 334,
+    "start": 1322.66,
+    "text": "en tout cas le même choix naturel pour les agences,",
+    "keywords": []
+  },
+  {
+    "idx": 335,
+    "start": 1325.66,
+    "text": "c'est de répondre à tous les besoins des clients de l'agence,",
+    "keywords": []
+  },
+  {
+    "idx": 336,
+    "start": 1328.66,
+    "text": "des intérimaires de l'agence Pixeed.",
+    "keywords": [
+      "intérimaire",
+      "agence",
+      "salarié"
+    ]
+  },
+  {
+    "idx": 337,
+    "start": 1332.66,
+    "text": "Pixeedisé, comme certains disent, ou non.",
+    "keywords": []
+  },
+  {
+    "idx": 338,
+    "start": 1334.66,
+    "text": "Exactement.",
+    "keywords": []
+  },
+  {
+    "idx": 339,
+    "start": 1335.66,
+    "text": "Après, effectivement, ce qu'on disait avec Pixeed,",
+    "keywords": []
+  },
+  {
+    "idx": 340,
+    "start": 1337.66,
+    "text": "on a cet intérêt d'avoir particulièrement travaillé le sujet",
+    "keywords": []
+  },
+  {
+    "idx": 341,
+    "start": 1340.66,
+    "text": "et on a une automatisation qui est hyper fluide",
+    "keywords": []
+  },
+  {
+    "idx": 342,
+    "start": 1344.66,
+    "text": "et en plus qui permet,",
+    "keywords": []
+  },
+  {
+    "idx": 343,
+    "start": 1346.66,
+    "text": "effectivement, d'économiser des sous,",
+    "keywords": []
+  },
+  {
+    "idx": 344,
+    "start": 1348.66,
+    "text": "parce que c'est extrêmement pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 345,
+    "start": 1350.66,
+    "text": "Et ce qu'on évoquait très, très rapidement sur la partie surcoût,",
+    "keywords": []
+  },
+  {
+    "idx": 346,
+    "start": 1354.66,
+    "text": "c'est la taxe de péage.",
+    "keywords": []
+  },
+  {
+    "idx": 347,
+    "start": 1356.66,
+    "text": "Je ne sais pas comment mes confrères indiquent ça sur leurs factures,",
+    "keywords": [
+      "facture",
+      "salarié",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 348,
+    "start": 1361.66,
+    "text": "mais oui, il n'y a pas de surcoût chez nous.",
+    "keywords": []
+  },
+  {
+    "idx": 349,
+    "start": 1363.66,
+    "text": "Quand vous envoyez des documents à Pixeed,",
+    "keywords": []
+  },
+  {
+    "idx": 350,
+    "start": 1365.66,
+    "text": "il n'y a pas ne serait-ce que quelques centimes, il n'y a rien.",
+    "keywords": []
+  },
+  {
+    "idx": 351,
+    "start": 1368.66,
+    "text": "Au contraire, tout est fluide et passe gratuitement",
+    "keywords": []
+  },
+  {
+    "idx": 352,
+    "start": 1371.66,
+    "text": "vers les logiciels de type Pixeed, évidemment.",
+    "keywords": []
+  },
+  {
+    "idx": 353,
+    "start": 1374.66,
+    "text": "D'accord.",
+    "keywords": []
+  },
+  {
+    "idx": 354,
+    "start": 1375.66,
+    "text": "Évidemment, merci.",
+    "keywords": []
+  },
+  {
+    "idx": 355,
+    "start": 1377.66,
+    "text": "Mais effectivement, ce n'est pas si évident.",
+    "keywords": []
+  },
+  {
+    "idx": 356,
+    "start": 1379.66,
+    "text": "On le voit.",
+    "keywords": []
+  },
+  {
+    "idx": 357,
+    "start": 1382.66,
+    "text": "Donc, si je comprends bien, vous êtes compatible,",
+    "keywords": []
+  },
+  {
+    "idx": 358,
+    "start": 1385.66,
+    "text": "on le redit, avec toutes les plateformes.",
+    "keywords": []
+  },
+  {
+    "idx": 359,
+    "start": 1387.66,
+    "text": "Avec Pixeed, l'avantage, c'est qu'il n'y a pas de facturation complémentaire.",
+    "keywords": []
+  },
+  {
+    "idx": 360,
+    "start": 1390.66,
+    "text": "Finalement, on ne paye, vous ne payez que,",
+    "keywords": []
+  },
+  {
+    "idx": 361,
+    "start": 1393.66,
+    "text": "vous ne payez que, le client ne paye que sa licence,",
+    "keywords": []
+  },
+  {
+    "idx": 362,
+    "start": 1396.66,
+    "text": "finalement, à jour.",
+    "keywords": []
+  },
+  {
+    "idx": 363,
+    "start": 1398.66,
+    "text": "Exactement.",
+    "keywords": []
+  },
+  {
+    "idx": 364,
+    "start": 1399.66,
+    "text": "Il y a même des remises quand vous venez de la part de baisse",
+    "keywords": []
+  },
+  {
+    "idx": 365,
+    "start": 1402.66,
+    "text": "vers Pixeed si vous prenez la collection complète.",
+    "keywords": []
+  },
+  {
+    "idx": 366,
+    "start": 1404.66,
+    "text": "Donc, au contraire, on évite des frais,",
+    "keywords": []
+  },
+  {
+    "idx": 367,
+    "start": 1407.66,
+    "text": "ce qui est extrêmement intéressant.",
+    "keywords": []
+  },
+  {
+    "idx": 368,
+    "start": 1409.66,
+    "text": "Et tant qu'à faire, c'est mieux pour tout le monde,",
+    "keywords": []
+  },
+  {
+    "idx": 369,
+    "start": 1411.66,
+    "text": "autant que les gens gagnent sur cette partie-là.",
+    "keywords": []
+  },
+  {
+    "idx": 370,
+    "start": 1414.66,
+    "text": "Exactement.",
+    "keywords": []
+  },
+  {
+    "idx": 371,
+    "start": 1415.66,
+    "text": "Alors, rapidement, on a vu la fiche entreprise.",
+    "keywords": []
+  },
+  {
+    "idx": 372,
+    "start": 1418.66,
+    "text": "Alors, c'est vrai qu'on a un temps court ce matin.",
+    "keywords": []
+  },
+  {
+    "idx": 373,
+    "start": 1420.66,
+    "text": "Donc, on va survoler un peu toutes les fonctionnalités logicielles,",
+    "keywords": []
+  },
+  {
+    "idx": 374,
+    "start": 1423.66,
+    "text": "mais ça fait partie des joies d'un webinar.",
+    "keywords": []
+  },
+  {
+    "idx": 375,
+    "start": 1425.66,
+    "text": "La deuxième partie, c'est la partie salarié,",
+    "keywords": [
+      "salarié",
+      "contrat",
+      "salaire"
+    ]
+  },
+  {
+    "idx": 376,
+    "start": 1428.66,
+    "text": "qui est vraiment basée sur la même logique.",
+    "keywords": []
+  },
+  {
+    "idx": 377,
+    "start": 1430.66,
+    "text": "Tout à l'heure, on avait une liste avec des clients en noir",
+    "keywords": []
+  },
+  {
+    "idx": 378,
+    "start": 1432.66,
+    "text": "et des prospects en gris.",
+    "keywords": []
+  },
+  {
+    "idx": 379,
+    "start": 1435.66,
+    "text": "Là, on a les candidats, enfin, les intérimaires en noir",
+    "keywords": []
+  },
+  {
+    "idx": 380,
+    "start": 1439.66,
+    "text": "et les candidats en gris.",
+    "keywords": []
+  },
+  {
+    "idx": 381,
+    "start": 1440.66,
+    "text": "La différence, c'est que le candidat, celui qui n'a jamais travaillé pour vous,",
+    "keywords": []
+  },
+  {
+    "idx": 382,
+    "start": 1443.66,
+    "text": "pour répondre à l'RGPD, va devoir disparaître au bout de 18 mois",
+    "keywords": []
+  },
+  {
+    "idx": 383,
+    "start": 1447.66,
+    "text": "si vous n'avez aucune interaction avec sa fiche.",
+    "keywords": []
+  },
+  {
+    "idx": 384,
+    "start": 1449.66,
+    "text": "Donc, ça fait partie.",
+    "keywords": []
+  },
+  {
+    "idx": 385,
+    "start": 1450.66,
+    "text": "Alors, vous avez les petits rappels, je vous rassure,",
+    "keywords": []
+  },
+  {
+    "idx": 386,
+    "start": 1452.66,
+    "text": "qui permettent de renvoyer un petit rappel, justement, à l'intérimaire",
+    "keywords": [
+      "intérimaires"
+    ]
+  },
+  {
+    "idx": 387,
+    "start": 1455.66,
+    "text": "pour pouvoir relancer 18 mois.",
+    "keywords": []
+  },
+  {
+    "idx": 388,
+    "start": 1456.66,
+    "text": "Mais ça fait partie, évidemment, des obligations de l'RGPD.",
+    "keywords": []
+  },
+  {
+    "idx": 389,
+    "start": 1460.66,
+    "text": "Pour rentrer à un point,",
+    "keywords": []
+  },
+  {
+    "idx": 390,
+    "start": 1461.66,
+    "text": "pour rentrer à un nouvel intérimaire,",
+    "keywords": [
+      "intérimaire",
+      "mission",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 391,
+    "start": 1463.66,
+    "text": "pareil, c'est aussi simple que tout à l'heure pour la partie entreprise,",
+    "keywords": []
+  },
+  {
+    "idx": 392,
+    "start": 1466.66,
+    "text": "on va directement aller chercher.",
+    "keywords": []
+  },
+  {
+    "idx": 393,
+    "start": 1468.66,
+    "text": "Ça, c'est dans son document, enfin, son CV.",
+    "keywords": []
+  },
+  {
+    "idx": 394,
+    "start": 1472.66,
+    "text": "On va scanner CV, etc., enfin, tous les documents qu'on peut imaginer.",
+    "keywords": []
+  },
+  {
+    "idx": 395,
+    "start": 1475.66,
+    "text": "Alors, de mémoire, j'avais effectivement un CV, voilà, qui était caché par là.",
+    "keywords": []
+  },
+  {
+    "idx": 396,
+    "start": 1479.66,
+    "text": "Donc, je vais scanner le document d'Eugénie Vincent.",
+    "keywords": []
+  },
+  {
+    "idx": 397,
+    "start": 1483.66,
+    "text": "Alors, je vais juste indiquer au logiciel cette partie nom, prénom, etc.,",
+    "keywords": []
+  },
+  {
+    "idx": 398,
+    "start": 1488.66,
+    "text": "ce qui va récupérer l'information.",
+    "keywords": []
+  },
+  {
+    "idx": 399,
+    "start": 1490.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 400,
+    "start": 1491.66,
+    "text": "Elle s'appelle Vincent Eugénie.",
+    "keywords": []
+  },
+  {
+    "idx": 401,
+    "start": 1492.66,
+    "text": "C'est une fille.",
+    "keywords": []
+  },
+  {
+    "idx": 402,
+    "start": 1493.66,
+    "text": "Elle a récupéré l'adresse.",
+    "keywords": []
+  },
+  {
+    "idx": 403,
+    "start": 1494.66,
+    "text": "J'ai la photo.",
+    "keywords": []
+  },
+  {
+    "idx": 404,
+    "start": 1495.66,
+    "text": "Alors, je vais pouvoir récupérer la photo.",
+    "keywords": []
+  },
+  {
+    "idx": 405,
+    "start": 1498.66,
+    "text": "Et puis, derrière, hop là, voilà, tac.",
+    "keywords": []
+  },
+  {
+    "idx": 406,
+    "start": 1502.66,
+    "text": "Je prends la photo.",
+    "keywords": []
+  },
+  {
+    "idx": 407,
+    "start": 1503.66,
+    "text": "Et puis, derrière, je vais indiquer au logiciel que tout ce document qui en soit passionnant,",
+    "keywords": []
+  },
+  {
+    "idx": 408,
+    "start": 1506.66,
+    "text": "c'est son CV.",
+    "keywords": []
+  },
+  {
+    "idx": 409,
+    "start": 1507.66,
+    "text": "Et j'aurais pu faire la même chose pour la identité, la carte de visite, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 410,
+    "start": 1509.66,
+    "text": "Donc, ça va évidemment prendre les documents, tout scanner, tout formater et lire.",
+    "keywords": []
+  },
+  {
+    "idx": 411,
+    "start": 1514.66,
+    "text": "Et ça va déchiffrer ce qui est dedans.",
+    "keywords": []
+  },
+  {
+    "idx": 412,
+    "start": 1516.66,
+    "text": "Et donc, on a vu qu'elle a le permis B, qu'elle parlait anglais, espagnol et français,",
+    "keywords": []
+  },
+  {
+    "idx": 413,
+    "start": 1519.66,
+    "text": "et qu'elle a toute une série de...",
+    "keywords": [
+      "je suis désolé"
+    ]
+  },
+  {
+    "idx": 414,
+    "start": 1520.66,
+    "text": "de mots clés dans ses métiers, commercial, formation, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 415,
+    "start": 1524.66,
+    "text": "Donc, si demain, je cherche une chef de publicité, évidemment, Eugénie va pouvoir ressortir",
+    "keywords": []
+  },
+  {
+    "idx": 416,
+    "start": 1531.66,
+    "text": "et vous pourrez lui communiquer ma recherche directement depuis le logiciel.",
+    "keywords": []
+  },
+  {
+    "idx": 417,
+    "start": 1536.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 418,
+    "start": 1537.66,
+    "text": "On peut évidemment anonymiser le CV si on veut l'envoyer aux clients de façon automatisée.",
+    "keywords": []
+  },
+  {
+    "idx": 419,
+    "start": 1541.66,
+    "text": "C'est extrêmement pratique dans ce domaine-là.",
+    "keywords": []
+  },
+  {
+    "idx": 420,
+    "start": 1543.66,
+    "text": "Bon, je n'ai pas gardé la fiche de Eugénie.",
+    "keywords": []
+  },
+  {
+    "idx": 421,
+    "start": 1546.66,
+    "text": "Je crois que je dois l'avoir déjà quelque part.",
+    "keywords": []
+  },
+  {
+    "idx": 422,
+    "start": 1549.66,
+    "text": "Mais c'est toujours...",
+    "keywords": []
+  },
+  {
+    "idx": 423,
+    "start": 1550.66,
+    "text": "C'est toujours intéressant.",
+    "keywords": []
+  },
+  {
+    "idx": 424,
+    "start": 1551.66,
+    "text": "Un petit aparté, effectivement.",
+    "keywords": []
+  },
+  {
+    "idx": 425,
+    "start": 1552.66,
+    "text": "J'ai survolé, mais c'est important.",
+    "keywords": []
+  },
+  {
+    "idx": 426,
+    "start": 1554.66,
+    "text": "Lorsqu'on récupère le CV, on récupère les langues.",
+    "keywords": []
+  },
+  {
+    "idx": 427,
+    "start": 1557.66,
+    "text": "On ne récupère pas le niveau des langues, mais c'est volontaire, évidemment.",
+    "keywords": []
+  },
+  {
+    "idx": 428,
+    "start": 1561.66,
+    "text": "Il ne faut jamais croire ce qui est marqué dans les CV et particulièrement sur les langues.",
+    "keywords": []
+  },
+  {
+    "idx": 429,
+    "start": 1565.66,
+    "text": "Ils sont tous bilingues anglais dans leurs CV.",
+    "keywords": []
+  },
+  {
+    "idx": 430,
+    "start": 1567.66,
+    "text": "Hélas, quand vous êtes touriste à Paris, ce n'est pas le cas.",
+    "keywords": []
+  },
+  {
+    "idx": 431,
+    "start": 1570.66,
+    "text": "Donc, c'est bien de laisser le recruteur valider les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 432,
+    "start": 1574.66,
+    "text": "Et puis, évidemment, on a derrière l'onglet CV.",
+    "keywords": []
+  },
+  {
+    "idx": 433,
+    "start": 1577.66,
+    "text": "On va pouvoir mettre les prétentions salariales, les différents métiers que la personne a fait.",
+    "keywords": [
+      "métier",
+      "salaire",
+      "prétention"
+    ]
+  },
+  {
+    "idx": 434,
+    "start": 1579.66,
+    "text": "Là, on pourra mettre le niveau des langues.",
+    "keywords": []
+  },
+  {
+    "idx": 435,
+    "start": 1582.66,
+    "text": "Et on pourra surtout mettre les permis d'habilitation avec les dates de validité.",
+    "keywords": []
+  },
+  {
+    "idx": 436,
+    "start": 1585.66,
+    "text": "Alors, un, pour que ça se retrouve dans la partie à droite de validité des documents,",
+    "keywords": []
+  },
+  {
+    "idx": 437,
+    "start": 1590.66,
+    "text": "mais aussi pour vous remonter une alerte quand vous faites un contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 438,
+    "start": 1593.66,
+    "text": "Si les documents ou si les cassettes, par exemple, ou une habilitation ou un permis poids lourd est ",
+    "keywords": []
+  },
+  {
+    "idx": 439,
+    "start": 1600.66,
+    "text": "évidemment, vous avez une alerte quand vous faites le contrat pour l'intérim.",
+    "keywords": [
+      "intérim",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 440,
+    "start": 1603.66,
+    "text": "La gestion vraiment de la candidature électronique vers les clients devient vraiment...",
+    "keywords": []
+  },
+  {
+    "idx": 441,
+    "start": 1608.66,
+    "text": "devient vraiment le point le plus saillant du processus.",
+    "keywords": []
+  },
+  {
+    "idx": 442,
+    "start": 1612.66,
+    "text": "Finalement, s'il faut mettre à jour la candidature juste avant de l'envoyer, ça nous fait perdre.",
+    "keywords": []
+  },
+  {
+    "idx": 443,
+    "start": 1618.66,
+    "text": "Ça vous fait perdre, en tout cas, un temps, un temps précieux dans la compétition.",
+    "keywords": []
+  },
+  {
+    "idx": 444,
+    "start": 1622.66,
+    "text": "Exactement. Plus on va vite dans ce domaine-là, il faut arriver avant l'autre.",
+    "keywords": []
+  },
+  {
+    "idx": 445,
+    "start": 1626.66,
+    "text": "C'est important.",
+    "keywords": []
+  },
+  {
+    "idx": 446,
+    "start": 1628.66,
+    "text": "Et puis, la carte BTP, pareil, on gère la carte BTP en toute automatique, en EDI.",
+    "keywords": []
+  },
+  {
+    "idx": 447,
+    "start": 1633.66,
+    "text": "Donc, vous n'avez plus à envoyer un fichier à l'ours.",
+    "keywords": []
+  },
+  {
+    "idx": 448,
+    "start": 1635.66,
+    "text": "Tout est automatisé, contrat après contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 449,
+    "start": 1638.66,
+    "text": "C'est en temps réel, donc c'est extrêmement pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 450,
+    "start": 1640.66,
+    "text": "On indiquera juste ici le numéro de la carte BTP de l'intérimaire",
+    "keywords": []
+  },
+  {
+    "idx": 451,
+    "start": 1643.66,
+    "text": "et sa date d'obtention et de péremption.",
+    "keywords": []
+  },
+  {
+    "idx": 452,
+    "start": 1645.66,
+    "text": "Donc, on a tous les éléments adéquats.",
+    "keywords": []
+  },
+  {
+    "idx": 453,
+    "start": 1647.66,
+    "text": "On a également des onglets handicap et insertion parce que, pour le coup,",
+    "keywords": []
+  },
+  {
+    "idx": 454,
+    "start": 1651.66,
+    "text": "notre législation est également destinée aux EATT et EETTI.",
+    "keywords": []
+  },
+  {
+    "idx": 455,
+    "start": 1655.66,
+    "text": "Et on a décidé de le laisser.",
+    "keywords": []
+  },
+  {
+    "idx": 456,
+    "start": 1657.66,
+    "text": "Alors, c'est un peu notre politique maison, de façon de laisser tout à tout le monde,",
+    "keywords": []
+  },
+  {
+    "idx": 457,
+    "start": 1660.66,
+    "text": "mais de laisser les onglets handicap et insertion pour tout le monde",
+    "keywords": []
+  },
+  {
+    "idx": 458,
+    "start": 1663.66,
+    "text": "parce que ça peut donner des idées, d'abord, et ça permet effectivement de renseigner,",
+    "keywords": []
+  },
+  {
+    "idx": 459,
+    "start": 1668.66,
+    "text": "l'information sur les personnes qui seraient en situation de RQTH, par exemple,",
+    "keywords": []
+  },
+  {
+    "idx": 460,
+    "start": 1672.66,
+    "text": "ou en insertion que vous pourriez avoir dans vos agences.",
+    "keywords": []
+  },
+  {
+    "idx": 461,
+    "start": 1675.66,
+    "text": "Derrière tout ce qui est notes, des mots clés qu'on peut indiquer.",
+    "keywords": []
+  },
+  {
+    "idx": 462,
+    "start": 1679.66,
+    "text": "On a la même chose du côté, effectivement, entreprises.",
+    "keywords": []
+  },
+  {
+    "idx": 463,
+    "start": 1682.66,
+    "text": "J'ai survolé un petit peu, mais on peut indiquer ici des mots clés,",
+    "keywords": []
+  },
+  {
+    "idx": 464,
+    "start": 1685.66,
+    "text": "des savoir-faire qui peut être des marques de matériel particulier",
+    "keywords": []
+  },
+  {
+    "idx": 465,
+    "start": 1689.66,
+    "text": "utilisé et sur lequel l'intérimaire est intégré.",
+    "keywords": []
+  },
+  {
+    "idx": 466,
+    "start": 1692.66,
+    "text": "Alors, je prends un exemple tout bête, mais j'ai découvert.",
+    "keywords": []
+  },
+  {
+    "idx": 467,
+    "start": 1694.66,
+    "text": "On a un de nos clients qui fournit des pilotes de ligne auprès de compagnies aériennes.",
+    "keywords": []
+  },
+  {
+    "idx": 468,
+    "start": 1698.66,
+    "text": "Et oui, on a des pilotes de ligne en intérim.",
+    "keywords": []
+  },
+  {
+    "idx": 469,
+    "start": 1700.66,
+    "text": "Depuis, moi, j'ai peur en avion.",
+    "keywords": []
+  },
+  {
+    "idx": 470,
+    "start": 1702.66,
+    "text": "Mais typiquement, sur les mots clés, on mettra l'ensemble des avions",
+    "keywords": []
+  },
+  {
+    "idx": 471,
+    "start": 1706.66,
+    "text": "sur lesquels le pilote est agréé.",
+    "keywords": []
+  },
+  {
+    "idx": 472,
+    "start": 1708.66,
+    "text": "Et dans la partie fiches entreprises, on mettra l'ensemble des avions de la compagnie.",
+    "keywords": []
+  },
+  {
+    "idx": 473,
+    "start": 1711.66,
+    "text": "On pourra du coup évidemment faire matcher l'un et l'autre.",
+    "keywords": []
+  },
+  {
+    "idx": 474,
+    "start": 1716.66,
+    "text": "L'ensemble des EPI que l'intérimaire, en tout cas, peut avoir l'utilité.",
+    "keywords": []
+  },
+  {
+    "idx": 475,
+    "start": 1720.66,
+    "text": "Donc, s'il les a personnellement, on va cocher.",
+    "keywords": []
+  },
+  {
+    "idx": 476,
+    "start": 1722.66,
+    "text": "Et si vous les confiez, évidemment, il y a une date.",
+    "keywords": []
+  },
+  {
+    "idx": 477,
+    "start": 1724.66,
+    "text": "La date à laquelle vous les avez confiés, ça évite qu'ils viennent se servir tous les 15 jours.",
+    "keywords": []
+  },
+  {
+    "idx": 478,
+    "start": 1728.66,
+    "text": "De chaussures de sécurité.",
+    "keywords": []
+  },
+  {
+    "idx": 479,
+    "start": 1729.66,
+    "text": "Et que vous alimentiez l'ensemble des chantiers de la région en chaussures, évidemment.",
+    "keywords": []
+  },
+  {
+    "idx": 480,
+    "start": 1735.66,
+    "text": "Derrière, l'ensemble des documents de l'intérimaire qu'on va directement retrouver ici.",
+    "keywords": []
+  },
+  {
+    "idx": 481,
+    "start": 1739.66,
+    "text": "Carte vitale, l'identité, le CV.",
+    "keywords": []
+  },
+  {
+    "idx": 482,
+    "start": 1742.66,
+    "text": "Enfin, tous les éléments qu'on peut imaginer, on va les retrouver directement ici.",
+    "keywords": []
+  },
+  {
+    "idx": 483,
+    "start": 1745.66,
+    "text": "On pourra évidemment, pareil, les envoyer au client qui en fait la demande, par exemple.",
+    "keywords": []
+  },
+  {
+    "idx": 484,
+    "start": 1750.66,
+    "text": "Pour anonymiser le CV, si on veut, avant de l'envoyer, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 485,
+    "start": 1753.66,
+    "text": "Enfin, c'est assez pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 486,
+    "start": 1755.66,
+    "text": "L'agenda d'intérimaire avec ses disponibilités.",
+    "keywords": []
+  },
+  {
+    "idx": 487,
+    "start": 1758.66,
+    "text": "S'il est en contrat, là.",
+    "keywords": []
+  },
+  {
+    "idx": 488,
+    "start": 1759.66,
+    "text": "Je crois que ce n'est pas le cas.",
+    "keywords": []
+  },
+  {
+    "idx": 489,
+    "start": 1760.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 490,
+    "start": 1761.66,
+    "text": "S'il est en contrat, il y aurait les contrats à dessiner.",
+    "keywords": []
+  },
+  {
+    "idx": 491,
+    "start": 1762.66,
+    "text": "C'est assez pratique.",
+    "keywords": []
+  },
+  {
+    "idx": 492,
+    "start": 1763.66,
+    "text": "Et enfin, ces contrats.",
+    "keywords": []
+  },
+  {
+    "idx": 493,
+    "start": 1764.66,
+    "text": "Justement, l'intérimaire qui a eu des contrats, on les retrouve ici.",
+    "keywords": [
+      "intérimaire",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 494,
+    "start": 1769.66,
+    "text": "Et pareil, en appuyant sur le petit œil, j'ai le contrat tel qu'il a été retourné, tamponné, signé.",
+    "keywords": []
+  },
+  {
+    "idx": 495,
+    "start": 1774.66,
+    "text": "Enfin, pas tamponné, pour le coup.",
+    "keywords": []
+  },
+  {
+    "idx": 496,
+    "start": 1775.66,
+    "text": "Mais en tout cas, signé par l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 497,
+    "start": 1777.66,
+    "text": "Donc, à tout moment, je peux ressortir les éléments de l'intérimaire et pouvoir envoyer, évidemment,",
+    "keywords": []
+  },
+  {
+    "idx": 498,
+    "start": 1785.66,
+    "text": "L'API de l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 499,
+    "start": 1786.66,
+    "text": "Je peux lui envoyer directement les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 500,
+    "start": 1787.66,
+    "text": "On gère, évidemment, en bas le CET également.",
+    "keywords": []
+  },
+  {
+    "idx": 501,
+    "start": 1790.66,
+    "text": "Enfin, tous les éléments nécessaires à nos différents rôles.",
+    "keywords": []
+  },
+  {
+    "idx": 502,
+    "start": 1795.66,
+    "text": "Et puis, derrière, tous les échanges qu'on peut avoir avec l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 503,
+    "start": 1798.66,
+    "text": "Pareil.",
+    "keywords": []
+  },
+  {
+    "idx": 504,
+    "start": 1799.66,
+    "text": "Dès qu'on lui a envoyé un petit message, on a l'info qui arrive ici.",
+    "keywords": []
+  },
+  {
+    "idx": 505,
+    "start": 1803.66,
+    "text": "Et puis, les solutions externes, pareil.",
+    "keywords": []
+  },
+  {
+    "idx": 506,
+    "start": 1804.66,
+    "text": "Il y a MyPixSeed, évidemment.",
+    "keywords": []
+  },
+  {
+    "idx": 507,
+    "start": 1806.66,
+    "text": "Et puis, les solutions internes de base qui permettent, justement, de communiquer.",
+    "keywords": []
+  },
+  {
+    "idx": 508,
+    "start": 1810.66,
+    "text": "MyPixSeed avec l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 509,
+    "start": 1812.66,
+    "text": "Et on a automatisé toute cette partie relations.",
+    "keywords": []
+  },
+  {
+    "idx": 510,
+    "start": 1815.66,
+    "text": "Entre autres, les feuilles de paie qui sont là.",
+    "keywords": [
+      "feuille de paie"
+    ]
+  },
+  {
+    "idx": 511,
+    "start": 1817.66,
+    "text": "Qui basculent directement dans les éléments de MyPixSeed.",
+    "keywords": []
+  },
+  {
+    "idx": 512,
+    "start": 1821.66,
+    "text": "Pour que vos intérimaires, dans leur coffre-fort MyPixSeed,",
+    "keywords": []
+  },
+  {
+    "idx": 513,
+    "start": 1823.66,
+    "text": "puissent retrouver directement leurs éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 514,
+    "start": 1826.66,
+    "text": "On a une entreprise.",
+    "keywords": []
+  },
+  {
+    "idx": 515,
+    "start": 1828.66,
+    "text": "On a des candidats.",
+    "keywords": []
+  },
+  {
+    "idx": 516,
+    "start": 1829.66,
+    "text": "On a eu une demande.",
+    "keywords": []
+  },
+  {
+    "idx": 517,
+    "start": 1830.66,
+    "text": "Alors, on va créer une commande.",
+    "keywords": []
+  },
+  {
+    "idx": 518,
+    "start": 1831.66,
+    "text": "On va récupérer une commande, si besoin, par MyPixSeed.",
+    "keywords": [
+      "commande"
+    ]
+  },
+  {
+    "idx": 519,
+    "start": 1834.66,
+    "text": "Et sinon, on va directement, après, faire la recherche.",
+    "keywords": []
+  },
+  {
+    "idx": 520,
+    "start": 1836.66,
+    "text": "Alors, admettons, j'ai besoin de Manu Tensionnaire pour une opération.",
+    "keywords": []
+  },
+  {
+    "idx": 521,
+    "start": 1840.66,
+    "text": "Je vais directement taper Manu quelque chose.",
+    "keywords": []
+  },
+  {
+    "idx": 522,
+    "start": 1842.66,
+    "text": "Je pourrais mettre une présence salariat.",
+    "keywords": []
+  },
+  {
+    "idx": 523,
+    "start": 1843.66,
+    "text": "Je pourrais mettre un niveau d'études minimum.",
+    "keywords": []
+  },
+  {
+    "idx": 524,
+    "start": 1845.66,
+    "text": "Une langue avec un niveau minimum.",
+    "keywords": []
+  },
+  {
+    "idx": 525,
+    "start": 1846.66,
+    "text": "Je peux isoler les gens en situation de handicap.",
+    "keywords": []
+  },
+  {
+    "idx": 526,
+    "start": 1849.66,
+    "text": "Donc, c'est que eux.",
+    "keywords": []
+  },
+  {
+    "idx": 527,
+    "start": 1850.66,
+    "text": "Si je décoche, j'ai tout le monde, dont eux.",
+    "keywords": []
+  },
+  {
+    "idx": 528,
+    "start": 1852.66,
+    "text": "On ne peut pas, par contre, les exclure.",
+    "keywords": []
+  },
+  {
+    "idx": 529,
+    "start": 1853.66,
+    "text": "C'est important.",
+    "keywords": []
+  },
+  {
+    "idx": 530,
+    "start": 1854.66,
+    "text": "Et puis, on va prendre des gens qui sont disponibles.",
+    "keywords": []
+  },
+  {
+    "idx": 531,
+    "start": 1857.66,
+    "text": "Des gens qui ont déjà travaillé pour un client.",
+    "keywords": []
+  },
+  {
+    "idx": 532,
+    "start": 1860.66,
+    "text": "Des gens qui sont même conseillers.",
+    "keywords": []
+  },
+  {
+    "idx": 533,
+    "start": 1862.66,
+    "text": "Des gens avec qui ça s'est très bien passé.",
+    "keywords": []
+  },
+  {
+    "idx": 534,
+    "start": 1864.66,
+    "text": "On peut les marquer dans le contrat que ça s'est très bien passé.",
+    "keywords": []
+  },
+  {
+    "idx": 535,
+    "start": 1866.66,
+    "text": "Et puis, derrière, on va pouvoir isoler des gens",
+    "keywords": []
+  },
+  {
+    "idx": 536,
+    "start": 1869.66,
+    "text": "autour de l'adresse de notre agence.",
+    "keywords": []
+  },
+  {
+    "idx": 537,
+    "start": 1872.66,
+    "text": "Autour de l'adresse de l'agence, par exemple.",
+    "keywords": []
+  },
+  {
+    "idx": 538,
+    "start": 1874.66,
+    "text": "Qui ont eu des cassettes.",
+    "keywords": []
+  },
+  {
+    "idx": 539,
+    "start": 1876.66,
+    "text": "Enfin, tout ce qu'on peut imaginer.",
+    "keywords": []
+  },
+  {
+    "idx": 540,
+    "start": 1878.66,
+    "text": "Je lance ma recherche.",
+    "keywords": []
+  },
+  {
+    "idx": 541,
+    "start": 1880.66,
+    "text": "Automatiquement, ça va me sortir évidemment une liste de gens adéquates.",
+    "keywords": []
+  },
+  {
+    "idx": 542,
+    "start": 1884.66,
+    "text": "Je peux aller même valider si j'ai le CV du candidat, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 543,
+    "start": 1887.66,
+    "text": "Enfin, bref.",
+    "keywords": []
+  },
+  {
+    "idx": 544,
+    "start": 1888.66,
+    "text": "Et puis, derrière, comme à l'école des fans,",
+    "keywords": []
+  },
+  {
+    "idx": 545,
+    "start": 1891.66,
+    "text": "tout le monde a gagné.",
+    "keywords": []
+  },
+  {
+    "idx": 546,
+    "start": 1892.66,
+    "text": "Je peux envoyer un petit mail ou un petit message.",
+    "keywords": []
+  },
+  {
+    "idx": 547,
+    "start": 1894.66,
+    "text": "Alors, les messages, très simplement, on va pouvoir...",
+    "keywords": []
+  },
+  {
+    "idx": 548,
+    "start": 1897.66,
+    "text": "Je vais quand même mettre bonjour.",
+    "keywords": []
+  },
+  {
+    "idx": 549,
+    "start": 1899.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 550,
+    "start": 1900.66,
+    "text": "Xperluette3, le petit signe qui veut dire « et ».",
+    "keywords": []
+  },
+  {
+    "idx": 551,
+    "start": 1902.66,
+    "text": "Qui va récupérer le prénom de l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 552,
+    "start": 1905.66,
+    "text": "Ça mettra « bonjour Alexandre », « bonjour Jean », « bonjour Vincent », « bonjour Mathieu », etc.",
+    "keywords": []
+  },
+  {
+    "idx": 553,
+    "start": 1912.66,
+    "text": "Et puis, derrière, j'ai une super opération pour vous.",
+    "keywords": []
+  },
+  {
+    "idx": 554,
+    "start": 1914.66,
+    "text": "Rappelez-moi dès que possible.",
+    "keywords": []
+  },
+  {
+    "idx": 555,
+    "start": 1916.66,
+    "text": "Et vous envoyez, en fonction d'ailleurs de la fiche de l'intérimaire.",
+    "keywords": [
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 556,
+    "start": 1918.66,
+    "text": "On va envoyer en texto.",
+    "keywords": []
+  },
+  {
+    "idx": 557,
+    "start": 1920.66,
+    "text": "Si l'intérimaire n'a aucune connexion avec l'application du logiciel.",
+    "keywords": []
+  },
+  {
+    "idx": 558,
+    "start": 1926.66,
+    "text": "Et si, par contre, il a téléchargé votre application.",
+    "keywords": []
+  },
+  {
+    "idx": 559,
+    "start": 1929.66,
+    "text": "Ça va lui envoyer directement une petite notification sur son téléphone.",
+    "keywords": []
+  },
+  {
+    "idx": 560,
+    "start": 1932.66,
+    "text": "L'intérêt de la notification, c'est qu'elle coûte zéro.",
+    "keywords": []
+  },
+  {
+    "idx": 561,
+    "start": 1935.66,
+    "text": "Ce qui est quand même beaucoup moins cher que quelques coûts que ce soit.",
+    "keywords": []
+  },
+  {
+    "idx": 562,
+    "start": 1939.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 563,
+    "start": 1940.66,
+    "text": "Et puis du coup, il y a un intérimaire qui va vous dire « Banco, j'y vais, je suis à fond et je veux",
+    "keywords": []
+  },
+  {
+    "idx": 564,
+    "start": 1944.66,
+    "text": "Je veux travailler. Laissez-moi bosser. »",
+    "keywords": []
+  },
+  {
+    "idx": 565,
+    "start": 1946.66,
+    "text": "Et bien, on n'a plus qu'à aller sur la partie contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 566,
+    "start": 1949.66,
+    "text": "Et on va directement pouvoir faire un contrat ou on crée un contrat de toutes pièces.",
+    "keywords": []
+  },
+  {
+    "idx": 567,
+    "start": 1953.66,
+    "text": "Ce qu'on va faire d'ailleurs.",
+    "keywords": []
+  },
+  {
+    "idx": 568,
+    "start": 1955.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 569,
+    "start": 1956.66,
+    "text": "Je vais aller chercher.",
+    "keywords": []
+  },
+  {
+    "idx": 570,
+    "start": 1957.66,
+    "text": "Alors, j'ai une intérimaire fétiche.",
+    "keywords": [
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 571,
+    "start": 1959.66,
+    "text": "C'est mon écolo de la banque, Green Dominique.",
+    "keywords": []
+  },
+  {
+    "idx": 572,
+    "start": 1961.66,
+    "text": "Derrière, je vais la mettre effectivement chez le groupe Accor.",
+    "keywords": []
+  },
+  {
+    "idx": 573,
+    "start": 1964.66,
+    "text": "Téléconseil, on va la mettre manutentionnaire.",
+    "keywords": []
+  },
+  {
+    "idx": 574,
+    "start": 1967.66,
+    "text": "Voilà, tant qu'à faire.",
+    "keywords": []
+  },
+  {
+    "idx": 575,
+    "start": 1969.66,
+    "text": "Alors, elle est toute finote, mais ce n'est pas grave.",
+    "keywords": []
+  },
+  {
+    "idx": 576,
+    "start": 1971.66,
+    "text": "Elle va nous apporter les choses.",
+    "keywords": []
+  },
+  {
+    "idx": 577,
+    "start": 1973.66,
+    "text": "Et puis derrière, justificatif.",
+    "keywords": []
+  },
+  {
+    "idx": 578,
+    "start": 1974.66,
+    "text": "On va mettre tout ce qu'on veut.",
+    "keywords": []
+  },
+  {
+    "idx": 579,
+    "start": 1975.66,
+    "text": "Cartier du poste, on mettra tout ce qu'on veut.",
+    "keywords": []
+  },
+  {
+    "idx": 580,
+    "start": 1977.66,
+    "text": "Ah, chez Accor, il y a un illustreur de boissons.",
+    "keywords": []
+  },
+  {
+    "idx": 581,
+    "start": 1979.66,
+    "text": "Ça s'est mis automatiquement.",
+    "keywords": []
+  },
+  {
+    "idx": 582,
+    "start": 1981.66,
+    "text": "Et puis derrière, on va mettre les dates directement du contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 583,
+    "start": 1983.66,
+    "text": "Alors, on va lui faire un petit contrat jusqu'au 15 octobre.",
+    "keywords": []
+  },
+  {
+    "idx": 584,
+    "start": 1986.66,
+    "text": "Et même jusqu'au 27.",
+    "keywords": []
+  },
+  {
+    "idx": 585,
+    "start": 1987.66,
+    "text": "Comme ça, elle pourra venir fêter mon anniversaire.",
+    "keywords": []
+  },
+  {
+    "idx": 586,
+    "start": 1990.66,
+    "text": "Et en même temps, elle passera le 20 octobre à la conférence Pixy.",
+    "keywords": []
+  },
+  {
+    "idx": 587,
+    "start": 1993.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 588,
+    "start": 1994.66,
+    "text": "Et puis derrière, une fois qu'on a mis les éléments,",
+    "keywords": []
+  },
+  {
+    "idx": 589,
+    "start": 1997.66,
+    "text": "ça calcule la période d'essai, ça calcule l'aménagement si besoin",
+    "keywords": []
+  },
+  {
+    "idx": 590,
+    "start": 2000.66,
+    "text": "et ça calcule tous les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 591,
+    "start": 2002.66,
+    "text": "On va pouvoir mettre les horaires de la mission.",
+    "keywords": []
+  },
+  {
+    "idx": 592,
+    "start": 2004.66,
+    "text": "Alors, c'est un truc de feignant, mais je peux tout effacer.",
+    "keywords": []
+  },
+  {
+    "idx": 593,
+    "start": 2007.66,
+    "text": "Et puis derrière, dessiner tout simplement avec la souris",
+    "keywords": []
+  },
+  {
+    "idx": 594,
+    "start": 2012.66,
+    "text": "les horaires de la mission.",
+    "keywords": []
+  },
+  {
+    "idx": 595,
+    "start": 2014.66,
+    "text": "Et ça va reprendre l'ensemble de ces éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 596,
+    "start": 2017.66,
+    "text": "Hop là, directement.",
+    "keywords": []
+  },
+  {
+    "idx": 597,
+    "start": 2018.66,
+    "text": "Et ça va réécrire tout ça.",
+    "keywords": []
+  },
+  {
+    "idx": 598,
+    "start": 2020.66,
+    "text": "Ça, c'est vraiment un truc de feignant.",
+    "keywords": []
+  },
+  {
+    "idx": 599,
+    "start": 2022.66,
+    "text": "Et puis derrière, j'appelle ça.",
+    "keywords": []
+  },
+  {
+    "idx": 600,
+    "start": 2024.66,
+    "text": "Je vais y aller avec 15 euros de l'heure, ce que je suis généré aujourd'hui.",
+    "keywords": []
+  },
+  {
+    "idx": 601,
+    "start": 2027.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 602,
+    "start": 2028.66,
+    "text": "Un tel trajet est déjà prévu parce que chez ce client, il y a des trajets.",
+    "keywords": []
+  },
+  {
+    "idx": 603,
+    "start": 2030.66,
+    "text": "Mais je pourrais rajouter des unités ou des primes soumises ou non soumises.",
+    "keywords": []
+  },
+  {
+    "idx": 604,
+    "start": 2035.66,
+    "text": "D'ailleurs, qui seront automatiquement paramétrées.",
+    "keywords": []
+  },
+  {
+    "idx": 605,
+    "start": 2037.66,
+    "text": "Là, c'est par jour de travail.",
+    "keywords": []
+  },
+  {
+    "idx": 606,
+    "start": 2038.66,
+    "text": "Mais je pourrais mettre par si l'intérimaire a au moins travaillé tant d'heures,",
+    "keywords": []
+  },
+  {
+    "idx": 607,
+    "start": 2041.66,
+    "text": "si c'est par heure, etc., etc.",
+    "keywords": []
+  },
+  {
+    "idx": 608,
+    "start": 2043.66,
+    "text": "Une fois que j'ai fait le contrat, je valide.",
+    "keywords": []
+  },
+  {
+    "idx": 609,
+    "start": 2046.66,
+    "text": "Automatiquement, hop là, ça ne s'est pas vu.",
+    "keywords": []
+  },
+  {
+    "idx": 610,
+    "start": 2048.66,
+    "text": "Ah ça y est, voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 611,
+    "start": 2049.66,
+    "text": "Il me propose de transmettre la DPAE.",
+    "keywords": []
+  },
+  {
+    "idx": 612,
+    "start": 2051.66,
+    "text": "Et directement, la DPAE est passée.",
+    "keywords": []
+  },
+  {
+    "idx": 613,
+    "start": 2053.66,
+    "text": "Et je peux passer effectivement à l'étape d'après,",
+    "keywords": []
+  },
+  {
+    "idx": 614,
+    "start": 2056.66,
+    "text": "c'est-à-dire envoyer le contrat à mon intérimaire.",
+    "keywords": [
+      "contract",
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 615,
+    "start": 2060.66,
+    "text": "Alors admettons, j'ai fait, j'ai beaucoup travaillé aujourd'hui.",
+    "keywords": []
+  },
+  {
+    "idx": 616,
+    "start": 2064.66,
+    "text": "J'ai offert tous ces contrats.",
+    "keywords": []
+  },
+  {
+    "idx": 617,
+    "start": 2065.66,
+    "text": "Automatiquement, je vais pouvoir envoyer l'ensemble des contrats aux intérimaires et aux clients.",
+    "keywords": [
+      "contrat",
+      "intérimaire",
+      "client"
+    ]
+  },
+  {
+    "idx": 618,
+    "start": 2070.66,
+    "text": "J'ai juste à appuyer sur go.",
+    "keywords": []
+  },
+  {
+    "idx": 619,
+    "start": 2072.66,
+    "text": "Donc, en fonction de la fiche intérimaire et la fiche client,",
+    "keywords": []
+  },
+  {
+    "idx": 620,
+    "start": 2075.66,
+    "text": "ça l'enverra par mail, par Pixeed, par Vilsing qui est la signature graphique chez nous,",
+    "keywords": []
+  },
+  {
+    "idx": 621,
+    "start": 2080.66,
+    "text": "mais par tout autre élément.",
+    "keywords": []
+  },
+  {
+    "idx": 622,
+    "start": 2081.66,
+    "text": "Automatiquement, c'est fluide.",
+    "keywords": []
+  },
+  {
+    "idx": 623,
+    "start": 2082.66,
+    "text": "Et ça, c'est gratuit.",
+    "keywords": []
+  },
+  {
+    "idx": 624,
+    "start": 2083.66,
+    "text": "Et ça fait le travail directement.",
+    "keywords": []
+  },
+  {
+    "idx": 625,
+    "start": 2085.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 626,
+    "start": 2086.66,
+    "text": "Et puis, une fois qu'on a fait le contrat,",
+    "keywords": []
+  },
+  {
+    "idx": 627,
+    "start": 2089.66,
+    "text": "l'intérimaire a été déclaré.",
+    "keywords": []
+  },
+  {
+    "idx": 628,
+    "start": 2092.66,
+    "text": "J'ai envoyé ces éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 629,
+    "start": 2093.66,
+    "text": "Il n'a plus qu'à aller travailler.",
+    "keywords": []
+  },
+  {
+    "idx": 630,
+    "start": 2095.66,
+    "text": "Et en fait, s'il va travailler,",
+    "keywords": []
+  },
+  {
+    "idx": 631,
+    "start": 2097.66,
+    "text": "derrière, je n'ai plus qu'à tout simplement rentrer les heures.",
+    "keywords": []
+  },
+  {
+    "idx": 632,
+    "start": 2099.66,
+    "text": "Donc, ou j'ai récupéré les heures via Pixeed avec les relevés d'heures et les relevés d'heures valor",
+    "keywords": []
+  },
+  {
+    "idx": 633,
+    "start": 2104.66,
+    "text": "ou évidemment, il m'a envoyé les heures par l'application ou directement par mail ou que sais-je enc",
+    "keywords": []
+  },
+  {
+    "idx": 634,
+    "start": 2110.66,
+    "text": "Alors, plein de solutions pour rentrer les heures.",
+    "keywords": []
+  },
+  {
+    "idx": 635,
+    "start": 2112.66,
+    "text": "C'est un système de feignant chez nous.",
+    "keywords": []
+  },
+  {
+    "idx": 636,
+    "start": 2114.66,
+    "text": "Je clique sur la petite baguette magique et on va m'indiquer les horaires initialement prévus au con",
+    "keywords": []
+  },
+  {
+    "idx": 637,
+    "start": 2120.66,
+    "text": "Donc, 8 heures par jour.",
+    "keywords": []
+  },
+  {
+    "idx": 638,
+    "start": 2121.66,
+    "text": "Et puis, évidemment, il a fait des heures sup.",
+    "keywords": []
+  },
+  {
+    "idx": 639,
+    "start": 2123.66,
+    "text": "Hop là, je rajoute quelques heures sup.",
+    "keywords": []
+  },
+  {
+    "idx": 640,
+    "start": 2125.66,
+    "text": "Et automatiquement, en dessous, ça va paramétrer les éléments, calculer.",
+    "keywords": []
+  },
+  {
+    "idx": 641,
+    "start": 2129.66,
+    "text": "Donc là, on voit le nombre normal.",
+    "keywords": []
+  },
+  {
+    "idx": 642,
+    "start": 2131.66,
+    "text": "Il a eu des heures sup.",
+    "keywords": []
+  },
+  {
+    "idx": 643,
+    "start": 2132.66,
+    "text": "Il a eu pas mal de choses, le brave homme.",
+    "keywords": []
+  },
+  {
+    "idx": 644,
+    "start": 2134.66,
+    "text": "Ça, c'est du médical à mon avis.",
+    "keywords": []
+  },
+  {
+    "idx": 645,
+    "start": 2136.66,
+    "text": "On aura des heures comme ça.",
+    "keywords": []
+  },
+  {
+    "idx": 646,
+    "start": 2137.66,
+    "text": "Et donc, du coup, je vais pouvoir paramétrer.",
+    "keywords": []
+  },
+  {
+    "idx": 647,
+    "start": 2139.66,
+    "text": "Et puis, encore plus, on aura des heures à 50, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 648,
+    "start": 2141.66,
+    "text": "D'accord.",
+    "keywords": []
+  },
+  {
+    "idx": 649,
+    "start": 2142.66,
+    "text": "Des avantages en nature.",
+    "keywords": []
+  },
+  {
+    "idx": 650,
+    "start": 2143.66,
+    "text": "Il a été de grands déplacements.",
+    "keywords": []
+  },
+  {
+    "idx": 651,
+    "start": 2145.66,
+    "text": "Donc, il a tous les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 652,
+    "start": 2146.66,
+    "text": "OK.",
+    "keywords": []
+  },
+  {
+    "idx": 653,
+    "start": 2147.66,
+    "text": "Je n'ai plus qu'à valider mon contrat.",
+    "keywords": []
+  },
+  {
+    "idx": 654,
+    "start": 2148.66,
+    "text": "Mes relevés d'heures.",
+    "keywords": []
+  },
+  {
+    "idx": 655,
+    "start": 2149.66,
+    "text": "Une fois que j'ai rentré mes relevés d'heures, eh bien, je vais pouvoir aller directement dans la pa",
+    "keywords": [
+      "facture",
+      "relevé",
+      "heures"
+    ]
+  },
+  {
+    "idx": 656,
+    "start": 2156.66,
+    "text": "Hop là.",
+    "keywords": []
+  },
+  {
+    "idx": 657,
+    "start": 2158.66,
+    "text": "Donc, tout se lit en fait d'en bas.",
+    "keywords": []
+  },
+  {
+    "idx": 658,
+    "start": 2159.66,
+    "text": "C'est ça qui est intéressant.",
+    "keywords": []
+  },
+  {
+    "idx": 659,
+    "start": 2160.66,
+    "text": "On ne va pas d'un fichier à un autre, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 660,
+    "start": 2162.66,
+    "text": "Tout est relié directement.",
+    "keywords": []
+  },
+  {
+    "idx": 661,
+    "start": 2164.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 662,
+    "start": 2165.66,
+    "text": "Adobe typiquement, mais admettons, je fais toutes ces factures d'un coup.",
+    "keywords": []
+  },
+  {
+    "idx": 663,
+    "start": 2169.66,
+    "text": "Je vais aller mettre la date de facturation.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 664,
+    "start": 2171.66,
+    "text": "Mettre la date de facturation au 30 septembre.",
+    "keywords": []
+  },
+  {
+    "idx": 665,
+    "start": 2173.66,
+    "text": "Ça se fait souvent au dernier jour, mais j'aurais pu mettre n'importe quelle date.",
+    "keywords": []
+  },
+  {
+    "idx": 666,
+    "start": 2176.66,
+    "text": "Ça m'édite mes factures.",
+    "keywords": [
+      "facture",
+      "contrat",
+      "salarié"
+    ]
+  },
+  {
+    "idx": 667,
+    "start": 2178.66,
+    "text": "Une fois que j'ai mes factures éditées, on va aller jusqu'au bout, on va faire toutes les factures.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 668,
+    "start": 2183.66,
+    "text": "Et une fois que j'ai édité toutes mes factures, derrière, je n'ai plus qu'à cliquer sur la petite im",
+    "keywords": []
+  },
+  {
+    "idx": 669,
+    "start": 2188.66,
+    "text": "Ça va imprimer pour ceux qui le souhaitent.",
+    "keywords": []
+  },
+  {
+    "idx": 670,
+    "start": 2192.66,
+    "text": "Et surtout, ça va envoyer par mail à tous les destinataires de chaque client, de chaque élément qui ",
+    "keywords": [
+      "facture",
+      "client",
+      "mail"
+    ]
+  },
+  {
+    "idx": 671,
+    "start": 2200.66,
+    "text": "Donc, une fois que tout est envoyé, vous n'avez plus qu'à envoyer au comptable après les différents,",
+    "keywords": []
+  },
+  {
+    "idx": 672,
+    "start": 2208.66,
+    "text": "Donc, le comptable n'a plus rien à saisir.",
+    "keywords": []
+  },
+  {
+    "idx": 673,
+    "start": 2210.66,
+    "text": "Tout est directement relié et de toute façon extrêmement fluide.",
+    "keywords": []
+  },
+  {
+    "idx": 674,
+    "start": 2214.66,
+    "text": "Et puis, une fois qu'on a fait les factures, vieille tradition, on va pouvoir aussi payer l'intérima",
+    "keywords": [
+      "intérimaire",
+      "facture",
+      "paie"
+    ]
+  },
+  {
+    "idx": 675,
+    "start": 2220.66,
+    "text": "J'ai dit vieille tradition parce qu'ils aiment bien quand même.",
+    "keywords": []
+  },
+  {
+    "idx": 676,
+    "start": 2223.66,
+    "text": "Alors, on va passer les payes du mois d'août.",
+    "keywords": []
+  },
+  {
+    "idx": 677,
+    "start": 2225.66,
+    "text": "On va faire les payes du mois de septembre, admettons.",
+    "keywords": []
+  },
+  {
+    "idx": 678,
+    "start": 2227.66,
+    "text": "On est au mois d'octobre.",
+    "keywords": []
+  },
+  {
+    "idx": 679,
+    "start": 2230.66,
+    "text": "Là, on va se dire, je ne sais pas, on va payer le 7 octobre.",
+    "keywords": []
+  },
+  {
+    "idx": 680,
+    "start": 2234.66,
+    "text": "On va faire les payes et du coup, on va déclencher les payes.",
+    "keywords": []
+  },
+  {
+    "idx": 681,
+    "start": 2239.66,
+    "text": "Donc, ça va récupérer directement les éléments du prélèvement à la source.",
+    "keywords": []
+  },
+  {
+    "idx": 682,
+    "start": 2242.66,
+    "text": "Ça interroge l'intérimaire santé pour la mutuelle et la prévoyance.",
+    "keywords": []
+  },
+  {
+    "idx": 683,
+    "start": 2246.66,
+    "text": "Et dès qu'on a le retour, automatiquement, ça va pouvoir faire les payes.",
+    "keywords": [
+      "paye",
+      "salaire"
+    ]
+  },
+  {
+    "idx": 684,
+    "start": 2250.66,
+    "text": "Donc là, on a pris des intérimaires, pris des clients, fait des contrats, saisit les heures.",
+    "keywords": []
+  },
+  {
+    "idx": 685,
+    "start": 2257.66,
+    "text": "On a fait des factures, on a fait les payes directement.",
+    "keywords": [
+      "facture",
+      "paie"
+    ]
+  },
+  {
+    "idx": 686,
+    "start": 2259.66,
+    "text": "Ici, je prends une paye au hasard.",
+    "keywords": []
+  },
+  {
+    "idx": 687,
+    "start": 2263.66,
+    "text": "Alors, Marie-Amélie, directement.",
+    "keywords": []
+  },
+  {
+    "idx": 688,
+    "start": 2266.66,
+    "text": "Donc, j'ai les éléments sur notre entreprise, les éléments sur Marie-Amélie, donc l'intérimaire.",
+    "keywords": []
+  },
+  {
+    "idx": 689,
+    "start": 2272.66,
+    "text": "Et puis derrière, je vais pouvoir avoir tous les éléments sur le client, enfin, sur son calcul de sa",
+    "keywords": [
+      "client",
+      "salaire",
+      "paye"
+    ]
+  },
+  {
+    "idx": 690,
+    "start": 2279.66,
+    "text": "avec tout ce qu'on peut imaginer, les charges, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 691,
+    "start": 2282.66,
+    "text": "En dessous, tout ce qui est non soumis à cotisation.",
+    "keywords": []
+  },
+  {
+    "idx": 692,
+    "start": 2284.66,
+    "text": "Et puis derrière, la perçue à la compte.",
+    "keywords": []
+  },
+  {
+    "idx": 693,
+    "start": 2286.66,
+    "text": "Donc, on a évidemment marqué la compte.",
+    "keywords": []
+  },
+  {
+    "idx": 694,
+    "start": 2288.66,
+    "text": "Le prélèvement à la source est détaillé ici.",
+    "keywords": []
+  },
+  {
+    "idx": 695,
+    "start": 2290.66,
+    "text": "Bref, on a tous les éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 696,
+    "start": 2292.66,
+    "text": "On n'a plus qu'à faire le versement des salaires.",
+    "keywords": []
+  },
+  {
+    "idx": 697,
+    "start": 2295.66,
+    "text": "Et une fois qu'on a fait l'ensemble des payes, je vais pouvoir appuyer sur documents.",
+    "keywords": []
+  },
+  {
+    "idx": 698,
+    "start": 2302.66,
+    "text": "Envoyer par mail la bulletin de paie sur le pôle emploi si il y a un cas de travail.",
+    "keywords": [
+      "bulletin",
+      "paie",
+      "mail",
+      "pôle emploi"
+    ]
+  },
+  {
+    "idx": 699,
+    "start": 2306.66,
+    "text": "Si, pareil, je suis chez Pixeed, dans le coffre-fort Pixeed, ça enverra directement dans le coffre-f",
+    "keywords": []
+  },
+  {
+    "idx": 700,
+    "start": 2315.66,
+    "text": "Et si je ne suis pas dans le coffre-fort Pixeed, donc cryptez nous les données.",
+    "keywords": []
+  },
+  {
+    "idx": 701,
+    "start": 2317.66,
+    "text": "Donc, l'intérimaire a un mot de passe et on peut l'envoyer par mail de façon cryptée.",
+    "keywords": []
+  },
+  {
+    "idx": 702,
+    "start": 2320.66,
+    "text": "Donc, on répond à l'RGPD.",
+    "keywords": []
+  },
+  {
+    "idx": 703,
+    "start": 2322.66,
+    "text": "Terminé, on a fait un petit message sympathique.",
+    "keywords": []
+  },
+  {
+    "idx": 704,
+    "start": 2324.66,
+    "text": "On l'a envoyé sans bulletin de paie.",
+    "keywords": []
+  },
+  {
+    "idx": 705,
+    "start": 2326.66,
+    "text": "On peut même lui envoyer un petit SMS en même temps.",
+    "keywords": []
+  },
+  {
+    "idx": 706,
+    "start": 2328.66,
+    "text": "En disant bonjour, toujours, espère lui être 3 pour le prénom.",
+    "keywords": []
+  },
+  {
+    "idx": 707,
+    "start": 2331.66,
+    "text": "Je viens de vous envoyer les payes par mail.",
+    "keywords": [
+      "salarié",
+      "paie",
+      "mail"
+    ]
+  },
+  {
+    "idx": 708,
+    "start": 2333.66,
+    "text": "Merci d'avoir travaillé pour nous ce mois-ci.",
+    "keywords": []
+  },
+  {
+    "idx": 709,
+    "start": 2335.66,
+    "text": "C'était super. Bisous, bisous.",
+    "keywords": []
+  },
+  {
+    "idx": 710,
+    "start": 2336.66,
+    "text": "Et vous envoyez. Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 711,
+    "start": 2338.66,
+    "text": "On voit qu'il y a des outils déjà effectivement digitaux et connectés.",
+    "keywords": []
+  },
+  {
+    "idx": 712,
+    "start": 2344.66,
+    "text": "L'ergonomie.",
+    "keywords": []
+  },
+  {
+    "idx": 713,
+    "start": 2346.66,
+    "text": "L'ergonomie a toujours été, j'ai l'impression, un de vos points de recherche.",
+    "keywords": []
+  },
+  {
+    "idx": 714,
+    "start": 2350.66,
+    "text": "En fait, il ne faut pas perdre de temps sur ces éléments-là.",
+    "keywords": []
+  },
+  {
+    "idx": 715,
+    "start": 2354.66,
+    "text": "Donc, il faut que tout soit fluide pour que ce soit extrêmement simple.",
+    "keywords": []
+  },
+  {
+    "idx": 716,
+    "start": 2357.66,
+    "text": "Et pareil, une fois qu'on a fait toutes les payes, on a envoyé les bulletins de paie.",
+    "keywords": []
+  },
+  {
+    "idx": 717,
+    "start": 2360.66,
+    "text": "On n'a plus qu'à créer le fichier de virement au format CEPA",
+    "keywords": []
+  },
+  {
+    "idx": 718,
+    "start": 2364.66,
+    "text": "qu'on va déposer sur l'interface web de son site de banque.",
+    "keywords": []
+  },
+  {
+    "idx": 719,
+    "start": 2369.66,
+    "text": "Et les choses sont faites.",
+    "keywords": []
+  },
+  {
+    "idx": 720,
+    "start": 2371.66,
+    "text": "On ne peut plus simplement. Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 721,
+    "start": 2373.66,
+    "text": "Et puis, une fois qu'on a fait les payes,",
+    "keywords": []
+  },
+  {
+    "idx": 722,
+    "start": 2375.66,
+    "text": "les factures, etc.,",
+    "keywords": []
+  },
+  {
+    "idx": 723,
+    "start": 2377.66,
+    "text": "on va tout simplement aller dans la partie douloureuse,",
+    "keywords": []
+  },
+  {
+    "idx": 724,
+    "start": 2381.66,
+    "text": "dans la partie DSN.",
+    "keywords": []
+  },
+  {
+    "idx": 725,
+    "start": 2383.66,
+    "text": "Voilà, très simplement.",
+    "keywords": []
+  },
+  {
+    "idx": 726,
+    "start": 2384.66,
+    "text": "La DSN chez nous, c'est ultra fluide.",
+    "keywords": []
+  },
+  {
+    "idx": 727,
+    "start": 2386.66,
+    "text": "Ça fait un pré-contrôle.",
+    "keywords": []
+  },
+  {
+    "idx": 728,
+    "start": 2388.66,
+    "text": "Et derrière, une fois que j'ai fait mon pré-contrôle,",
+    "keywords": []
+  },
+  {
+    "idx": 729,
+    "start": 2390.66,
+    "text": "je vais pouvoir lancer.",
+    "keywords": []
+  },
+  {
+    "idx": 730,
+    "start": 2392.66,
+    "text": "Donc, ça va saisir le fichier, le préparer, le générer.",
+    "keywords": []
+  },
+  {
+    "idx": 731,
+    "start": 2396.66,
+    "text": "Alors là, je ne vous le montrerai pas parce que ça va me coûter 150 000 euros",
+    "keywords": []
+  },
+  {
+    "idx": 732,
+    "start": 2399.66,
+    "text": "à chaque démonstration.",
+    "keywords": []
+  },
+  {
+    "idx": 733,
+    "start": 2400.66,
+    "text": "Sinon, ça envoie effectivement le fichier directement à l'Ursaf,",
+    "keywords": []
+  },
+  {
+    "idx": 734,
+    "start": 2404.66,
+    "text": "enfin à NetEntreprise,",
+    "keywords": []
+  },
+  {
+    "idx": 735,
+    "start": 2405.66,
+    "text": "et ça fait le boulot directement.",
+    "keywords": []
+  },
+  {
+    "idx": 736,
+    "start": 2407.66,
+    "text": "Et pareil avec la Mutuelle,",
+    "keywords": []
+  },
+  {
+    "idx": 737,
+    "start": 2409.66,
+    "text": "ça envoie le fichier des heures à Intérimaires Santé.",
+    "keywords": []
+  },
+  {
+    "idx": 738,
+    "start": 2412.66,
+    "text": "Donc, tout est automatisé à ce niveau-là.",
+    "keywords": []
+  },
+  {
+    "idx": 739,
+    "start": 2414.66,
+    "text": "Vous n'avez pas grand-chose à faire à part regarder",
+    "keywords": []
+  },
+  {
+    "idx": 740,
+    "start": 2416.66,
+    "text": "et aller prendre un café si besoin.",
+    "keywords": []
+  },
+  {
+    "idx": 741,
+    "start": 2418.66,
+    "text": "Et puis, une fois qu'on a fait l'ensemble des éléments,",
+    "keywords": []
+  },
+  {
+    "idx": 742,
+    "start": 2421.66,
+    "text": "on a derrière toutes les statistiques possibles.",
+    "keywords": []
+  },
+  {
+    "idx": 743,
+    "start": 2425.66,
+    "text": "Imaginez, on a une statistique de recherche d'erreur.",
+    "keywords": []
+  },
+  {
+    "idx": 744,
+    "start": 2427.66,
+    "text": "C'est pour avant d'envoyer les payes et les factures.",
+    "keywords": []
+  },
+  {
+    "idx": 745,
+    "start": 2429.66,
+    "text": "On module un petit peu pour voir si on n'a pas oublié",
+    "keywords": []
+  },
+  {
+    "idx": 746,
+    "start": 2431.66,
+    "text": "certaines heures à facturer.",
+    "keywords": []
+  },
+  {
+    "idx": 747,
+    "start": 2433.66,
+    "text": "Et puis enfin, comme on a envoyé les factures,",
+    "keywords": [
+      "facture",
+      "contrat",
+      "salarié"
+    ]
+  },
+  {
+    "idx": 748,
+    "start": 2435.66,
+    "text": "on va imaginer que le client de lui-même,",
+    "keywords": []
+  },
+  {
+    "idx": 749,
+    "start": 2438.66,
+    "text": "par instinct, paye sa facture.",
+    "keywords": []
+  },
+  {
+    "idx": 750,
+    "start": 2440.66,
+    "text": "Donc là, on a tous les clients qui, malgré leur instinct,",
+    "keywords": []
+  },
+  {
+    "idx": 751,
+    "start": 2444.66,
+    "text": "ont oublié de payer des factures.",
+    "keywords": [
+      "facture",
+      "paie",
+      "salaire"
+    ]
+  },
+  {
+    "idx": 752,
+    "start": 2445.66,
+    "text": "Admettons, si j'en ai un qui paye quand même ses factures,",
+    "keywords": [
+      "facture",
+      "paie",
+      "salaire"
+    ]
+  },
+  {
+    "idx": 753,
+    "start": 2448.66,
+    "text": "on peut voir le montant, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 754,
+    "start": 2449.66,
+    "text": "Je mets le numéro de la pièce.",
+    "keywords": []
+  },
+  {
+    "idx": 755,
+    "start": 2451.66,
+    "text": "Et derrière, je vais valider.",
+    "keywords": []
+  },
+  {
+    "idx": 756,
+    "start": 2456.66,
+    "text": "Je n'ai pas mis une date d'échéance, pardon.",
+    "keywords": []
+  },
+  {
+    "idx": 757,
+    "start": 2458.66,
+    "text": "Il m'alerte, voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 758,
+    "start": 2460.66,
+    "text": "Et donc, si je valide, je vais pouvoir retrouver,",
+    "keywords": []
+  },
+  {
+    "idx": 759,
+    "start": 2463.66,
+    "text": "le paiement de mon client directement ici.",
+    "keywords": []
+  },
+  {
+    "idx": 760,
+    "start": 2466.66,
+    "text": "C'est celui que je viens de rentrer à l'instant.",
+    "keywords": []
+  },
+  {
+    "idx": 761,
+    "start": 2468.66,
+    "text": "Si je l'élimine, parce que ce n'est pas un vrai paiement,",
+    "keywords": []
+  },
+  {
+    "idx": 762,
+    "start": 2471.66,
+    "text": "je vais même pouvoir le relancer, ce client,",
+    "keywords": []
+  },
+  {
+    "idx": 763,
+    "start": 2473.66,
+    "text": "parce qu'il a des factures qui ont dépassé l'échéance.",
+    "keywords": [
+      "facture",
+      "échéance"
+    ]
+  },
+  {
+    "idx": 764,
+    "start": 2475.66,
+    "text": "Donc, très simplement, ça va automatiquement",
+    "keywords": []
+  },
+  {
+    "idx": 765,
+    "start": 2478.66,
+    "text": "faire un mail de relance.",
+    "keywords": []
+  },
+  {
+    "idx": 766,
+    "start": 2480.66,
+    "text": "Donc, sauf erreur ou omission de notre part,",
+    "keywords": []
+  },
+  {
+    "idx": 767,
+    "start": 2482.66,
+    "text": "nous constatons.",
+    "keywords": []
+  },
+  {
+    "idx": 768,
+    "start": 2483.66,
+    "text": "Mais ça va en même temps faire le texte.",
+    "keywords": []
+  },
+  {
+    "idx": 769,
+    "start": 2485.66,
+    "text": "Ça reprend l'ensemble des factures qui ont dépassé l'échéance.",
+    "keywords": [
+      "facture",
+      "échéance",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 770,
+    "start": 2487.66,
+    "text": "Ça vous met le solde à payer.",
+    "keywords": []
+  },
+  {
+    "idx": 771,
+    "start": 2490.66,
+    "text": "Ça vous indique en même temps le RIP de votre agence.",
+    "keywords": []
+  },
+  {
+    "idx": 772,
+    "start": 2492.66,
+    "text": "Enfin, il y a tout.",
+    "keywords": []
+  },
+  {
+    "idx": 773,
+    "start": 2493.66,
+    "text": "Le client, à part un peu de mauvaise soin,",
+    "keywords": []
+  },
+  {
+    "idx": 774,
+    "start": 2495.66,
+    "text": "n'a plus grand-chose pour ne plus payer.",
+    "keywords": []
+  },
+  {
+    "idx": 775,
+    "start": 2497.66,
+    "text": "Il y a même les factures qui viennent en pièce jointe.",
+    "keywords": [
+      "facture"
+    ]
+  },
+  {
+    "idx": 776,
+    "start": 2499.66,
+    "text": "Et vous mettez en copie et vous envoyez.",
+    "keywords": []
+  },
+  {
+    "idx": 777,
+    "start": 2501.66,
+    "text": "Donc, c'est pour le coup, pareil, très fluide.",
+    "keywords": []
+  },
+  {
+    "idx": 778,
+    "start": 2503.66,
+    "text": "Donc, on peut le faire souvent.",
+    "keywords": []
+  },
+  {
+    "idx": 779,
+    "start": 2505.66,
+    "text": "Ce qui évite, évidemment, pas mal d'impayés.",
+    "keywords": []
+  },
+  {
+    "idx": 780,
+    "start": 2507.66,
+    "text": "Alors, je fais rapidement, mais on a presque fait le tour,",
+    "keywords": []
+  },
+  {
+    "idx": 781,
+    "start": 2512.66,
+    "text": "en tout cas, de la partie connexion.",
+    "keywords": []
+  },
+  {
+    "idx": 782,
+    "start": 2514.66,
+    "text": "La partie planning, c'est important.",
+    "keywords": []
+  },
+  {
+    "idx": 783,
+    "start": 2516.66,
+    "text": "Parce qu'une fois qu'on a fait les contrats, etc.,",
+    "keywords": []
+  },
+  {
+    "idx": 784,
+    "start": 2518.66,
+    "text": "c'est bien de renouveler et de relancer un peu son client",
+    "keywords": [
+      "client",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 785,
+    "start": 2520.66,
+    "text": "pour le coup d'après.",
+    "keywords": []
+  },
+  {
+    "idx": 786,
+    "start": 2521.66,
+    "text": "Et pour les missions d'après.",
+    "keywords": []
+  },
+  {
+    "idx": 787,
+    "start": 2523.66,
+    "text": "Donc, là, on va pouvoir tout simplement avoir un œil rapide",
+    "keywords": []
+  },
+  {
+    "idx": 788,
+    "start": 2526.66,
+    "text": "de l'ensemble des opérations et l'ensemble des missions",
+    "keywords": []
+  },
+  {
+    "idx": 789,
+    "start": 2529.66,
+    "text": "qui sont en cours chez nos clients.",
+    "keywords": []
+  },
+  {
+    "idx": 790,
+    "start": 2531.66,
+    "text": "Donc, très simplement, on va, d'un coup d'œil, savoir.",
+    "keywords": []
+  },
+  {
+    "idx": 791,
+    "start": 2535.66,
+    "text": "Alors, typiquement, on va faire les relances.",
+    "keywords": []
+  },
+  {
+    "idx": 792,
+    "start": 2537.66,
+    "text": "Alors, on est le 15.",
+    "keywords": []
+  },
+  {
+    "idx": 793,
+    "start": 2539.66,
+    "text": "Je vais voir qui est renouvelé, qui ne l'est pas.",
+    "keywords": []
+  },
+  {
+    "idx": 794,
+    "start": 2542.66,
+    "text": "Par exemple, on va regarder un client qui aurait plein de contrats.",
+    "keywords": [
+      "client",
+      "contrat"
+    ]
+  },
+  {
+    "idx": 795,
+    "start": 2547.66,
+    "text": "Admettons, je vais relancer.",
+    "keywords": []
+  },
+  {
+    "idx": 796,
+    "start": 2549.66,
+    "text": "Je vais appeler mon client.",
+    "keywords": []
+  },
+  {
+    "idx": 797,
+    "start": 2551.66,
+    "text": "Je vais dire, voilà, est-ce que Jean-Paul est renouvelé la semaine prochaine ?",
+    "keywords": []
+  },
+  {
+    "idx": 798,
+    "start": 2554.66,
+    "text": "S'il me dit, mais oui, bien sûr, j'ai juste à double-cliquer sur le contrat,",
+    "keywords": []
+  },
+  {
+    "idx": 799,
+    "start": 2558.66,
+    "text": "ce qui va ouvrir le contrat de Jean-Paul.",
+    "keywords": []
+  },
+  {
+    "idx": 800,
+    "start": 2560.66,
+    "text": "Je peux, du coup, le dupliquer, le prolonger, faire un avenant si besoin.",
+    "keywords": []
+  },
+  {
+    "idx": 801,
+    "start": 2563.66,
+    "text": "Et derrière, automatiquement, ça va me prolonger.",
+    "keywords": []
+  },
+  {
+    "idx": 802,
+    "start": 2566.66,
+    "text": "Donc, je le fais en temps réel et j'évite d'imprimer des tableaux",
+    "keywords": []
+  },
+  {
+    "idx": 803,
+    "start": 2569.66,
+    "text": "pour faire ça après à la mano.",
+    "keywords": []
+  },
+  {
+    "idx": 804,
+    "start": 2571.66,
+    "text": "Tout est informatisé et je sauve la forêt amazonienne par ce biais-là.",
+    "keywords": []
+  },
+  {
+    "idx": 805,
+    "start": 2575.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 806,
+    "start": 2576.66,
+    "text": "Alors, on a fait une rapide présentation à peu près générale",
+    "keywords": []
+  },
+  {
+    "idx": 807,
+    "start": 2579.66,
+    "text": "de tout ça.",
+    "keywords": []
+  },
+  {
+    "idx": 808,
+    "start": 2580.66,
+    "text": "De tout best.",
+    "keywords": []
+  },
+  {
+    "idx": 809,
+    "start": 2582.66,
+    "text": "Après, on va revenir en détail.",
+    "keywords": []
+  },
+  {
+    "idx": 810,
+    "start": 2584.66,
+    "text": "Et puis, l'idée, c'est de vous donner envie de nous contacter",
+    "keywords": []
+  },
+  {
+    "idx": 811,
+    "start": 2587.66,
+    "text": "pour faire une vraie démo plus complète.",
+    "keywords": []
+  },
+  {
+    "idx": 812,
+    "start": 2589.66,
+    "text": "On rentre plus en détail, mais c'est un petit peu important",
+    "keywords": []
+  },
+  {
+    "idx": 813,
+    "start": 2592.66,
+    "text": "de voir un petit peu tout ce qu'on peut faire dans ce domaine-là",
+    "keywords": []
+  },
+  {
+    "idx": 814,
+    "start": 2595.66,
+    "text": "et pour pouvoir retranscrire l'ensemble des éléments.",
+    "keywords": []
+  },
+  {
+    "idx": 815,
+    "start": 2600.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 816,
+    "start": 2601.66,
+    "text": "C'est très impressionnant de voir fonctionner en live, finalement,",
+    "keywords": []
+  },
+  {
+    "idx": 817,
+    "start": 2607.66,
+    "text": "le logiciel avec cette fluidité.",
+    "keywords": []
+  },
+  {
+    "idx": 818,
+    "start": 2610.66,
+    "text": "J'imagine que les référentiels, en parlant de Pixeed,",
+    "keywords": []
+  },
+  {
+    "idx": 819,
+    "start": 2613.66,
+    "text": "mais j'imagine que les référentiels, ce qui me permettra de faire la transition,",
+    "keywords": []
+  },
+  {
+    "idx": 820,
+    "start": 2617.66,
+    "text": "tous les référentiels qui permettent d'adresser les documents à Pixeed",
+    "keywords": []
+  },
+  {
+    "idx": 821,
+    "start": 2620.66,
+    "text": "sont déjà intégrés dans Best.",
+    "keywords": []
+  },
+  {
+    "idx": 822,
+    "start": 2623.66,
+    "text": "Exactement.",
+    "keywords": []
+  },
+  {
+    "idx": 823,
+    "start": 2624.66,
+    "text": "Alors, je ne vous ai pas montré la page parce qu'il y a la marque des autres.",
+    "keywords": []
+  },
+  {
+    "idx": 824,
+    "start": 2627.66,
+    "text": "Mais évidemment, c'est directement intégré dans Best",
+    "keywords": []
+  },
+  {
+    "idx": 825,
+    "start": 2631.66,
+    "text": "et c'est une page Pixeed qui permet d'envoyer les contrats.",
+    "keywords": []
+  },
+  {
+    "idx": 826,
+    "start": 2635.66,
+    "text": "Mais c'est tellement automatisé en réalité que ça ne faisait plus grand-chose.",
+    "keywords": []
+  },
+  {
+    "idx": 827,
+    "start": 2638.66,
+    "text": "On ne faisait plus grand-chose à faire à part regarder le fichier qui passait déjà.",
+    "keywords": []
+  },
+  {
+    "idx": 828,
+    "start": 2643.66,
+    "text": "Donc, c'est un peu tard.",
+    "keywords": []
+  },
+  {
+    "idx": 829,
+    "start": 2644.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 830,
+    "start": 2645.66,
+    "text": "Alors, avançons un tout petit peu.",
+    "keywords": []
+  },
+  {
+    "idx": 831,
+    "start": 2647.66,
+    "text": "Merci beaucoup, en tout cas.",
+    "keywords": []
+  },
+  {
+    "idx": 832,
+    "start": 2648.66,
+    "text": "On va avancer un petit peu sur la logique des flux en l'état",
+    "keywords": []
+  },
+  {
+    "idx": 833,
+    "start": 2653.66,
+    "text": "et finalement, comment tout ça fonctionne très bien.",
+    "keywords": []
+  },
+  {
+    "idx": 834,
+    "start": 2657.66,
+    "text": "Oui.",
+    "keywords": []
+  },
+  {
+    "idx": 835,
+    "start": 2658.66,
+    "text": "Alors, quelques petites minutes pour vous présenter les différents flux",
+    "keywords": []
+  },
+  {
+    "idx": 836,
+    "start": 2661.66,
+    "text": "qui sont automatisés entre Pixeed et Best.",
+    "keywords": []
+  },
+  {
+    "idx": 837,
+    "start": 2664.66,
+    "text": "Donc, concernant les flux clients,",
+    "keywords": []
+  },
+  {
+    "idx": 838,
+    "start": 2667.66,
+    "text": "pour commencer, vous allez avoir la possibilité de récupérer",
+    "keywords": []
+  },
+  {
+    "idx": 839,
+    "start": 2670.66,
+    "text": "les besoins diffusés par vos clients, donc directement sur Best.",
+    "keywords": []
+  },
+  {
+    "idx": 840,
+    "start": 2674.66,
+    "text": "Suite à ça, vous allez pouvoir transmettre les candidatures",
+    "keywords": []
+  },
+  {
+    "idx": 841,
+    "start": 2678.66,
+    "text": "directement sur Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 842,
+    "start": 2680.66,
+    "text": "Vous aurez également la possibilité de récupérer les commandes publiées",
+    "keywords": [
+      "commande",
+      "publication",
+      "commande",
+      "client",
+      "agence"
+    ]
+  },
+  {
+    "idx": 843,
+    "start": 2684.66,
+    "text": "de vos clients, donc ce qui vous permet de récupérer l'ensemble des données",
+    "keywords": []
+  },
+  {
+    "idx": 844,
+    "start": 2688.66,
+    "text": "et surtout des données correctes pour créer votre contrat",
+    "keywords": []
+  },
+  {
+    "idx": 845,
+    "start": 2692.66,
+    "text": "et ensuite l'intégrer sur la plateforme Pixeed.",
+    "keywords": []
+  },
+  {
+    "idx": 846,
+    "start": 2695.66,
+    "text": "Autre flux important, ça va être la récupération des relevés d'activités",
+    "keywords": []
+  },
+  {
+    "idx": 847,
+    "start": 2699.66,
+    "text": "publiés de vos clients.",
+    "keywords": []
+  },
+  {
+    "idx": 848,
+    "start": 2701.66,
+    "text": "Je dis flux important, puisque c'est vraiment un gros gain de temps",
+    "keywords": []
+  },
+  {
+    "idx": 849,
+    "start": 2704.66,
+    "text": "pour vos agences, parce qu'elles n'auront plus besoin d'aller sur la plateforme,",
+    "keywords": []
+  },
+  {
+    "idx": 850,
+    "start": 2708.66,
+    "text": "récupérer les données pour ensuite les saisir sur l'outil Essie.",
+    "keywords": []
+  },
+  {
+    "idx": 851,
+    "start": 2713.66,
+    "text": "Donc, suite à ça, vous allez pouvoir valoriser ces heures",
+    "keywords": []
+  },
+  {
+    "idx": 852,
+    "start": 2717.66,
+    "text": "et intégrer votre pré-facturation.",
+    "keywords": []
+  },
+  {
+    "idx": 853,
+    "start": 2719.66,
+    "text": "Donc, c'est ce qu'on appelle chez nous les relevés d'activités valorisés.",
+    "keywords": []
+  },
+  {
+    "idx": 854,
+    "start": 2722.66,
+    "text": "Et pour terminer, donc, vous pourrez en profiter.",
+    "keywords": []
+  },
+  {
+    "idx": 855,
+    "start": 2724.66,
+    "text": "Vous pourrez intégrer votre facture directement sur Pixeed,",
+    "keywords": [
+      "facture",
+      "intérimaire",
+      "mission"
+    ]
+  },
+  {
+    "idx": 856,
+    "start": 2728.66,
+    "text": "que ce soit de la facture de gestion ou de la facture dématérialisée fiscalement.",
+    "keywords": [
+      "facture",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 857,
+    "start": 2732.66,
+    "text": "Donc, comme vous pouvez le constater, sur certains flux,",
+    "keywords": []
+  },
+  {
+    "idx": 858,
+    "start": 2736.66,
+    "text": "vous avez des petites étoiles identifiées.",
+    "keywords": []
+  },
+  {
+    "idx": 859,
+    "start": 2738.66,
+    "text": "En fait, ce sont des flux qui sont en cours de pilotes techniques chez nous.",
+    "keywords": []
+  },
+  {
+    "idx": 860,
+    "start": 2742.66,
+    "text": "Voilà, donc on est en train de tester sur des gros volumes",
+    "keywords": []
+  },
+  {
+    "idx": 861,
+    "start": 2745.66,
+    "text": "auprès de certaines de nos ETP.",
+    "keywords": []
+  },
+  {
+    "idx": 862,
+    "start": 2748.66,
+    "text": "Donc, finalement, tout le panel, tout le processus est pris en charge,",
+    "keywords": []
+  },
+  {
+    "idx": 863,
+    "start": 2752.66,
+    "text": "et finalement, l'intégration, c'est la garantie d'avoir une transmission des données",
+    "keywords": []
+  },
+  {
+    "idx": 864,
+    "start": 2760.66,
+    "text": "de bout en bout sans ressaisie.",
+    "keywords": []
+  },
+  {
+    "idx": 865,
+    "start": 2762.66,
+    "text": "Tout à fait.",
+    "keywords": []
+  },
+  {
+    "idx": 866,
+    "start": 2763.66,
+    "text": "Et quel que soit le client ou quel que soit l'intégrateur.",
+    "keywords": []
+  },
+  {
+    "idx": 867,
+    "start": 2765.66,
+    "text": "C'est ça.",
+    "keywords": []
+  },
+  {
+    "idx": 868,
+    "start": 2766.66,
+    "text": "Donc, pour tout client, pour tout ETP qui travaille avec nous.",
+    "keywords": []
+  },
+  {
+    "idx": 869,
+    "start": 2770.66,
+    "text": "Donc, une vraie interface universelle.",
+    "keywords": []
+  },
+  {
+    "idx": 870,
+    "start": 2772.66,
+    "text": "Donc, comme on vous le rappelle aussi, Pixeed certifie ses interfaces.",
+    "keywords": []
+  },
+  {
+    "idx": 871,
+    "start": 2776.66,
+    "text": "C'est-à-dire qu'on sert nos équipes d'experts, dont Clémentine fait partie,",
+    "keywords": []
+  },
+  {
+    "idx": 872,
+    "start": 2780.66,
+    "text": "va conseiller l'éditeur, répondre à ses questions,",
+    "keywords": []
+  },
+  {
+    "idx": 873,
+    "start": 2786.66,
+    "text": "lui proposer des axes d'amélioration.",
+    "keywords": []
+  },
+  {
+    "idx": 874,
+    "start": 2788.66,
+    "text": "Et c'est un travail continu parce que, comme la plateforme évolue régulièrement,",
+    "keywords": []
+  },
+  {
+    "idx": 875,
+    "start": 2792.66,
+    "text": "les équipes doivent rester en contact pour que, à la fois, les flux soient conformes,",
+    "keywords": []
+  },
+  {
+    "idx": 876,
+    "start": 2797.66,
+    "text": "deviennent de plus en plus efficaces puisqu'il y a plusieurs niveaux d'efficacité",
+    "keywords": []
+  },
+  {
+    "idx": 877,
+    "start": 2801.66,
+    "text": "entre l'interfacage basique, finalement, et une très bonne interface.",
+    "keywords": []
+  },
+  {
+    "idx": 878,
+    "start": 2806.66,
+    "text": "C'est vraiment la quantité des données qui sont transmises,",
+    "keywords": []
+  },
+  {
+    "idx": 879,
+    "start": 2809.66,
+    "text": "leur mapping direct dans le système back-office et réciproquement",
+    "keywords": []
+  },
+  {
+    "idx": 880,
+    "start": 2814.66,
+    "text": "puisque vous voyez que les flux doivent fonctionner dans les deux sens.",
+    "keywords": []
+  },
+  {
+    "idx": 881,
+    "start": 2817.66,
+    "text": "Et c'est là où vraiment le travail et l'efficacité de l'agence",
+    "keywords": []
+  },
+  {
+    "idx": 882,
+    "start": 2821.66,
+    "text": "vis-à-vis de son client, vis-à-vis de son intérimaire,",
+    "keywords": []
+  },
+  {
+    "idx": 883,
+    "start": 2824.66,
+    "text": "devient vraiment pertinent en termes de gains administratifs.",
+    "keywords": []
+  },
+  {
+    "idx": 884,
+    "start": 2831.66,
+    "text": "Et nous avons également des flux automatisés côté intérimaire",
+    "keywords": [
+      "intérimaire",
+      "flux",
+      "automatisé",
+      "mission"
+    ]
+  },
+  {
+    "idx": 885,
+    "start": 2835.66,
+    "text": "puisque, comme vous le savez, avec l'offre MyPixeed,",
+    "keywords": []
+  },
+  {
+    "idx": 886,
+    "start": 2837.66,
+    "text": "vous avez la possibilité de proposer une solution digitale auprès de vos intérimaires.",
+    "keywords": [
+      "intérimaire",
+      "solution digitale",
+      "gestion intérim"
+    ]
+  },
+  {
+    "idx": 887,
+    "start": 2842.66,
+    "text": "Donc via BEST, vous allez pouvoir créer et envoyer le contrat d'admission",
+    "keywords": []
+  },
+  {
+    "idx": 888,
+    "start": 2846.66,
+    "text": "directement sur Pitsil, donc votre intérimaire va pouvoir signer.",
+    "keywords": []
+  },
+  {
+    "idx": 889,
+    "start": 2850.66,
+    "text": "Vous allez également pouvoir récupérer les relevés d'activités publiés",
+    "keywords": []
+  },
+  {
+    "idx": 890,
+    "start": 2855.66,
+    "text": "directement sur BEST.",
+    "keywords": []
+  },
+  {
+    "idx": 891,
+    "start": 2857.66,
+    "text": "Et pour finir, vous aurez la possibilité d'intégrer directement le bulletin de salaire",
+    "keywords": [
+      "salarié",
+      "salaire",
+      "bulletin"
+    ]
+  },
+  {
+    "idx": 892,
+    "start": 2861.66,
+    "text": "et les documents de fin de contrat, donc tout ce qui va être attestation, pôle emploi,",
+    "keywords": []
+  },
+  {
+    "idx": 893,
+    "start": 2866.66,
+    "text": "et certificat de travail.",
+    "keywords": []
+  },
+  {
+    "idx": 894,
+    "start": 2870.66,
+    "text": "OK, donc finalement, les deux grands axes sont totalement couverts",
+    "keywords": []
+  },
+  {
+    "idx": 895,
+    "start": 2874.66,
+    "text": "par les interfaçages, ce qui permet d'accéder aux outils de relations digitales",
+    "keywords": []
+  },
+  {
+    "idx": 896,
+    "start": 2879.66,
+    "text": "de manière, je dirais, native.",
+    "keywords": []
+  },
+  {
+    "idx": 897,
+    "start": 2885.66,
+    "text": "On arrive un tout petit peu au bout.",
+    "keywords": []
+  },
+  {
+    "idx": 898,
+    "start": 2887.66,
+    "text": "En tout cas, merci beaucoup Clémentine.",
+    "keywords": []
+  },
+  {
+    "idx": 899,
+    "start": 2889.66,
+    "text": "C'est vrai que les schémas peuvent paraître simples,",
+    "keywords": []
+  },
+  {
+    "idx": 900,
+    "start": 2892.66,
+    "text": "mais il faut savoir que tout ce travail d'interfaçage, encore une fois,",
+    "keywords": []
+  },
+  {
+    "idx": 901,
+    "start": 2895.66,
+    "text": "est, je dirais, assez puissant.",
+    "keywords": []
+  },
+  {
+    "idx": 902,
+    "start": 2899.66,
+    "text": "On l'a testé, et ça, c'est une expérience client que, en tout cas, je partage,",
+    "keywords": []
+  },
+  {
+    "idx": 903,
+    "start": 2904.66,
+    "text": "puisque avec Raphaël, nous avons été face à un client",
+    "keywords": [
+      "client",
+      "contrat",
+      "intérimaire"
+    ]
+  },
+  {
+    "idx": 904,
+    "start": 2907.66,
+    "text": "qui a voulu traiter des volumes extrêmement importants,",
+    "keywords": []
+  },
+  {
+    "idx": 905,
+    "start": 2911.66,
+    "text": "et on a eu cette phase d'optimisation entre le client,",
+    "keywords": []
+  },
+  {
+    "idx": 906,
+    "start": 2915.66,
+    "text": "son utilisation de BEST et son utilisation de Picsil,",
+    "keywords": []
+  },
+  {
+    "idx": 907,
+    "start": 2918.66,
+    "text": "la capacité de vérifier, mais aussi de monter en charge pour faire en sorte que,",
+    "keywords": []
+  },
+  {
+    "idx": 908,
+    "start": 2923.66,
+    "text": "et que ce soit des petits volumes, ou surtout des petits volumes,",
+    "keywords": []
+  },
+  {
+    "idx": 909,
+    "start": 2924.66,
+    "text": "ou surtout, en l'occurrence, des très grands volumes,",
+    "keywords": []
+  },
+  {
+    "idx": 910,
+    "start": 2927.66,
+    "text": "puissent passer de manière performante.",
+    "keywords": []
+  },
+  {
+    "idx": 911,
+    "start": 2929.66,
+    "text": "Je pense que si vous êtes utilisateur de back-office,",
+    "keywords": []
+  },
+  {
+    "idx": 912,
+    "start": 2933.66,
+    "text": "vous savez que toutes ces tâches, parfois, peuvent nécessiter beaucoup de temps en machine.",
+    "keywords": []
+  },
+  {
+    "idx": 913,
+    "start": 2937.66,
+    "text": "Et donc, c'est vrai que c'est un axe de travail que nous avons permanent",
+    "keywords": []
+  },
+  {
+    "idx": 914,
+    "start": 2941.66,
+    "text": "avec les équipes de Raphaël.",
+    "keywords": []
+  },
+  {
+    "idx": 915,
+    "start": 2943.66,
+    "text": "On ne citera pas son nom, mais pour donner un ordre d'idée,",
+    "keywords": []
+  },
+  {
+    "idx": 916,
+    "start": 2946.66,
+    "text": "c'est un client qui, sur une seule agence, fait près de 18 000 payes.",
+    "keywords": [
+      "client",
+      "agence",
+      "salarié"
+    ]
+  },
+  {
+    "idx": 917,
+    "start": 2950.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 918,
+    "start": 2952.66,
+    "text": "Ça, ce n'est pas effectivement trivial.",
+    "keywords": []
+  },
+  {
+    "idx": 919,
+    "start": 2958.66,
+    "text": "On va garder quelques minutes pour des questions,",
+    "keywords": []
+  },
+  {
+    "idx": 920,
+    "start": 2961.66,
+    "text": "parce que j'ai vu qu'il y en avait quelques-unes.",
+    "keywords": []
+  },
+  {
+    "idx": 921,
+    "start": 2966.66,
+    "text": "Vraiment, Picsil, aujourd'hui, malgré, ou en tout cas,",
+    "keywords": []
+  },
+  {
+    "idx": 922,
+    "start": 2972.66,
+    "text": "avec son histoire d'ouverture à tous les back-office,",
+    "keywords": []
+  },
+  {
+    "idx": 923,
+    "start": 2975.66,
+    "text": "on a retrouvé avec Raphaël un vrai bénéfice pour nos clients communs.",
+    "keywords": []
+  },
+  {
+    "idx": 924,
+    "start": 2982.66,
+    "text": "En travaillant avec une proximité vraiment nouvelle.",
+    "keywords": []
+  },
+  {
+    "idx": 925,
+    "start": 2987.66,
+    "text": "Nos équipes techniques se connaissent, nos équipes techniques se parlent,",
+    "keywords": []
+  },
+  {
+    "idx": 926,
+    "start": 2991.66,
+    "text": "que ce soit pour les flux existants, leur optimisation, comme on vient de le voir,",
+    "keywords": []
+  },
+  {
+    "idx": 927,
+    "start": 2997.66,
+    "text": "mais également pour tout ce qui est innovation,",
+    "keywords": []
+  },
+  {
+    "idx": 928,
+    "start": 2999.66,
+    "text": "puisque l'on va régulièrement informer Raphaël des innovations qui arrivent sur Picsil.",
+    "keywords": []
+  },
+  {
+    "idx": 929,
+    "start": 3005.66,
+    "text": "On peut parler du vivier, on peut parler des contrôles automatiques de dossiers,",
+    "keywords": []
+  },
+  {
+    "idx": 930,
+    "start": 3009.66,
+    "text": "et toutes ces choses qui demandaient, par exemple,",
+    "keywords": []
+  },
+  {
+    "idx": 931,
+    "start": 3012.66,
+    "text": "par vos clients, peuvent devenir très chronophages en agence.",
+    "keywords": []
+  },
+  {
+    "idx": 932,
+    "start": 3015.66,
+    "text": "L'idée, c'est à travers les interfaces, vraiment, d'éviter un maximum,",
+    "keywords": []
+  },
+  {
+    "idx": 933,
+    "start": 3020.66,
+    "text": "un maximum d'utilisation manuelle.",
+    "keywords": []
+  },
+  {
+    "idx": 934,
+    "start": 3023.66,
+    "text": "La plateforme Picsil, pour une agence ETT,",
+    "keywords": []
+  },
+  {
+    "idx": 935,
+    "start": 3025.66,
+    "text": "elle peut se piloter directement et entièrement depuis le back-office.",
+    "keywords": []
+  },
+  {
+    "idx": 936,
+    "start": 3030.66,
+    "text": "C'est vraiment l'objectif, puisque l'intérêt, c'est le service digital",
+    "keywords": []
+  },
+  {
+    "idx": 937,
+    "start": 3035.66,
+    "text": "que vous allez servir à vos clients et à vos intérimaires sans dégrader,",
+    "keywords": []
+  },
+  {
+    "idx": 938,
+    "start": 3039.66,
+    "text": "sans dégrader la performance.",
+    "keywords": []
+  },
+  {
+    "idx": 939,
+    "start": 3042.66,
+    "text": "C'est le temps que vos agences consacrent.",
+    "keywords": []
+  },
+  {
+    "idx": 940,
+    "start": 3045.66,
+    "text": "Donc, c'est un travail de long terme, puisque, comme vous le savez,",
+    "keywords": []
+  },
+  {
+    "idx": 941,
+    "start": 3047.66,
+    "text": "il y a énormément de fonctionnalités.",
+    "keywords": []
+  },
+  {
+    "idx": 942,
+    "start": 3049.66,
+    "text": "Nos équipes continuent à communiquer, à avancer.",
+    "keywords": []
+  },
+  {
+    "idx": 943,
+    "start": 3053.66,
+    "text": "Les traçabilités et les automatisations, vraiment, progressent de mois en mois.",
+    "keywords": []
+  },
+  {
+    "idx": 944,
+    "start": 3059.66,
+    "text": "Et ça, c'est quelque chose que l'on a vu vraiment se construire entre nos équipes",
+    "keywords": []
+  },
+  {
+    "idx": 945,
+    "start": 3065.66,
+    "text": "et jusqu'au support.",
+    "keywords": []
+  },
+  {
+    "idx": 946,
+    "start": 3068.66,
+    "text": "C'est très important pour ceux qui le savent.",
+    "keywords": []
+  },
+  {
+    "idx": 947,
+    "start": 3070.66,
+    "text": "L'idée, c'est que nos équipes,",
+    "keywords": []
+  },
+  {
+    "idx": 948,
+    "start": 3071.66,
+    "text": "c'est que nos équipes se connaissent, connaissent le fonctionnement",
+    "keywords": []
+  },
+  {
+    "idx": 949,
+    "start": 3075.66,
+    "text": "et apportent un support, je dirais, efficace.",
+    "keywords": []
+  },
+  {
+    "idx": 950,
+    "start": 3078.66,
+    "text": "Que ce soit que vous ayez une question sur PICSID ou sur BEST,",
+    "keywords": []
+  },
+  {
+    "idx": 951,
+    "start": 3082.66,
+    "text": "qu'il n'y ait pas de trou dans la raquette lorsque vous avez besoin d'assistance",
+    "keywords": []
+  },
+  {
+    "idx": 952,
+    "start": 3086.66,
+    "text": "ou, imaginons, vous fassiez face à un problème technique",
+    "keywords": []
+  },
+  {
+    "idx": 953,
+    "start": 3090.66,
+    "text": "ou à une question particulièrement compliquée pour un client.",
+    "keywords": []
+  },
+  {
+    "idx": 954,
+    "start": 3094.66,
+    "text": "La réduction des coûts, je ne reviendrai pas,",
+    "keywords": []
+  },
+  {
+    "idx": 955,
+    "start": 3097.66,
+    "text": "mais je pense que vous le savez mieux que nous.",
+    "keywords": []
+  },
+  {
+    "idx": 956,
+    "start": 3099.66,
+    "text": "Aujourd'hui, il faut être facturé du service que l'entreprise vous délivre directement.",
+    "keywords": [
+      "facture",
+      "entreprise",
+      "salarié"
+    ]
+  },
+  {
+    "idx": 957,
+    "start": 3106.66,
+    "text": "Vous réglez à PICSID tout le service digital",
+    "keywords": []
+  },
+  {
+    "idx": 958,
+    "start": 3110.66,
+    "text": "et vous réglez à Raphaël et à BEST tout le service de logiciel métier.",
+    "keywords": []
+  },
+  {
+    "idx": 959,
+    "start": 3115.66,
+    "text": "Il n'y a pas d'échange, il n'y a pas de surconsommation ou de coûts cachés.",
+    "keywords": []
+  },
+  {
+    "idx": 960,
+    "start": 3121.66,
+    "text": "La facturation est extrêmement claire et extrêmement facile à suivre.",
+    "keywords": []
+  },
+  {
+    "idx": 961,
+    "start": 3126.66,
+    "text": "Chez BEST, c'est 3000 euros par an, tout compris.",
+    "keywords": []
+  },
+  {
+    "idx": 962,
+    "start": 3129.66,
+    "text": "Pour une agence, il n'y a pas de surcoût.",
+    "keywords": []
+  },
+  {
+    "idx": 963,
+    "start": 3133.66,
+    "text": "Ah, si, il y a un surcoût.",
+    "keywords": []
+  },
+  {
+    "idx": 964,
+    "start": 3135.66,
+    "text": "On parle de signature graphique.",
+    "keywords": []
+  },
+  {
+    "idx": 965,
+    "start": 3137.66,
+    "text": "J'ai vu une question qui traînait sur la signature.",
+    "keywords": []
+  },
+  {
+    "idx": 966,
+    "start": 3140.66,
+    "text": "Oui, on a une signature électronique chez nous, BESIGN,",
+    "keywords": []
+  },
+  {
+    "idx": 967,
+    "start": 3143.66,
+    "text": "qui coûte 10 centimes la signature.",
+    "keywords": []
+  },
+  {
+    "idx": 968,
+    "start": 3145.66,
+    "text": "Donc oui, c'est le seul coût supplémentaire.",
+    "keywords": []
+  },
+  {
+    "idx": 969,
+    "start": 3147.66,
+    "text": "Et fondamentalement, je crois qu'on a divisé par 2, 3 ou 4 le prix des autres.",
+    "keywords": []
+  },
+  {
+    "idx": 970,
+    "start": 3152.66,
+    "text": "Donc voilà, ça fait partie des jeux.",
+    "keywords": []
+  },
+  {
+    "idx": 971,
+    "start": 3154.66,
+    "text": "À propos de payer, j'ai vu des questions qui étaient là-dessus.",
+    "keywords": []
+  },
+  {
+    "idx": 972,
+    "start": 3156.66,
+    "text": "C'est rigolo.",
+    "keywords": []
+  },
+  {
+    "idx": 973,
+    "start": 3157.66,
+    "text": "Les gens ont trop l'habitude de payer.",
+    "keywords": []
+  },
+  {
+    "idx": 974,
+    "start": 3158.66,
+    "text": "Il faut faire attention.",
+    "keywords": []
+  },
+  {
+    "idx": 975,
+    "start": 3159.66,
+    "text": "Il faut que vous perdiez cette habitude de payer tout le temps.",
+    "keywords": []
+  },
+  {
+    "idx": 976,
+    "start": 3162.66,
+    "text": "Le module d'annonce est-il payant ?",
+    "keywords": []
+  },
+  {
+    "idx": 977,
+    "start": 3164.66,
+    "text": "Non, il n'est pas payant.",
+    "keywords": []
+  },
+  {
+    "idx": 978,
+    "start": 3165.66,
+    "text": "Et d'ailleurs, il n'est pas payant pour nos clients.",
+    "keywords": []
+  },
+  {
+    "idx": 979,
+    "start": 3167.66,
+    "text": "Mais on a créé un site d'emploi, Candidatech.com,",
+    "keywords": []
+  },
+  {
+    "idx": 980,
+    "start": 3170.66,
+    "text": "qui a été lancé là, il y a quelques jours.",
+    "keywords": []
+  },
+  {
+    "idx": 981,
+    "start": 3172.66,
+    "text": "Il est ouvert à tous, n'importe qui.",
+    "keywords": []
+  },
+  {
+    "idx": 982,
+    "start": 3174.66,
+    "text": "Même pas client BEST.",
+    "keywords": []
+  },
+  {
+    "idx": 983,
+    "start": 3176.66,
+    "text": "Vous pouvez aller dessus, vous inscrire, déposer vos offres, etc.",
+    "keywords": []
+  },
+  {
+    "idx": 984,
+    "start": 3180.66,
+    "text": "Il est en lancement, mais évidemment, c'est gratuit chez nous.",
+    "keywords": []
+  },
+  {
+    "idx": 985,
+    "start": 3184.66,
+    "text": "L'idée, c'est que l'intérimaire trouve son job et que l'agence de travail ou l'employeur,",
+    "keywords": [
+      "intérimaire",
+      "agence de travail",
+      "employeur"
+    ]
+  },
+  {
+    "idx": 986,
+    "start": 3188.66,
+    "text": "quel qu'il soit, trouve son candidat.",
+    "keywords": []
+  },
+  {
+    "idx": 987,
+    "start": 3191.66,
+    "text": "C'est comme ça qu'on change le monde.",
+    "keywords": []
+  },
+  {
+    "idx": 988,
+    "start": 3192.66,
+    "text": "Ce n'est pas en faisant des choses payantes systématiquement que le monde va changer.",
+    "keywords": []
+  },
+  {
+    "idx": 989,
+    "start": 3195.66,
+    "text": "Donc, au contraire, ouvrons nos esprits.",
+    "keywords": []
+  },
+  {
+    "idx": 990,
+    "start": 3197.66,
+    "text": "Après, effectivement, ils sont multidiffusés sur pas mal de sites divers et variés,",
+    "keywords": []
+  },
+  {
+    "idx": 991,
+    "start": 3202.66,
+    "text": "dont Google Jobs, puisqu'on a agréé Google Jobs,",
+    "keywords": []
+  },
+  {
+    "idx": 992,
+    "start": 3204.66,
+    "text": "ce qui permet un très bon référencement de vos offres derrière,",
+    "keywords": []
+  },
+  {
+    "idx": 993,
+    "start": 3207.66,
+    "text": "ce qui permet d'être quand même particulièrement bien vu.",
+    "keywords": []
+  },
+  {
+    "idx": 994,
+    "start": 3212.66,
+    "text": "Moi, je vois une des questions qui est est-ce que pour une ETI locale,",
+    "keywords": []
+  },
+  {
+    "idx": 995,
+    "start": 3217.66,
+    "text": "est-ce que c'est intéressant et possible ?",
+    "keywords": []
+  },
+  {
+    "idx": 996,
+    "start": 3219.66,
+    "text": "Oui, tout à fait.",
+    "keywords": []
+  },
+  {
+    "idx": 997,
+    "start": 3220.66,
+    "text": "Puisque finalement, on voit à la fois que toutes les fonctionnalités sont disponibles dans Best",
+    "keywords": []
+  },
+  {
+    "idx": 998,
+    "start": 3225.66,
+    "text": "et comme vous le savez peut-être, Pixeed offre des conditions préférentielles aux ETI",
+    "keywords": []
+  },
+  {
+    "idx": 999,
+    "start": 3230.66,
+    "text": "afin de, là aussi, apporter un service le plus efficace et le plus,",
+    "keywords": []
+  },
+  {
+    "idx": 1000,
+    "start": 3237.66,
+    "text": "j'irais dans ce cadre-là, économique.",
+    "keywords": []
+  },
+  {
+    "idx": 1001,
+    "start": 3244.66,
+    "text": "Est-ce qu'on a d'autres questions, Raphaël ?",
+    "keywords": []
+  },
+  {
+    "idx": 1002,
+    "start": 3246.66,
+    "text": "Oui.",
+    "keywords": []
+  },
+  {
+    "idx": 1003,
+    "start": 3247.66,
+    "text": "Oui, il y avait des questions qui étaient très intéressantes.",
+    "keywords": []
+  },
+  {
+    "idx": 1004,
+    "start": 3249.66,
+    "text": "J'ai vu sur les rubriques, sont-elles personnalisables ?",
+    "keywords": []
+  },
+  {
+    "idx": 1005,
+    "start": 3252.66,
+    "text": "Oui, bien sûr.",
+    "keywords": []
+  },
+  {
+    "idx": 1006,
+    "start": 3253.66,
+    "text": "Bien sûr, on peut tout personnaliser dans ce domaine-là.",
+    "keywords": []
+  },
+  {
+    "idx": 1007,
+    "start": 3256.66,
+    "text": "Ça fait partie, au contraire, vos clients demandent à ce que chaque élément soit personnalisé",
+    "keywords": []
+  },
+  {
+    "idx": 1008,
+    "start": 3263.66,
+    "text": "et du coup, on y répond parfaitement dans ce domaine-là, évidemment.",
+    "keywords": []
+  },
+  {
+    "idx": 1009,
+    "start": 3266.66,
+    "text": "Il y avait une autre question, d'ailleurs, sur la partie l'envoi de SMS.",
+    "keywords": []
+  },
+  {
+    "idx": 1010,
+    "start": 3270.66,
+    "text": "Il faut juste contacter la hotline de Best qui répond.",
+    "keywords": []
+  },
+  {
+    "idx": 1011,
+    "start": 3273.66,
+    "text": "N'hésitez pas, nous, on répond tout facilement.",
+    "keywords": []
+  },
+  {
+    "idx": 1012,
+    "start": 3276.66,
+    "text": "On décroche en moins de trois sonneries, c'est notre tradition.",
+    "keywords": []
+  },
+  {
+    "idx": 1013,
+    "start": 3279.66,
+    "text": "Donc, n'hésitez pas à nous contacter.",
+    "keywords": []
+  },
+  {
+    "idx": 1014,
+    "start": 3281.66,
+    "text": "Et dans ce domaine-là, en fait, il y a juste un contrat signé avec le prestataire, en l'occurrence.",
+    "keywords": []
+  },
+  {
+    "idx": 1015,
+    "start": 3287.66,
+    "text": "Rien ne passe par nous et on n'a pas ni de marge, ni de rétrocession, ni quoi que ce soit.",
+    "keywords": []
+  },
+  {
+    "idx": 1016,
+    "start": 3292.66,
+    "text": "C'est pour ça qu'on arrive à des tarifs aussi bas sur les SMS.",
+    "keywords": []
+  },
+  {
+    "idx": 1017,
+    "start": 3296.66,
+    "text": "Donc, directement, vous vous contractualisez.",
+    "keywords": []
+  },
+  {
+    "idx": 1018,
+    "start": 3297.66,
+    "text": "On a juste, nous, à faire la connexion automatisée.",
+    "keywords": []
+  },
+  {
+    "idx": 1019,
+    "start": 3300.66,
+    "text": "Donc, c'est extrêmement fluide.",
+    "keywords": []
+  },
+  {
+    "idx": 1020,
+    "start": 3301.66,
+    "text": "On a même fait une petite application, pour ceux qui n'en voient pas beaucoup de SMS, Android,",
+    "keywords": []
+  },
+  {
+    "idx": 1021,
+    "start": 3305.66,
+    "text": "qui permet d'envoyer par un forfait free ou autre des SMS directement.",
+    "keywords": []
+  },
+  {
+    "idx": 1022,
+    "start": 3310.66,
+    "text": "C'est qu'on vous envoie une centaine de SMS par jour maximum.",
+    "keywords": []
+  },
+  {
+    "idx": 1023,
+    "start": 3313.66,
+    "text": "C'est malin.",
+    "keywords": []
+  },
+  {
+    "idx": 1024,
+    "start": 3315.66,
+    "text": "Et oui, il y a la gestion du CET dans Best.",
+    "keywords": []
+  },
+  {
+    "idx": 1025,
+    "start": 3317.66,
+    "text": "Évidemment, enfin, j'ai survolé tout à l'heure, mais on paramètre tous les éléments du CET.",
+    "keywords": []
+  },
+  {
+    "idx": 1026,
+    "start": 3321.66,
+    "text": "Il y a une petite particularité quand même chez nous et c'est important et j'y tiens.",
+    "keywords": []
+  },
+  {
+    "idx": 1027,
+    "start": 3325.66,
+    "text": "Le CET, quand vous le mettez chez nous, il s'affiche dans le bulletin de paye.",
+    "keywords": []
+  },
+  {
+    "idx": 1028,
+    "start": 3330.66,
+    "text": "Alors, pour plein de raisons.",
+    "keywords": []
+  },
+  {
+    "idx": 1029,
+    "start": 3332.66,
+    "text": "La première, parce que je trouve que c'est important que l'intérimaire soit informé.",
+    "keywords": []
+  },
+  {
+    "idx": 1030,
+    "start": 3335.66,
+    "text": "Il doit être au courant qu'il a un CET parce qu'il faut lui verser en finale.",
+    "keywords": []
+  },
+  {
+    "idx": 1031,
+    "start": 3338.66,
+    "text": "Il ne faut pas attendre 5 ans pour qu'il disparaisse.",
+    "keywords": []
+  },
+  {
+    "idx": 1032,
+    "start": 3341.66,
+    "text": "Alors, la loi va changer en plus là-dessus.",
+    "keywords": []
+  },
+  {
+    "idx": 1033,
+    "start": 3343.66,
+    "text": "C'est très bien et bientôt, vous allez devoir de toute façon l'afficher.",
+    "keywords": []
+  },
+  {
+    "idx": 1034,
+    "start": 3348.66,
+    "text": "En tout cas, vous ne pourrez plus, pour ceux qui le faisaient, le récupérer.",
+    "keywords": []
+  },
+  {
+    "idx": 1035,
+    "start": 3352.66,
+    "text": "Il va devoir être versé à un fonds de formation.",
+    "keywords": []
+  },
+  {
+    "idx": 1036,
+    "start": 3355.66,
+    "text": "Donc, ça évitera évidemment que les choses disparaissent.",
+    "keywords": []
+  },
+  {
+    "idx": 1037,
+    "start": 3358.66,
+    "text": "Et puis, ceux qui sont adhérents du PRISP, maintenant, vont devoir afficher le CET dans leur feuille",
+    "keywords": []
+  },
+  {
+    "idx": 1038,
+    "start": 3364.66,
+    "text": "Donc, vous voyez, on a anticipé.",
+    "keywords": []
+  },
+  {
+    "idx": 1039,
+    "start": 3365.66,
+    "text": "Il y a cette partie-là.",
+    "keywords": []
+  },
+  {
+    "idx": 1040,
+    "start": 3366.66,
+    "text": "Justement, Raphaël, j'en profite pour poser, il nous reste quelques secondes quasiment, deux petites",
+    "keywords": []
+  },
+  {
+    "idx": 1041,
+    "start": 3372.66,
+    "text": "Est-ce que tu peux nous parler effectivement de ce premier point ?",
+    "keywords": []
+  },
+  {
+    "idx": 1042,
+    "start": 3376.66,
+    "text": "Finalement, quel est votre suivi, votre politique pour tout ce qui est développement des nouvelles r",
+    "keywords": []
+  },
+  {
+    "idx": 1043,
+    "start": 3382.66,
+    "text": "On en est friands en France.",
+    "keywords": []
+  },
+  {
+    "idx": 1044,
+    "start": 3385.66,
+    "text": "Et la deuxième question, c'est les migrations.",
+    "keywords": []
+  },
+  {
+    "idx": 1045,
+    "start": 3388.66,
+    "text": "Parce que nous, en tout cas, on le sait, beaucoup de nos clients ETT nous posent la question de savo",
+    "keywords": []
+  },
+  {
+    "idx": 1046,
+    "start": 3394.66,
+    "text": "si on est aisé de passer d'une solution à une autre.",
+    "keywords": []
+  },
+  {
+    "idx": 1047,
+    "start": 3397.66,
+    "text": "Concernant Pixeed, il n'y a aucun débat puisque nous sommes strictement compatibles.",
+    "keywords": []
+  },
+  {
+    "idx": 1048,
+    "start": 3404.66,
+    "text": "Mais de votre côté ?",
+    "keywords": []
+  },
+  {
+    "idx": 1049,
+    "start": 3405.66,
+    "text": "Alors, pour le coup, on est parfaitement compatibles.",
+    "keywords": []
+  },
+  {
+    "idx": 1050,
+    "start": 3407.66,
+    "text": "Vous pensez bien qu'en créant notre logiciel, on a vite appris à récupérer les fichiers de nos petit",
+    "keywords": []
+  },
+  {
+    "idx": 1051,
+    "start": 3414.66,
+    "text": "Donc, oui, enfin, je ne dirais pas les trois gros, mais évidemment, on récupère l'ensemble des fichi",
+    "keywords": []
+  },
+  {
+    "idx": 1052,
+    "start": 3419.66,
+    "text": "Et parce qu'on a appris directement, on va récupérer votre base de données.",
+    "keywords": []
+  },
+  {
+    "idx": 1053,
+    "start": 3423.66,
+    "text": "Une petite poulinette qui va reprendre toutes vos données.",
+    "keywords": []
+  },
+  {
+    "idx": 1054,
+    "start": 3425.66,
+    "text": "Donc, vous ne perdez pas de données.",
+    "keywords": []
+  },
+  {
+    "idx": 1055,
+    "start": 3427.66,
+    "text": "On reprend l'historique qui va avec.",
+    "keywords": []
+  },
+  {
+    "idx": 1056,
+    "start": 3429.66,
+    "text": "Et pour le coup, là, c'est un coût.",
+    "keywords": []
+  },
+  {
+    "idx": 1057,
+    "start": 3432.66,
+    "text": "Quand on récupère vos données, ça coûte 1500 euros pour récupérer toutes vos données depuis l'origin",
+    "keywords": []
+  },
+  {
+    "idx": 1058,
+    "start": 3440.66,
+    "text": "qu'ils soient Anael, Tempo, Evolia, ETT.",
+    "keywords": []
+  },
+  {
+    "idx": 1059,
+    "start": 3443.66,
+    "text": "Oui, j'ai vu passer tout à l'heure dans les questions.",
+    "keywords": []
+  },
+  {
+    "idx": 1060,
+    "start": 3445.66,
+    "text": "Voilà, ça ne nous pose aucun souci à ce niveau-là, bien sûr.",
+    "keywords": []
+  },
+  {
+    "idx": 1061,
+    "start": 3448.66,
+    "text": "Voilà.",
+    "keywords": []
+  },
+  {
+    "idx": 1062,
+    "start": 3450.66,
+    "text": "Très bien.",
+    "keywords": []
+  },
+  {
+    "idx": 1063,
+    "start": 3451.66,
+    "text": "Bon.",
+    "keywords": []
+  },
+  {
+    "idx": 1064,
+    "start": 3452.66,
+    "text": "Alors, effectivement, il y a beaucoup de questions.",
+    "keywords": []
+  },
+  {
+    "idx": 1065,
+    "start": 3454.66,
+    "text": "Écoutez, c'est l'occasion de dire qu'on retrouvera les équipes Pixeed et Raphaël très bientôt,",
+    "keywords": []
+  },
+  {
+    "idx": 1066,
+    "start": 3460.66,
+    "text": "puisque comme vous ne le voyez pas sur ce slide, mais le huitième slide ETT, on a le plaisir de vous",
+    "keywords": []
+  },
+  {
+    "idx": 1067,
+    "start": 3466.66,
+    "text": "va se dérouler donc à Paris la Défense le 20 octobre prochain.",
+    "keywords": []
+  },
+  {
+    "idx": 1068,
+    "start": 3471.66,
+    "text": "Et nous sommes en train de vous concocter un programme original qui va vraiment mettre l'accent sur ",
+    "keywords": []
+  },
+  {
+    "idx": 1069,
+    "start": 3479.66,
+    "text": "Et nous en avons eu vraiment de nombreuses.",
+    "keywords": []
+  },
+  {
+    "idx": 1070,
+    "start": 3481.66,
+    "text": "Depuis 12 mois, vous accueillir pour le déjeuner et vous permettre de rencontrer notamment Best,",
+    "keywords": []
+  },
+  {
+    "idx": 1071,
+    "start": 3491.66,
+    "text": "mais aussi tous les autres, plusieurs autres partenaires Pixeed qui ont cette démarche vraiment d'in",
+    "keywords": []
+  },
+  {
+    "idx": 1072,
+    "start": 3499.66,
+    "text": "et l'idée d'apporter à vos clients et à vos intérimaires un service à vraie valeur ajoutée, notammen",
+    "keywords": []
+  },
+  {
+    "idx": 1073,
+    "start": 3507.66,
+    "text": "Et on en profitera au bout de ce super club ETT.",
+    "keywords": []
+  },
+  {
+    "idx": 1074,
+    "start": 3509.66,
+    "text": "On va vous parler des nouvelles DSN et des nouvelles facturations électroniques,",
+    "keywords": [
+      "facturation",
+      "contrat",
+      "gestion"
+    ]
+  },
+  {
+    "idx": 1075,
+    "start": 3515.66,
+    "text": "parce qu'on est une entreprise pilote pour l'ensemble de ces nouveaux modules d'avenir du gouverneme",
+    "keywords": []
+  },
+  {
+    "idx": 1076,
+    "start": 3522.66,
+    "text": "Donc voilà, on a été choisi aussi pour ça.",
+    "keywords": []
+  },
+  {
+    "idx": 1077,
+    "start": 3524.66,
+    "text": "Ça va être passionnant.",
+    "keywords": []
+  },
+  {
+    "idx": 1078,
+    "start": 3526.66,
+    "text": "En tout cas, vous avez dû recevoir une invitation ou vous allez recevoir une relance.",
+    "keywords": []
+  },
+  {
+    "idx": 1079,
+    "start": 3532.66,
+    "text": "Si ce n'est pas le cas, allez sur le site Internet Pixeed, contactez-nous et on sera ravi de vous ac",
+    "keywords": []
+  },
+  {
+    "idx": 1080,
+    "start": 3539.66,
+    "text": "Vous rencontrer, de répondre à vos questions, puisque tout n'est pas uniforme dans votre profession.",
+    "keywords": []
+  },
+  {
+    "idx": 1081,
+    "start": 3544.66,
+    "text": "Il y a certainement beaucoup de choses qui vous sont particulières et on sera ravi de prendre le tem",
+    "keywords": []
+  },
+  {
+    "idx": 1082,
+    "start": 3550.66,
+    "text": "si c'est nécessaire, pour vous aider à améliorer le service digital que vous apportez à vos clients ",
+    "keywords": []
+  },
+  {
+    "idx": 1083,
+    "start": 3557.66,
+    "text": "Merci beaucoup, Clémentine.",
+    "keywords": []
+  },
+  {
+    "idx": 1084,
+    "start": 3559.66,
+    "text": "Merci beaucoup, Raphaël.",
+    "keywords": []
+  },
+  {
+    "idx": 1085,
+    "start": 3560.66,
+    "text": "Merci, à bientôt.",
+    "keywords": []
+  },
+  {
+    "idx": 1086,
+    "start": 3562.66,
+    "text": "Surtout, merci à vous tous, clients, qui nous avez rejoints",
+    "keywords": []
+  },
+  {
+    "idx": 1087,
+    "start": 3567.66,
+    "text": "et qui avez apporté vraiment votre attention à ce webinaire.",
+    "keywords": []
+  },
+  {
+    "idx": 1088,
+    "start": 3572.66,
+    "text": "Encore une fois, n'hésitez pas à nous contacter.",
+    "keywords": []
+  },
+  {
+    "idx": 1089,
+    "start": 3574.66,
+    "text": "Vous avez certainement des questions ou des problématiques.",
+    "keywords": []
+  },
+  {
+    "idx": 1090,
+    "start": 3577.66,
+    "text": "On sera là vraiment pour essayer d'y répondre le plus directement possible avec les équipes Pixeed, ",
+    "keywords": []
+  },
+  {
+    "idx": 1091,
+    "start": 3585.66,
+    "text": "Merci beaucoup et à très bientôt.",
+    "keywords": []
+  },
+  {
+    "idx": 1092,
+    "start": 3587.66,
+    "text": "Merci.",
+    "keywords": []
+  },
+  {
+    "idx": 1093,
+    "start": 3588.66,
+    "text": "Bonne journée à tous.",
+    "keywords": []
+  },
+  {
+    "idx": 1094,
+    "start": 3589.66,
+    "text": "Merci, au revoir.",
+    "keywords": []
+  },
+  {
+    "idx": 1095,
+    "start": 3590.66,
+    "text": "Au revoir.",
+    "keywords": []
+  }
+]

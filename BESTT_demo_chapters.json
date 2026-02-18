@@ -1,0 +1,50 @@
+[
+  {
+    "title": "ENTREPRISES",
+    "start": 993,
+    "end": 1393,
+    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"ENTREPRISES\" de BESTT, il est possible d'ajouter de nouveaux clients ou prospects et de récupérer leurs informations directement depuis les bases d'infogreffe françaises et européennes. Les informations récupérées incluent l'adresse, le SIRET, le numéro de TVA communautaire, la date de création, le code APE, etc. Il est également possible de gérer les contacts du client, y compris leur organigramme, ainsi que les lieux possibles de travail et les équipements obligatoires. Les contrats passés avec le client sont également stockés dans cette section, permettant une gestion centralisée des informations."
+  },
+  {
+    "title": "SALARIES",
+    "start": 1393,
+    "end": 1623,
+    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"Salariés\" de BESTT, on peut gérer les intérimaires et les candidats. Les candidats qui n'ont jamais travaillé pour l'entreprise disparaissent automatiquement au bout de 18 mois si aucune interaction n'a lieu avec leur fiche, conformément à l'RGPD. On peut scanner et importer des documents tels que des CV, des identités et des cartes de visite, qui sont ensuite analysés et formatés par le logiciel. Les informations extraites peuvent être utilisées pour rechercher des candidats en fonction de critères spécifiques, comme les langues parlées ou les métiers exercés."
+  },
+  {
+    "title": "PAIE",
+    "start": 1623,
+    "end": 1643,
+    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"PAIE\" de BESTT, la gestion de la carte BTP est automatisée via EDI. Cela signifie que les utilisateurs n'ont plus besoin d'envoyer manuellement des fichiers à l'URSSAF. Le processus est entièrement automatisé et se fait en temps réel, contrat par contrat. Il suffit simplement de renseigner le numéro de la carte BTP de l'intérimaire."
+  },
+  {
+    "title": "SALARIES",
+    "start": 1643,
+    "end": 1953,
+    "summary": "Voici un résumé en 3-4 phrases de la section \"SALARIES\" :\n\nDans cette section, on peut consulter les informations relatives à l'intérimaire, telles que ses qualifications, son expérience et ses disponibilités. On peut également gérer les documents de l'intérimaire, tels que sa carte vitale, son identité et son CV, ainsi que les échanges avec lui. Les contrats signés par l'intérimaire sont également accessibles dans cette section. Enfin, on peut envoyer directement des informations à l'intérimaire via MyPixSeed ou d'autres solutions externes."
+  },
+  {
+    "title": "CONTRATS",
+    "start": 1953,
+    "end": 2163,
+    "summary": "Voici un résumé du passage de la section \"CONTRATS\" en 3-4 phrases :\n\nDans cette démonstration, l'utilisateur crée un contrat pour une intérimaire nommée Green Dominique chez le groupe Accor. Il définit les détails du contrat, tels que les dates, les horaires et le salaire, et utilise des fonctionnalités telles que la calculatrice de période d'essai et d'aménagement. L'utilisateur peut également ajouter des unités ou des primes soumises ou non soumises, ainsi que des trajets prévus. Une fois le contrat créé, l'utilisateur peut le valider et l'envoyer automatiquement à l'intérimaire et au client via différents canaux de communication."
+  },
+  {
+    "title": "ENTREPRISES",
+    "start": 2163,
+    "end": 2223,
+    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"ENTREPRISES\" de BESTT, il est possible d'éditer des factures pour plusieurs clients à la fois. Après avoir sélectionné une date de facturation (dans cet exemple, le 30 septembre), l'utilisateur peut générer toutes les factures et les imprimer ou les envoyer par e-mail aux destinataires concernés. Les factures sont ensuite exportées pour être transmises au comptable, qui n'a plus besoin de saisir les informations. Enfin, il est également possible de procéder au paiement des intérimaires via la plateforme."
+  },
+  {
+    "title": "SALARIES",
+    "start": 2223,
+    "end": 2443,
+    "summary": "Voici un résumé du passage en 3-4 phrases :\n\nDans la section \"SALARIES\" de BESTT, il est possible de gérer les payes des intérimaires, y compris le prélèvement à la source et la mutuelle. Les payes peuvent être générées automatiquement après avoir saisi les heures travaillées et les contrats. Il est également possible d'envoyer les bulletins de paie par mail de manière cryptée pour respecter l'RGPD, ainsi que de créer un fichier de virement au format CEPA pour le déposer sur l'interface web de la banque. Enfin, BESTT permet de générer des statistiques et de contrôler les erreurs avant d'envoyer les payes et les factures."
+  },
+  {
+    "title": "ENTREPRISES",
+    "start": 2443,
+    "end": 2610,
+    "summary": "Voici un résumé du passage de la section \"ENTREPRISES\" :\n\nDans cette section, il est possible de gérer les paiements des clients et de relancer automatiquement ceux qui ont des factures impayées. Le logiciel permet également de consulter l'historique des paiements et de retrouver facilement les informations relatives à un client. De plus, la fonctionnalité de relance automatique envoie un mail et un SMS au client avec les factures impayées et le solde à payer, ainsi que les coordonnées de l'agence."
+  }
+]

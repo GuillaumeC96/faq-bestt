@@ -1,0 +1,14 @@
+{
+  "videos": [
+    {
+      "video_id": "ajdpySLilw4",
+      "name": "BESTT_demo",
+      "json": "BESTT_demo.json",
+      "embeddings": "BESTT_demo_embeddings.pkl",
+      "chapters": "BESTT_demo_chapters.json",
+      "cut_start": 993,
+      "cut_end": 2610
+    }
+  ],
+  "current": "ajdpySLilw4"
+}
